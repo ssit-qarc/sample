@@ -1,0 +1,22 @@
+<!doctype html><meta charset="utf-8"><title>props style board</title>
+<canvas id="c"></canvas>
+<script src="core.js"></script><script src="studio.js"></script><script src="cels.js"></script><script src="materials.js"></script>
+<script src="fonts.js"></script><script src="cat.js"></script><script src="props.js"></script>
+<script>
+'use strict';
+function board(c) {
+  paper(c, COL.paper, null, 7);
+  pencil(c, 'table', [[-20, 900], [700, 897], [1400, 902], [1960, 899]], { w: 2.2, al: .55 });
+  drawBox(c, boxGeom({ x: 250, y: 420 }), { open: 0 });
+  drawBox(c, boxGeom({ x: 700, y: 420 }), { open: .9 });
+  drawBox(c, boxGeom({ x: 1150, y: 420 }), { xray: 1, inside: g => { drawCat(g, 'sit', POSE.sit, { x: 1150, y: 410, scale: .62, al: .5 }); } });
+  drawCoin(c, 1520, 330, { angle: 0 }); drawCoin(c, 1640, 330, { angle: 1.1 }); drawCoin(c, 1760, 330, { angle: 2.6 }); drawCoin(c, 1640, 470, { spin: 1, angle: 3 });
+  drawYarn(c, 150, 890, { seed: 3 }); strand(c, 'lab', [[190, 870], [330, 890], [470, 895], [610, 870]]); drawYarn(c, 650, 890, { seed: 5, rot: 1 });
+  drawCat(c, 'pat', POSE.pat, { x: 930, y: 900, scale: .95 });
+  drawPot(c, 1330, 900); drawSapling(c, 1330, 772, 1); drawCan(c, 1600, 600, -.35);
+  caption(c, 'There’s a cat in this box.', 960, 610, { size: 68 });
+  caption(c, 'Quantum says: both. Until you look.', 960, 700, { size: 56, color: COL.navy, weight: 700 });
+  c.fillStyle = COL.graphite; c.font = '600 26px Poppins'; c.textAlign = 'left'; c.fillText('Department of CSE · SSIT presents', 40, 60);
+}
+defineFilm({ palette: { ...PALETTES.pencilMinimal, paper: COL.paper }, format: { ar: '16:9', width: 1920 }, timeline: [{ name: 'board', dur: 1 / 24, fn: board }] });
+</script>

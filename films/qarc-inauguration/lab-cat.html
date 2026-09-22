@@ -1,0 +1,16 @@
+<!doctype html><meta charset="utf-8"><title>cat model sheet</title>
+<canvas id="c"></canvas>
+<script src="core.js"></script><script src="studio.js"></script><script src="cels.js"></script><script src="materials.js"></script>
+<script src="fonts.js"></script><script src="cat.js"></script>
+<script>
+'use strict';
+// Development model sheet: every key at delivery scale, plus a 240 px row.
+const LAB_KEYS = Object.keys(POSE).filter(k => !k.endsWith('Blink'));
+function sheet(c) {
+  paper(c, COL.paper, null, 7);
+  const cols = 7, cw = W / cols;
+  LAB_KEYS.forEach((k, n) => { const col = n % cols, row = Math.floor(n / cols), x = col * cw + cw * .42, y = 300 + row * 330;
+    drawCat(c, k, POSE[k], { x, y, scale: .72 }); c.fillStyle = COL.graphite; c.font = '600 22px Poppins'; c.textAlign = 'center'; c.fillText(k, x + 20, y + 30); });
+}
+defineFilm({ palette: { ...PALETTES.pencilMinimal, paper: COL.paper }, format: { ar: '16:9', width: 1920 }, timeline: [{ name: 'sheet', dur: 1 / 24, fn: sheet }] });
+</script>
