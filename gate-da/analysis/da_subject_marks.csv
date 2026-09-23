@@ -1,0 +1,31 @@
+year,subject,questions,marks
+2024,General Aptitude,10,15
+2024,Probability and Statistics,9,15
+2024,Linear Algebra,6,10
+2024,Calculus and Optimization,5,8
+2024,"Programming, Data Structures and Algorithms",13,20
+2024,Database Management and Warehousing,5,7
+2024,Machine Learning,10,15
+2024,AI,7,10
+2024,DA subtotal,55,85
+2024,TOTAL,65,100
+2025,General Aptitude,10,15
+2025,Probability and Statistics,12,19
+2025,Linear Algebra,8,12
+2025,Calculus and Optimization,7,11
+2025,"Programming, Data Structures and Algorithms",9,14
+2025,Database Management and Warehousing,7,11
+2025,Machine Learning,8,12
+2025,AI,4,6
+2025,DA subtotal,55,85
+2025,TOTAL,65,100
+2026,General Aptitude,10,15
+2026,Probability and Statistics,13,21
+2026,Linear Algebra,5,8
+2026,Calculus and Optimization,2,2
+2026,"Programming, Data Structures and Algorithms",9,14
+2026,Database Management and Warehousing,11,18
+2026,Machine Learning,9,14
+2026,AI,6,8
+2026,DA subtotal,55,85
+2026,TOTAL,65,100
