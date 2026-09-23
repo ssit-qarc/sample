@@ -1,0 +1,79 @@
+===== Page 1 of 2 =====
+ 
+Page 1 of 2 
+ 
+Answer Key for Statistics (ST) 
+Q. No. Session Question Type Section Key/Range Marks 
+1 3 MCQ GA B 1 
+2 3 MCQ GA C 1 
+3 3 MCQ GA C 1 
+4 3 MCQ GA D 1 
+5 3 MCQ GA C 1 
+6 3 MCQ GA B 2 
+7 3 MCQ GA D 2 
+8 3 MCQ GA A 2 
+9 3 MCQ GA A 2 
+10 3 MCQ GA C 2 
+11 3 MCQ ST B 1 
+12 3 MCQ ST C 1 
+13 3 MCQ ST C 1 
+14 3 MCQ ST A 1 
+15 3 MCQ ST A 1 
+16 3 MCQ ST B 1 
+17 3 MCQ ST D 1 
+18 3 MCQ ST D 1 
+19 3 MCQ ST A 1 
+20 3 MCQ ST A 1 
+21 3 MCQ ST D 1 
+22 3 MCQ ST B 1 
+23 3 MSQ ST A;D 1 
+24 3 NAT ST 1 to 1 1 
+25 3 NAT ST 4 to 4 1 
+26 3 NAT ST 2 to 2 1 
+27 3 NAT ST 64 to 64 1 
+28 3 NAT ST 11 to 11 1 
+29 3 NAT ST 0 to 0 1 
+30 3 NAT ST 3 to 3 1 
+31 3 NAT ST 8.91 to 8.97 1 
+32 3 NAT ST 4 to 4 1 
+33 3 NAT ST 0.42 to 0.48 1 
+34 3 NAT ST 225 to 225 1 
+35 3 NAT ST 1.30 to 1.36 1 
+36 3 MCQ ST D 2 
+37 3 MCQ ST C 2 
+38 3 MCQ ST C 2 
+
+===== Page 2 of 2 =====
+ 
+Page 2 of 2 
+ 
+Q. No. Session Question Type Section Key/Range Marks 
+39 3 MCQ ST B 2 
+40 3 MCQ ST A 2 
+41 3 MCQ ST A 2 
+42 3 MCQ ST A 2 
+43 3 MCQ ST B 2 
+44 3 MCQ ST C 2 
+45 3 MCQ ST C 2 
+46 3 MCQ ST A 2 
+47 3 MCQ ST A 2 
+48 3 MCQ ST D 2 
+49 3 MSQ ST A;B;D 2 
+50 3 MSQ ST B;C 2 
+51 3 MSQ ST B;D 2 
+52 3 MSQ ST A;D 2 
+53 3 MSQ ST C;D 2 
+54 3 MSQ ST B;C 2 
+55 3 MSQ ST B;D 2 
+56 3 MSQ ST C;D 2 
+57 3 MSQ ST A;B 2 
+58 3 MSQ ST B;D 2 
+59 3 MSQ ST B;D 2 
+60 3 MSQ ST A;C 2 
+61 3 NAT ST 1 to 1 2 
+62 3 NAT ST 144 to 144 2 
+63 3 NAT ST 0.47 to 0.53 2 
+64 3 NAT ST 6 to 6 2 
+65 3 NAT ST 31 to 31 2 
+ 
+ 

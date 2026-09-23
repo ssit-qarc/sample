@@ -1,0 +1,1458 @@
+===== Page 1 of 42 =====
+ 
+ 
+                                                                                                                                         Page 1 
+ 
+GATE 2022 General Aptitude (GA) 
+Q.1 – Q.5  Carry ONE mark each. 
+ 
+Q.1 Mr. X speaks _________ Japanese _________ Chinese. 
+(A) neither / or 
+(B) either / nor 
+(C) neither / nor  
+(D) also / but 
+  
+ 
+Q.2 A sum of money is to be distributed among P, Q, R, and S in the              
+proportion 5 : 2 : 4 : 3, respectively. 
+If R gets  ₹ 1000 more than S, what is the share of Q (in ₹)? 
+(A) 500 
+(B) 1000 
+(C) 1500 
+(D) 2000 
+  
+
+===== Page 2 of 42 =====
+ 
+ 
+                                                                                                                                         Page 2 
+ 
+Q.3 A trapezium has vertices marked as P, Q, R and S (in that order anticlockwise). 
+The side PQ is parallel to side SR.  
+Further, it is given that, PQ = 11 cm, QR = 4 cm, RS = 6 cm and SP = 3 cm.  
+What is the shortest distance between PQ and SR (in cm)? 
+(A) 1.80 
+(B) 2.40 
+(C) 4.20 
+(D) 5.76 
+  
+
+===== Page 3 of 42 =====
+ 
+ 
+                                                                                                                                         Page 3 
+ 
+  
+ 
+Q.4 The figure shows a grid formed by a collection of unit squares. The unshaded 
+unit square in the grid represents a hole. 
+ 
+What is the maximum number of squares without a “hole in the interior” that 
+can be formed within the 4 × 4 grid using the unit squares as building blocks? 
+(A) 15 
+(B) 20 
+(C) 21 
+(D) 26 
+  
+ 
+ 
+ 
+  
+
+
+===== Page 4 of 42 =====
+ 
+ 
+                                                                                                                                         Page 4 
+ 
+Q.5 An art gallery engages a security guard to ensure that the items displayed are 
+protected. The diagram below represents the plan of the gallery where the 
+boundary walls are opaque. The location the security guard posted is identified 
+such that all the inner space (shaded region in the plan) of the gallery is within 
+the line of sight of the security guard.  
+If the security guard does not move around the posted location and has a 360o 
+view, which one of the following correctly represents the set of ALL possible 
+locations among the locations P, Q, R and S, where the security guard can be 
+posted to watch over the entire inner space of the gallery.  
+ 
+(A) P and Q  
+(B) Q 
+(C) Q and S 
+(D) R and S  
+ 
+  
+
+
+===== Page 5 of 42 =====
+ 
+ 
+                                                                                                                                         Page 5 
+ 
+ 
+Q. 6 – Q. 10  Carry TWO marks each. 
+ 
+ 
+ 
+Q.6 Mosquitoes pose a threat to human health. Controlling mosquitoes using 
+chemicals may have undesired consequences. In Florida, authorities have used 
+genetically modified mosquitoes to control the overall mosquito population. It 
+remains to be seen if this novel approach has unforeseen consequences.  
+Which one of the following is the correct logical inference based on the 
+information in the above passage? 
+(A) Using chemicals to kill mosquitoes is better than using genetically modified 
+mosquitoes because genetic engineering is dangerous 
+(B) Using genetically modified mosquitoes is better than using chemicals to kill 
+mosquitoes because they do not have any side effects 
+(C) Both using genetically modified mosquitoes and chemicals have undesired 
+consequences and can be dangerous 
+(D) Using chemicals to kill mosquitoes may have undesired consequences but it is 
+not clear if using genetically modified mosquitoes has any negative 
+consequence 
+ 
+ 
+  
+
+===== Page 6 of 42 =====
+ 
+ 
+                                                                                                                                         Page 6 
+ 
+ 
+ 
+ 
+Q.7 Consider the following inequalities.  
+(i) 2𝑥 − 1 > 7 
+(ii) 2𝑥 − 9 < 1            
+Which one of the following expressions below satisfies the above two 
+inequalities? 
+(A) 𝑥 ≤ −4 
+(B) −4 < 𝑥 ≤  4 
+(C) 4 < 𝑥 < 5 
+(D) 𝑥 ≥  5 
+ 
+ 
+ 
+ 
+Q.8 
+Four points P (0, 1), Q(0, −3), R(−2, −1),  and S (2, −1) represent the vertices 
+of a quadrilateral.  
+What is the area enclosed by the quadrilateral?    
+(A) 4 
+(B) 4ඥ2 
+(C) 8 
+(D) 8√2 
+
+===== Page 7 of 42 =====
+ 
+ 
+                                                                                                                                         Page 7 
+ 
+ 
+ 
+ 
+ 
+Q.9 
+ 
+In a class of five students P, Q, R, S and T, only one student is known to have 
+copied in the exam. The disciplinary committee has investigated the situation 
+and recorded the statements from the students as given below.  
+Statement of P: R has copied in the exam. 
+Statement of Q: S has copied in the exam. 
+Statement of R: P did not copy in the exam. 
+Statement of S: Only one of us is telling the truth. 
+Statement of T: R is telling the truth. 
+The investigating team had authentic information that S never lies.  
+Based on the information given above, the person who has copied in the exam is 
+(A) R 
+(B) P 
+(C) Q 
+(D) T 
+ 
+  
+
+===== Page 8 of 42 =====
+ 
+ 
+                                                                                                                                         Page 8 
+ 
+ 
+ 
+Q.10 Consider the following square with the four corners and the 
+center marked as P, Q, R, S and T respectively. 
+Let X, Y and Z represent the following operations: 
+X: rotation of the square by 180 degree with respect to the 
+S-Q axis.  
+Y: rotation of the square by 180 degree with respect to the P-R axis.  
+Z: rotation of the square by 90 degree clockwise with respect to the axis 
+perpendicular, going into the screen and passing through the point T. 
+Consider the following three distinct sequences of operation (which are applied 
+in the left to right order). 
+(1) XYZZ 
+(2) XY 
+(3) ZZZZ 
+Which one of the following statements is correct as per the information 
+provided above?  
+(A) The sequence of operations (1) and (2) are equivalent 
+(B) The sequence of operations (1) and (3) are equivalent 
+(C) The sequence of operations (2) and (3) are equivalent 
+(D) The sequence of operations (1), (2) and (3) are equivalent 
+ 
+
+
+===== Page 9 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 9 
+ 
+ 
+Q.11 – Q.35 Carry ONE mark Each 
+Q.11 Let 𝑴 be a 2 × 2 real matrix such that (𝑰 + 𝑴)ିଵ = 𝑰 − 𝛼𝑴, where 𝛼 is a non-zero 
+real number and 𝑰 is the 2 × 2 identity matrix. If the trace of the matrix 𝑴 is 3, then 
+the value of 𝛼 is  
+  
+(A)   3
+4 
+(B)   1
+3 
+(C)   1
+2 
+(D)   1
+4 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 10 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 10 
+ 
+Q.12 Let {𝑋(𝑡)}௧ஹ଴ be a linear pure death process with death rate                                               
+𝜇௜ = 5𝑖,    𝑖 = 0, 1, … , 𝑁,  𝑁 ≥ 1 . Suppose that 𝑝௜(𝑡) = 𝑃(𝑋(𝑡) = 𝑖). Then the 
+system of forward Kolmogorov’s equations is 
+  
+(A) 𝑑𝑝௜(𝑡)
+𝑑𝑡 = 5(𝑖 + 1)𝑝௜ାଵ(𝑡) + 5𝑖 𝑝௜(𝑡)                and                  𝑑𝑝ே(𝑡)
+𝑑𝑡 = 5𝑁𝑝ே(𝑡)        
+for 𝑖 = 0, 1, 2, … , 𝑁 − 1 with initial conditions 𝑝௜(0) = 0 for 𝑖 ≠ 𝑁, and 𝑝ே(0) = 1  
+(B) 𝑑𝑝௜(𝑡)
+𝑑𝑡 = 5(𝑖 + 1)𝑝௜ାଵ(𝑡) − 5𝑖 𝑝௜(𝑡)                and               𝑑𝑝ே(𝑡)
+𝑑𝑡 = −5𝑁𝑝ே(𝑡)    
+for 𝑖 = 0, 1, 2, … , 𝑁 − 1 with initial conditions 𝑝௜(0) = 0 for 𝑖 ≠ 𝑁, and 𝑝ே(0) = 1  
+(C) 𝑑𝑝௜(𝑡)
+𝑑𝑡 = 5(𝑖 + 1)𝑝௜ାଵ(𝑡) + 5𝑖 𝑝௜(𝑡)                and                  𝑑𝑝ே(𝑡)
+𝑑𝑡 = 5𝑁𝑝ே(𝑡)        
+for 𝑖 = 0, 1, 2, … , 𝑁 − 1 with initial conditions 𝑝௜(0) = 1 for 𝑖 ≠ 𝑁, and 𝑝ே(0) = 0  
+(D) 𝑑𝑝௜(𝑡)
+𝑑𝑡 = 5(𝑖 + 1)𝑝௜ାଵ(𝑡) − 5𝑖 𝑝௜(𝑡)                and               𝑑𝑝ே(𝑡)
+𝑑𝑡 = −5𝑁𝑝ே(𝑡)    
+for 𝑖 = 0, 1, 2, … , 𝑁 − 1 with initial conditions 𝑝௜(0) = 1 for 𝑖 ≠ 𝑁, and 𝑝ே(0) = 0 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 11 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 11 
+ 
+Q.13 Let 𝑆ଶ be the variance of a random sample of size 𝑛 > 1 from a normal population 
+with an unknown mean 𝜇 and an unknown finite variance  𝜎ଶ > 0. Consider the 
+following statements: 
+(I) 𝑆ଶ is an unbiased estimator of 𝜎ଶ, and 𝑆 is an unbiased estimator of 𝜎. 
+(II) ቀ
+௡ିଵ
+௡ ቁ 𝑆ଶ is a maximum likelihood estimator of 𝜎ଶ, and ට
+௡ିଵ
+௡  𝑆 is a 
+maximum likelihood estimator of 𝜎. 
+ Which of the above statements is/are true? 
+  
+(A) (I) only 
+(B) (II) only 
+(C) Both (I) and (II)  
+(D) Neither (I) nor (II) 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 12 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 12 
+ 
+Q.14 Let 𝑓: ℝଶ → ℝ be a function defined by 
+𝑓(𝑥, 𝑦) = ቐ
+𝑥ଶ𝑦
+𝑥ଶ + 𝑦ଶ , (𝑥, 𝑦) ≠ (0,0),
+       0,                  (𝑥, 𝑦) = (0,0).  
+ 
+Then which one of the following statements is true? 
+  
+(A) 𝑓 is bounded and 
+డ௙
+డ௫ is unbounded on ℝଶ 
+(B) 𝑓 is unbounded and 
+డ௙
+డ௫ is bounded on ℝଶ 
+(C) Both 𝑓 and 
+డ௙
+డ௫ are unbounded on ℝଶ 
+(D) Both 𝑓 and 
+డ௙
+డ௫ are bounded on ℝଶ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 13 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 13 
+ 
+Q.15 Let 𝑋ଵ, 𝑋ଶ, … , 𝑋௡ be a random sample from a distribution with cumulative 
+distribution function 𝐹(𝑥). Let the empirical distribution function of the sample be 
+𝐹௡(𝑥). The classical Kolmogorov-Smirnov goodness of fit test statistic is given by  
+𝑇௡ = √𝑛 𝐷௡ =  √𝑛 sup
+ିஶழ௫ழஶ
+|𝐹௡(𝑥) − 𝐹(𝑥)|. 
+Consider the following statements: 
+(I) The distribution of 𝑇௡ is the same for all continuous underlying 
+distribution functions 𝐹(𝑥). 
+(II) 𝐷௡ converges to 0 almost surely, as 𝑛 → ∞. 
+Which of the above statements is/are true? 
+  
+(A) (I) only 
+(B) (II) only 
+(C) Both (I) and (II) 
+(D) Neither (I) nor (II) 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 14 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 14 
+ 
+Q.16 Consider the following transition matrices 𝑷𝟏 and 𝑷𝟐 of two Markov chains: 
+𝑷𝟏 = ൥
+1 0 0
+1/3 1/2 1/6
+0 0 1
+൩             and              𝑷𝟐 = ൥
+1/6 1/3 1/2
+1/4 0 3/4
+0 1 0
+൩. 
+Then which one of the following statements is true? 
+  
+(A) Both 𝑷𝟏 and 𝑷𝟐 have unique stationary distributions 
+(B) 𝑷𝟏 has a unique stationary distribution, but 𝑷𝟐 has infinitely many stationary 
+distributions 
+(C) 𝑷𝟏 has infinitely many stationary distributions, but 𝑷𝟐 has a unique stationary 
+distribution 
+(D) Neither 𝑷𝟏 nor 𝑷𝟐 has unique stationary distribution 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 15 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 15 
+ 
+Q.17 Let 𝑿𝟏, 𝑿𝟐, … , 𝑿𝟐𝟎 be a random sample of size 20 from Ν଺(𝝁, 𝚺), with            
+det(𝚺) ≠ 0, and suppose both 𝝁 and 𝚺 are unknown. Let 
+𝑿ഥ = 1
+20 ෍ 𝑿௜                        and                   𝑺 = 1
+19
+ଶ଴
+௜ୀଵ
+෍(𝑿௜ − 𝑿ഥ)
+ଶ଴
+௜ୀଵ
+(𝑿௜ − 𝑿ഥ)். 
+Consider the following two statements: 
+(I) The distribution of 19 𝑺 is 𝑊଺(19, 𝚺) (Wishart distribution of order 6 
+with 19 degrees of freedom). 
+(II) The distribution of (𝑿𝟑 − 𝝁)்𝑺ିଵ(𝑿𝟑 − 𝝁) is 𝜒଺
+ଶ (Chi-square 
+distribution with 6 degrees of freedom). 
+Then which of the above statements is/are true? 
+  
+(A) (I) only 
+(B) (II) only 
+(C) Both (I) and (II) 
+(D) Neither (I) nor (II) 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 16 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 16 
+ 
+Q.18 Let 𝑋ଵ, 𝑋ଶ, … , 𝑋ଵ଼ be a random sample from the distribution 
+𝑓(𝑥;  𝜃) = ቐ
+2𝑥
+𝜃 𝑒ି௫మ/ఏ, 𝑥 > 0,
+ 
+0,                        𝑥 ≤ 0.
+  
+Let 𝜒ఈ,௡ ଶ denote the value of a Chi-square random variable 𝑌 with 𝑛 degrees of 
+freedom such that 𝑃൫𝑌 > 𝜒ఈ,௡ ଶ ൯ = 𝛼. If 𝑥ଵ, 𝑥ଶ, … ,𝑥ଵ଼ is a realization of this random 
+sample, then, based on the sufficient statistic  ∑ 𝑋௜
+ଶଵ଼
+௜ୀଵ , which one of the following 
+is a 98% confidence interval for 𝜃? 
+  
+(A) 
+ቆ2 ∑ 𝑥௜
+ଶଵ଼
+௜ୀଵ
+𝜒଴.଴ଵ,ଷ଺ 
+ଶ  , 2 ∑ 𝑥௜
+ଶଵ଼
+௜ୀଵ
+𝜒଴.ଽଽ,ଷ଺ 
+ଶ ቇ 
+(B) 
+ቆ2 ∑ 𝑥௜
+ଶଵ଼
+௜ୀଵ
+𝜒଴.଴ଵ,ଵ଼ 
+ଶ  , 2 ∑ 𝑥௜
+ଶଵ଼
+௜ୀଵ
+𝜒଴.ଽଽ,ଵ଼ 
+ଶ ቇ 
+(C) 
+ቆ∑ 𝑥௜
+ଶଵ଼
+௜ୀଵ
+𝜒଴.଴ଵ,ଷ଺ 
+ଶ  , ∑ 𝑥௜
+ଶଵ଼
+௜ୀଵ
+𝜒଴.ଽଽ,ଷ଺ 
+ଶ ቇ 
+(D) 
+ቆ∑ 𝑥௜
+ଶଵ଼
+௜ୀଵ
+𝜒଴.଴ଵ,ଵ଼ 
+ଶ  , ∑ 𝑥௜
+ଶଵ଼
+௜ୀଵ
+𝜒଴.ଽଽ,ଵ଼ 
+ଶ ቇ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 17 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 17 
+ 
+Q.19 Let 𝑋ଵ, 𝑋ଶ, … , 𝑋௡ be a random sample from a population 𝑓(𝑥; 𝜃), where 𝜃 is a 
+parameter. Then which one of the following statements is NOT true? 
+  
+(A) ∑ 𝑋௜
+௡
+௜ୀଵ  is a complete and sufficient statistic for 𝜃, if  
+𝑓(𝑥; 𝜃) = 𝑒ିఏ𝜃௫
+𝑥!  ,   𝑥 = 0, 1, 2, … ,   and  𝜃 > 0 
+     
+(B) (∑ 𝑋௜
+௡
+௜ୀଵ , ∑ 𝑋௜
+ଶ௡
+௜ୀଵ ) is a complete and sufficient statistic for 𝜃, if  
+ 
+𝑓(𝑥; 𝜃) =  1
+√2𝜋 𝜃
+𝑒ି ଵ
+ଶఏమ(௫ିఏ)మ
+, −∞ < 𝑥 < ∞,   𝜃 > 0 
+(C) 𝑓(𝑥; 𝜃) = 𝜃𝑥ఏିଵ, 0 < 𝑥 < 1, 𝜃 > 0 has monotone likelihood ratio property in 
+∏ 𝑋௜
+௡
+௜ୀଵ  
+(D) 𝑋(௡) − 𝑋(ଵ) is ancillary statistic for 𝜃 if 𝑓(𝑥; 𝜃) = 1, 0 <  𝜃 < 𝑥 < 𝜃 + 1, where      
+𝑋(ଵ) = min{𝑋ଵ, 𝑋ଶ, … , 𝑋௡} and 𝑋(௡) = max{𝑋ଵ, 𝑋ଶ, … , 𝑋௡} 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 18 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 18 
+ 
+Q.20 A random sample 𝑋ଵ, 𝑋ଶ, … , 𝑋଺ of size 6 is taken from a Bernoulli distribution with 
+the parameter 𝜃. The null hypothesis 𝐻଴: 𝜃 =
+ଵ
+ଶ  is to be tested against the alternative 
+hypothesis 𝐻ଵ: 𝜃 >
+ଵ
+ଶ , based on the statistic 𝑌 = ∑ 𝑋௜
+଺
+௜ୀଵ . If the value of 𝑌 
+corresponding to the observed sample values is 4, then the 𝑝-value of the test 
+statistic is  
+  
+(A)   21
+32 
+(B)   9
+64 
+(C)   11
+32 
+(D)   7
+64 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 19 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 19 
+ 
+Q.21 Let {𝑎௡}௡ୀଵ
+ஶ  be a sequence of positive real numbers satisfying  
+8
+𝑎௡ାଵ
+= 7
+𝑎௡
++ 𝑎௡
+ଶ
+343  ,           𝑛 ≥ 1 
+with 𝑎ଵ = 3 and 𝑎௡ < 7 for all 𝑛 ≥ 2. 
+Consider the following statements: 
+(I)  {𝑎௡} is monotonically increasing. 
+(II)  {𝑎௡} converges to a value in the interval [3, 7]. 
+Then which of the above statements is/are true? 
+  
+(A) (I) only 
+ (B) (II) only 
+(C) Both (I) and (II) 
+(D) Neither (I) nor (II) 
+  
+  
+Q.22 Let 𝑴 be any square matrix of arbitrary order 𝑛 such that 𝑴ଶ = 𝟎 and the nullity 
+of 𝑴 is 6. Then the maximum possible value of 𝑛 (in integer) is ______ 
+  
+  
+ 
+ 
+
+===== Page 20 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 20 
+ 
+Q.23 Consider the usual inner product in ℝସ. Let 𝒖 ∈ ℝସ be a unit vector orthogonal to 
+the subspace 
+𝑆 = {(𝑥ଵ, 𝑥ଶ, 𝑥ଷ, 𝑥ସ)் ∈ ℝସ| 𝑥ଵ + 𝑥ଶ +  𝑥ଷ +  𝑥ସ = 0}. 
+If 𝒗 = (1, −2, 1, 1)், and the vectors 𝒖 and 𝒗 − 𝛼𝒖, 𝛼 ∈ ℝ, are orthogonal, then the 
+value of 𝛼ଶ (rounded off to two decimal places) is equal to ______ 
+  
+  
+Q.24 Let {𝐵(𝑡)}௧ஹ଴  be a standard Brownian motion and let Φ(⋅) be the cumulative 
+distribution function of the standard normal distribution. If 
+𝑃 ቀ൫𝐵(2) + 2𝐵(3)൯ > 1ቁ = 1 − Φ൬ 1
+√𝛼൰ , 𝛼 > 0, 
+then the value of 𝛼 (in integer) is equal to ______ 
+ 
+  
+  
+Q.25 Let 𝑋 and 𝑌 be two independent exponential random variables  with 𝐸(𝑋ଶ) =
+ଵ
+ଶ  and 
+𝐸(𝑌ଶ) =
+ଶ
+ଽ . Then 𝑃(𝑋 < 2𝑌) (rounded off to two decimal places)  is equal                
+to  ______ 
+  
+  
+Q.26 Let 𝑋 be a random variable with the probability mass function 𝑝௑(𝑥) = ቀ
+ଷ
+ସቁ
+௫ିଵ
+ቀ
+ଵ
+ସቁ ,
+𝑥 = 1, 2, 3, … . Then the value of 
+෍ 𝑃(𝑛 < 𝑋 ≤ 𝑛 + 3)
+ஶ
+௡ୀ଴
+ 
+(rounded off to two decimal places) is equal to _______ 
+
+===== Page 21 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 21 
+ 
+  
+  
+Q.27 Let 𝑋௜, 𝑖 = 1, 2, … , 𝑛, be 𝑖. 𝑖. 𝑑. random variables from a normal distribution with 
+mean 1 and variance 4. Let  𝑆௡ = 𝑋ଵ
+ଶ + 𝑋ଶ
+ଶ + ⋯ +𝑋௡ଶ. If 𝑉𝑎𝑟(𝑆௡) denotes the 
+variance of 𝑆௡, then the value of  
+lim
+௡→ஶ
+൭𝑉𝑎𝑟(𝑆௡)
+𝑛 − ቆ𝐸(𝑆௡)
+𝑛 ቇ
+ଶ
+൱
+ 
+ 
+(in integer) is equal to _______ 
+  
+  
+Q.28 At a telephone exchange, telephone calls arrive independently at an average rate of 
+1 call per minute, and the number of telephone calls follows a Poisson distribution. 
+Five time intervals, each of duration 2 minutes, are chosen at random. Let 𝑝 denote 
+the probability that in each of the five time intervals at most 1 call arrives at the 
+telephone exchange. Then 𝑒ଵ଴𝑝 (in integer) is equal to _______ 
+  
+  
+Q.29 Let 𝑋 be a random variable with the probability density function  
+𝑓(𝑥) = ൝
+𝑐(𝑥 − [𝑥]), 0 < 𝑥 < 3,
+ 
+0,                          elsewhere,
+ 
+where 𝑐 is a constant and [𝑥] denotes the greatest integer less than or equal to 𝑥. If 
+𝐴 = ቂ
+ଵ
+ଶ , 2ቃ, then 𝑃(𝑋 ∈ 𝐴) (rounded off to two decimal places) is equal to ______ 
+  
+  
+
+===== Page 22 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 22 
+ 
+ 
+Q.30 Let  𝑋 and 𝑌 be two random variables such that the moment generating function of 
+𝑋 is 𝑀(𝑡) and the moment generating function of 𝑌 is  
+𝐻(𝑡) = ൬3
+4 𝑒ଶ௧ + 1
+4൰ 𝑀(𝑡), 
+where 𝑡 ∈ (−ℎ, ℎ), ℎ > 0. If the mean and the variance of 𝑋 are 
+ଵ
+ଶ and 
+ଵ
+ସ , 
+respectively, then the variance of 𝑌 (in integer) is equal to _______ 
+  
+  
+Q.31 Let 𝑋௜, 𝑖 = 1, 2, … 𝑛,  be 𝑖. 𝑖. 𝑑. random variables with the probability density 
+function 
+𝑓௑(𝑥) = ቐ
+ଵ
+√ଶ ୻ቀభ
+లቁ
+ 𝑥ିହ/଺  𝑒ି௫/଼ ,     0 < 𝑥 < ∞,
+ 
+0,                                      elsewhere,
+      
+where Γ(⋅) denotes the gamma function. Also, let 𝑋ത௡ =
+ଵ
+௡ (𝑋ଵ + 𝑋ଶ + ⋯ +𝑋௡). If 
+√𝑛 ቀ𝑋ത௡ (3 −𝑋ത௡) −
+ଶ଴
+ଽ ቁ   converges to Ν(0, 𝜎ଶ) in distribution, then 𝜎ଶ (rounded 
+off to two decimal places) is equal to _______ 
+  
+  
+Q.32 Consider a Poisson process {𝑋(𝑡), 𝑡 ≥ 0}. The probability mass function of 𝑋(𝑡) is 
+given by   
+𝑓(𝑡) = 𝑒ିସ௧ (4𝑡)௡
+ 𝑛!  , 𝑛 = 0, 1, 2, … 
+If 𝐶(𝑡ଵ, 𝑡ଶ) is the covariance function of the Poisson process, then the value of 
+𝐶(5, 3) (in integer) is equal to ______ 
+  
+
+===== Page 23 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 23 
+ 
+  
+Q.33 A random sample of size 4 is taken from the distribution with the probability density 
+function 
+𝑓(𝑥; 𝜃) = ൝
+2(𝜃 − 𝑥)
+𝜃ଶ  , 0 < 𝑥 <  𝜃,
+ 0,                         elsewhere.
+   
+If the observed sample values are 6, 5, 3, 6, then the method of moments estimate 
+(in integer) of the parameter 𝜃, based on these observations, is ______ 
+  
+  
+Q.34 A company sometimes stops payments of quarterly dividends. If the company pays 
+the quarterly dividend, the probability that the next one will be paid is 0.7. If the 
+company stops the quarterly dividend, the probability that the next quarterly 
+dividend will not be paid is   0.5. Then the probability (rounded off to three 
+decimal places) that the company will not pay quarterly dividend in the long run   
+is ______ 
+  
+  
+Q.35 Let 𝑋ଵ, 𝑋ଶ, … , 𝑋଼ be a random sample taken from a distribution with the probability 
+density function  
+𝑓௑(𝑥) = ቐ
+𝑥
+8  ,       0 < 𝑥 < 4,
+ 
+0,        elsewhere.
+ 
+Let 𝐹଼(𝑥) be the empirical distribution function of the sample. If 𝛼 is the variance 
+of 𝐹଼(2), then 128𝛼 (in integer) is equal to ______ 
+  
+  
+
+===== Page 24 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 24 
+ 
+ 
+Q.36 – Q.65 Carry TWO marks Each 
+Q.36 Let 𝑴 be a 3 × 3 real symmetric matrix with eigenvalues −1, 1, 2 and the 
+corresponding unit eigenvectors 𝒖, 𝒗, 𝒘, respectively. Let 𝒙 and 𝒚 be two vectors in 
+ℝଷ such that  
+𝑴𝒙 = 𝒖 + 2(𝒗 + 𝒘)              and       𝑴ଶ𝒚 = 𝒖 − (𝒗 + 2𝒘). 
+Considering the usual inner product in ℝଷ, the value of |𝒙 + 𝒚|ଶ, where  |𝒙 + 𝒚| is 
+the length of the vector 𝒙 + 𝒚, is  
+ 
+  
+(A)  1.25 
+(B)  0.25 
+(C)  0.75 
+(D)  1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 25 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 25 
+ 
+Q.37 Consider the following infinite series: 
+𝑆ଵ: =෍(−1)௡ 𝑛
+𝑛ଶ + 4
+ஶ
+௡ୀ଴
+              and        𝑆ଶ: =෍(−1)௡
+ஶ
+௡ୀ଴
+ቀඥ𝑛ଶ + 1 − 𝑛ቁ. 
+Which of the above series is/are conditionally convergent? 
+  
+(A) 𝑆ଵ only 
+(B) 𝑆ଶ only 
+(C) Both 𝑆ଵ and 𝑆ଶ  
+(D) Neither 𝑆ଵ nor 𝑆ଶ  
+  
+Q.38 Let (3, 6)், (4, 4)், (5, 7)் and (4, 7)் be four independent observations from a 
+bivariate normal distribution with the mean vector 𝝁 and the covariance matrix 𝚺. Let 
+𝝁ෝ and 𝚺෡ be the maximum likelihood estimates of 𝝁 and 𝚺, respectively, based on 
+these observations. Then 𝚺෡𝝁ෝ  is equal to 
+  
+(A)  ቀ 3.5
+10 ቁ   
+(B)  ቀ 7.5
+4  ቁ  
+(C)  ቀ 4
+13.5 ቁ  
+(D)  ቀ 10
+3.5 ቁ  
+
+===== Page 26 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 26 
+ 
+  
+Q.39 
+Let 𝑿 = ൭
+ 𝑋ଵ
+𝑋ଶ
+𝑋ଷ
+൱  follow Νଷ(𝝁, 𝚺) with 𝝁 = ൭
+   2 
+−3
+   2
+൱ and 𝚺 = ൥
+   4 −1 1
+−1    2 𝑎
+   1    𝑎 2
+൩, where    
+𝑎 ∈ ℝ. Suppose that the partial correlation coefficient between 𝑋ଶ and 𝑋ଷ, keeping 
+𝑋ଵ fixed, is 
+ହ
+଻ . Then 𝑎 is equal to  
+  
+(A)  1 
+(B)  3
+2 
+(C)  2 
+(D)  1
+2 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 27 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 27 
+ 
+Q.40 If the line 𝑦 = 𝛼𝑥, 𝛼 ≥ √2, divides the area of the region 
+𝑅: =  {(𝑥, 𝑦) ∈ ℝଶ| 0 ≤𝑥 ≤ ඥ𝑦 , 0 ≤𝑦 ≤ 2} 
+into two equal parts, then the value of 𝛼 is equal to 
+  
+(A)  3
+√2
+ 
+(B)  2√2 
+(C)  √2 
+(D)  5
+2√2
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 28 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 28 
+ 
+Q.41 Let (𝑋, 𝑌, 𝑍) be a random vector with the joint probability density function 
+𝑓௑,௒,௓(𝑥, 𝑦, 𝑧) = ቐ
+ 1
+3 (2𝑥 + 3𝑦 + 𝑧), 0 < 𝑥 < 1, 0 <𝑦 < 1, 0 <𝑧 < 1,
+ 
+0,                                     elsewhere.
+  
+Then which one of the following points is on the regression surface of 𝑋 on (𝑌, 𝑍) ? 
+  
+(A) ൬ 4
+7 , 1
+3 , 1
+3  ൰ 
+(B) ൬ 6
+7 , 2
+3 , 2
+3  ൰ 
+(C) ൬ 1
+2 , 1
+3 , 2
+3  ൰ 
+(D) ൬ 1
+2 , 2
+3 , 1
+3  ൰ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 29 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 29 
+ 
+Q.42 A random sample 𝑋 of size one is taken from a distribution with the probability 
+density function    
+𝑓(𝑥;  𝜃) = ቐ
+ 2𝑥
+𝜃ଶ  ,              0 < 𝑥 < 𝜃,
+ 
+0,                  elsewhere.
+  
+If  
+௑
+ఏ  is used as a pivot for obtaining the confidence interval for 𝜃, then which one of 
+the following is an 80% confidence interval (confidence limits rounded off to three 
+decimal places) for 𝜃 based on the observed sample value 𝑥 = 10 ? 
+  
+(A) (10.541, 31.623)  
+(B) (10.987, 31.126)  
+(C) (11.345, 30.524)  
+(D) (11.267, 30.542)  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 30 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 30 
+ 
+Q.43 Let 𝑋ଵ,  𝑋ଶ, …, 𝑋଻ be a random sample from a normal population with mean 0 and 
+variance  𝜃 > 0. Let  
+𝐾 = 𝑋ଵ
+ଶ + 𝑋ଶ
+ଶ
+𝑋ଵ
+ଶ + 𝑋ଶ
+ଶ + ⋯ +𝑋଻
+ଶ . 
+Consider the following statements: 
+(I) The statistics 𝐾 and 𝑋ଵ
+ଶ + 𝑋ଶ
+ଶ + ⋯ +𝑋଻
+ଶ are independent. 
+ 
+(II) 
+଻௄
+ଶ  has an 𝐹-distribution with 2 and 7 degrees of freedom. 
+ 
+(III) 𝐸(𝐾ଶ) =
+଼
+଺ଷ . 
+ 
+Then which of the above statements is/are true? 
+  
+(A) (I) and (II) only 
+(B) (I) and (III) only 
+(C)  (II) and (III) only 
+(D)  (I) only 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 31 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 31 
+ 
+Q.44 Consider the following statements: 
+(I) Let a random variable 𝑋 have the probability density function 
+ 
+𝑓௑(𝑥) = 1
+2 𝑒ି|௫|, −∞ < 𝑥 < ∞. 
+ 
+Then there exist 𝑖. 𝑖. 𝑑. random variables 𝑋ଵ and 𝑋ଶ such that 𝑋 and       
+𝑋ଵ − 𝑋ଶ have the same distribution. 
+ 
+(II) Let a random variable 𝑌 have the probability density function 
+ 
+𝑓௒(𝑦) = ቐ
+1
+4 ,        − 2 <𝑦 < 2,
+ 
+0 ,      elsewhere.
+  
+ 
+Then there exist 𝑖. 𝑖. 𝑑. random variables  𝑌ଵ and 𝑌ଶ  such that 𝑌 and        
+𝑌ଵ − 𝑌ଶ have the same distribution. 
+ 
+Then which of the above statements is/are true? 
+  
+(A) (I) only 
+(B) (II) only 
+(C) Both (I) and (II) 
+(D) Neither (I) nor (II) 
+  
+ 
+ 
+ 
+ 
+ 
+
+===== Page 32 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 32 
+ 
+Q.45 Suppose 𝑋ଵ, 𝑋ଶ, … , 𝑋௡, … are independent exponential random variables with the 
+mean  
+ଵ
+ଶ . Let the notation 𝑖. 𝑜. denote ‘infinitely often’. Then which of the following 
+is/are true? 
+  
+(A) 𝑃 ቀቄ𝑋௡ >  
+ఢ
+ଶ log௘ 𝑛ቅ  𝑖. 𝑜. ቁ = 1 for 0 < 𝜖 ≤ 1 
+(B) 𝑃 ቀቄ𝑋௡ <  
+ఢ
+ଶ log௘ 𝑛ቅ  𝑖. 𝑜. ቁ = 1 for 0 < 𝜖 ≤ 1 
+(C) 𝑃 ቀቄ𝑋௡ >  
+ఢ
+ଶ log௘ 𝑛ቅ  𝑖. 𝑜. ቁ = 1 for ϵ > 1 
+(D) 𝑃 ቀቄ𝑋௡ <  
+ఢ
+ଶ log௘ 𝑛ቅ  𝑖. 𝑜. ቁ = 1 for ϵ > 1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 33 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 33 
+ 
+Q.46 Let {𝑋௡}, 𝑛 ≥ 1, be a sequence of random variables with the probability mass 
+functions 
+𝑝௑௡(𝑥) =
+⎩
+⎪
+⎨
+⎪
+⎧
+𝑛
+𝑛 + 1 ,                       𝑥 = 0,
+ 
+1
+𝑛 + 1,                       𝑥 = 𝑛,
+ 
+0,                      elsewhere.
+ 
+ 
+Let 𝑋 be a random variable with 𝑃(𝑋 = 0) = 1. Then which of the following 
+statements is/are true?  
+ 
+  
+(A) 𝑋௡ converges to 𝑋 in distribution 
+(B) 𝑋௡ converges to 𝑋 in probability 
+(C) 𝐸(𝑋௡)
+         
+ሱ⎯ሮ 𝐸(𝑋) 
+(D) There exists a subsequence {𝑋௡ೖ} of {𝑋௡} such that 𝑋௡ೖ converges to 𝑋 almost 
+surely 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 34 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 34 
+ 
+Q.47 Let 𝑴 be any 3 × 3 symmetric matrix with eigenvalues 1, 2 and 3. Let 𝑵 be any 
+3 × 3 matrix with real eigenvalues such that  𝑴𝑵 + 𝑵்𝑴 = 3𝑰, where 𝑰 is the     
+3 × 3 identity matrix.  Then which of the following cannot be eigenvalue(s) of the 
+matrix 𝑵 ? 
+  
+(A)   1
+4 
+(B)   3
+4 
+(C)   1
+2 
+(D)   7
+4 
+  
+Q.38 Let 𝑴 be a 3 × 2 real matrix having a singular value decomposition as   𝑴 = 𝑼𝑺𝑽், 
+where the matrix 𝑺 = ൤√3 0 0
+0 1 0 ൨
+்
+, 𝑼 is a 3 × 3 orthogonal matrix, and 𝑽 is a      
+2 × 2 orthogonal matrix. Then which of the following statements is/are true? 
+  
+(A) The rank of the matrix 𝑴 is 1 
+(B) The trace of the matrix 𝑴்𝑴 is 4 
+(C) The largest singular value of the matrix (𝑴்𝑴)ିଵ𝑴் is 1 
+(D) The nullity of the matrix 𝑴 is 1 
+  
+ 
+
+===== Page 35 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 35 
+ 
+Q.49 Let 𝑋 be a random variable such that 
+𝑃 ቀ 𝑎
+2𝜋 𝑋 ∈  ℤቁ = 1,    𝑎 > 0, 
+where ℤ denotes the set of all integers. If 𝜙௑(𝑡), 𝑡 ∈ ℝ, denotes the characteristic 
+function of 𝑋, then which of the following is/are true? 
+  
+(A) 𝜙௑(𝑎) = 1 
+(B) 𝜙௑(⋅) is periodic with period 𝑎 
+(C) |𝜙௑(𝑡)| < 1 for all 𝑡 ≠ 𝑎  
+(D) ∫ 𝑒ି௜௧௡ଶగ
+଴ 𝜙௑(𝑡)𝑑𝑡 = 𝜋 𝑃 ቀ𝑋 =
+ଶగ௡
+௔ ቁ , 𝑛 ∈ ℤ, 𝑖 = √−1  
+  
+Q.50 Which of the following real valued functions is/are uniformly continuous on 
+[0, ∞)? 
+  
+(A) sinଶ 𝑥  
+(B) 𝑥 sin 𝑥   
+(C) sin (sin 𝑥)  
+(D) sin (𝑥 sin 𝑥)  
+  
+ 
+
+===== Page 36 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 36 
+ 
+Q.51 Two independent random samples, each of size 7, from two populations yield the 
+following values: 
+Population 1 18 20 16 20 17 18 14 
+Population 2 17 18 14 20 14 13 16 
+If Mann-Whitney 𝑈 test is performed at 5% level of significance to test the null 
+hypothesis 𝐻଴: Distributions of the populations are same, against the alternative 
+hypothesis 𝐻ଵ: Distributions of the populations are not same, then the value of the 
+test statistic 𝑈 (in integer) for the given data, is  ______ 
+  
+  
+Q.52 Consider the multiple regression model 
+𝑌 = 𝛽଴ + 𝛽ଵ𝑋ଵ + 𝛽ଶ𝑋ଶ + 𝛽ଷ𝑋ଷ + 𝜖, 
+where 𝜖 is normally distributed with mean 0 and variance 𝜎ଶ > 0, and          
+𝛽଴, 𝛽ଵ, 𝛽ଶ, 𝛽ଷ are unknown parameters. Suppose 52 observations of (𝑌, 𝑋ଵ, 𝑋ଶ, 𝑋ଷ) 
+yield sum of squares due to regression as 18.6 and total sum of squares as 79.23. 
+Then, for testing the null hypothesis 𝐻଴: 𝛽ଵ  = 𝛽ଶ = 𝛽ଷ = 0 against the alternative 
+hypothesis 𝐻ଵ: 𝛽௜ ≠ 0 for some 𝑖 = 1, 2, 3, the value of the test statistic (rounded 
+off to three decimal places), based on one way analysis of variance, is _______ 
+  
+  
+ 
+ 
+ 
+ 
+
+===== Page 37 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 37 
+ 
+Q.53 Suppose a random sample of size 3 is taken from a distribution with the probability 
+density function 
+𝑓(𝑥) = ൝
+ 2𝑥,      0 < 𝑥 < 1,
+ 
+0,                elsewhere.
+    
+If 𝑝 is the probability that the largest sample observation is at least twice the smallest 
+sample observation, then the value of  𝑝 (rounded off to three decimal places)       
+is ______ 
+  
+  
+Q.54 Let a linear model 𝑌 = 𝛽଴ + 𝛽ଵ𝑋 + 𝜖 be fitted to the following data, where 𝜖 is 
+normally distributed with mean 0 and unknown variance 𝜎ଶ > 0. 
+𝑥௜ 0 1 2 3 4 
+𝑦௜ 3 4 5 6 7 
+Let 𝑌෠଴ denote the ordinary least-square estimator of 𝑌 at 𝑋 = 6, and the variance of 
+of 𝑌෠଴ = 𝑐𝜎 ଶ. Then the value of the real constant 𝑐 (rounded off to one decimal 
+place) is equal to ______ 
+  
+  
+Q.55 Let 0, 1, 1, 2, 0 be five observations of a random variable 𝑋 which follows a Poisson 
+distribution with the parameter 𝜃 > 0. Let the minimum variance unbiased estimate 
+of 𝑃(𝑋 ≤ 1), based on this data, be 𝛼. Then 5ସ𝛼 (in integer) is equal to ______ 
+  
+  
+
+===== Page 38 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 38 
+ 
+Q.56 While calculating Spearman’s rank correlation coefficient, based on 𝑛 observations 
+{(𝑥௜, 𝑦௜), 𝑖 = 1,2, … ,𝑛} from a paired data, it is found that 𝑥௜ are distinct for all      
+𝑖 ≥ 2, 𝑥ଵ = 𝑥ଶ, and ∑ 𝑑௜
+ଶ = 19.5௡
+௜ୀଵ , where 𝑑௜ = rank(𝑥௜) − rank(𝑦௜). Then the 
+minimum possible value of  𝑛ଷ − 𝑛  (in integer) is ______ 
+  
+   
+Q.57 In a laboratory experiment, the behavior of cats are studied for a particular food 
+preference between two foods A and B. For an experiment, 70% of the cats that 
+had food A will prefer food A, and 50% of the cats that had food B will prefer food 
+A. The experiment is repeated under identical conditions. If 40% of the cats had 
+food A in the first experiment, then the percentage (rounded off to one decimal 
+place) of cats those will prefer food A in the third experiment, is ______ 
+  
+  
+Q.58 A random sample of size 5 is taken from a distribution with the probability density 
+function 
+𝑓(𝑥; 𝜃) = ቐ 
+3𝑥ଶ
+𝜃ଷ  , 0 < 𝑥 < 𝜃,
+ 
+0,             elsewhere,
+ 
+where 𝜃 is an unknown parameter. If the observed values of the random sample are 
+3, 6, 4, 7, 5, then the maximum likelihood estimate of the 
+ଵ
+଼ th quantile of the 
+distribution (rounded off to one decimal place) is ______ 
+   
+  
+ 
+ 
+
+===== Page 39 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 39 
+ 
+Q.59 Consider a gamma distribution with the probability density function 
+𝑓(𝑥; 𝛽) = ቐ
+1
+24 𝛽ହ  𝑥ସ𝑒ି ௫/ఉ ,      𝑥 > 0,
+ 
+0,                                 elsewhere,    
+        
+with 𝛽 > 0. Then, for 𝛽 = 2, the value of the Cramer-Rao lower bound (rounded 
+off to one decimal place)  for the variance of any unbiased estimator of 𝛽ଶ, based 
+on a random sample of size 8 from this distribution, is ______ 
+  
+  
+Q.60 Let 𝑋ଵ,  𝑋ଶ,  𝑋ଷ, 𝑋ସ be a random sample of size four from a Bernoulli distribution 
+with the parameter 𝜃, 0 < 𝜃 < 1. Consider the null hypothesis 𝐻଴: 𝜃 =
+ଵ
+ସ against 
+the alternative hypothesis 𝐻ଵ: 𝜃 >
+ଵ
+ସ. Suppose 𝐻଴ is rejected if and only if                              
+𝑋ଵ + 𝑋ଶ + 𝑋ଷ + 𝑋ସ > 2. If 𝛼 is the probability of Type I error for the test and 𝛾(𝜃) 
+is the power function of the test, then the value of 16𝛼 + 7 𝛾 ቀ
+ଵ
+ଶቁ (in integer) is 
+equal to ______ 
+  
+  
+Q.61 Given that Φ(1.645) = 0.95 and Φ(2.33) = 0.99, where Φ(⋅) denotes the 
+cumulative distribution function of a standard normal random variable. For a 
+random sample 𝑋ଵ,  𝑋ଶ, … , 𝑋௡ from a normal population Ν(𝜇, 2ଶ), where 𝜇 is 
+unknown, the null hypothesis 𝐻଴: 𝜇 = 10 is to be tested against the alternative 
+hypothesis 𝐻ଵ: 𝜇 = 12. Suppose that a test that rejects 𝐻଴ if the sample mean 𝑋ത is 
+large, is used. Then the smallest value of 𝑛 (in integer) such that Type I error is 
+0.05 and Type II error is at most 0.01, is ______ 
+  
+  
+
+===== Page 40 of 42 =====
+GATE 2022 Statistics (ST) 
+Page 40 
+ 
+Q.62 Let 𝑌ଵ <   𝑌ଶ < ⋯ <   𝑌௡ be the order statistics of a random sample of size 𝑛 from 
+a continuous distribution, which is symmetric about its mean 𝜇. Then the smallest 
+value of 𝑛 (in integer) such that 𝑃(𝑌ଵ < 𝜇 < 𝑌௡) ≥ 0.99, is ______ 
+  
+  
+Q.63 If 𝑃(𝑥, 𝑦, 𝑧) is a point which is nearest to the origin and lies on the intersection of 
+the surfaces 𝑧 = 𝑥𝑦 + 5 and  𝑥 + 𝑦 + 𝑧 = 1. Then the distance (in integer) 
+between the origin and the point 𝑃 is ______ 
+  
+  
+Q.64 Let 𝑋 and 𝑌 be random variables such that 𝑋 is uniformly distributed over (0, 4), 
+and the conditional distribution of 𝑌 given 𝑋 = 𝑥 is uniformly distributed over 
+ቀ0,
+௫మ
+ସ ቁ. Then 𝐸(𝑌ଶ) (rounded off to three decimal places) is equal to _____ 
+  
+  
+Q.65 Let 𝑿 = (𝑋ଵ,  𝑋ଶ,  𝑋ଷ)் be a random vector with the distribution Νଷ(𝝁, 𝚺), where 
+𝝁 = ൭ 
+3
+2
+4
+ ൱            and              𝚺 = ൥
+4 2 1
+ 2 3 0 
+1 0 2
+൩. 
+Then 𝐸(𝑋ଵ|(𝑋ଶ = 4,  𝑋ଷ = 7)) (in integer) is equal to ______ 
+  
+  
+ 
+ 
+
+===== Page 41 of 42 =====
+ 
+Q. No. Session  Question 
+Type 
+Subject 
+Name 
+Key/Range Mark  
+1 3 MCQ GA C 1 
+2 3 MCQ GA D 1 
+3 3 MCQ GA B 1 
+4 3 MCQ GA B 1 
+5 3 MCQ GA C 1 
+6 3 MCQ GA D 2 
+7 3 MCQ GA C 2 
+8 3 MCQ GA C 2 
+9 3 MCQ GA B 2 
+10 3 MCQ GA B 2 
+11 3 MCQ ST D 1 
+12 3 MCQ ST B 1 
+13 3 MCQ ST B 1 
+14 3 MCQ ST B 1 
+15 3 MCQ ST C 1 
+16 3 MCQ ST C 1 
+17 3 MCQ ST A 1 
+18 3 MCQ ST A 1 
+19 3 MCQ ST B 1 
+20 3 MCQ ST C 1 
+21 3 MCQ ST C 1 
+22 3 NAT ST 12 to 12 1 
+23 3 NAT ST 0.25 to 0.25 1 
+24 3 NAT ST 22 to 22 1 
+25 3 NAT ST 0.55 to 0.59 1 
+26 3 NAT ST 2.30 to 2.32 1 
+27 3 NAT ST 23 to 23 1 
+28 3 NAT ST 243 to 243 1 
+29 3 NAT ST 0.57 to 0.59 1 
+30 3 NAT ST 1 to 1 1 
+31 3 NAT ST 1.18 to 1.19 1 
+32 3 NAT ST 12 to 12 1 
+33 3 NAT ST 15 to 15 1 
+34 3 NAT ST 0.375 to 0.375 1 
+35 3 NAT ST 3 to 3 1 
+36 3 MCQ ST A 2 
+37 3 MCQ ST C 2 
+38 3 MCQ ST A 2 
+39 3 MCQ ST A 2 
+40 3 MCQ ST A 2 
+41 3 MCQ ST A 2 
+42 3 MCQ ST A 2 
+43 3 MCQ ST B 2 
+44 3 MCQ ST A 2 
+
+===== Page 42 of 42 =====
+ 
+45 3 MSQ ST A, B, D 2 
+46 3 MSQ ST A, B, D 2 
+47 3 MSQ ST A, D 2 
+48 3 MSQ ST B, C 2 
+49 3 MSQ ST A, B 2 
+50 3 MSQ ST A, C 2 
+51 3 NAT ST 15 to 15 2 
+52 3 NAT ST 4.907 to 4.909 2 
+53 3 NAT ST 0.436 to 0.439 2 
+54 3 NAT ST 1.8 to 1.8 2 
+55 3 NAT ST 512 to 512 2 
+56 3 NAT ST 60 to 60 2 
+57 3 NAT ST 61.5 to 61.7 2 
+58 3 NAT ST 3.5 to 3.5 2 
+59 3 NAT ST 1.6 to 1.6 2 
+60 3 NAT ST 3 to 3 2 
+61 3 NAT ST 16 to 16 2 
+62 3 NAT ST 8 to 8 2 
+63 3 NAT ST 3 to 3 2 
+64 3 NAT ST 1.065 to 1.069 2 
+65 3 NAT ST 6 to 6 2 
+ 

@@ -1,0 +1,1131 @@
+ Data Science and Artificial Intelligence (DA) 
+Page 1 of 41 
+Organizing Institute: IISc Bengaluru 
+General Aptitude (GA)  
+Q.1 – Q.5 Carry ONE mark Each 
+Q.1 If ‘→’ denotes increasing order of intensity, then the meaning of the words  
+[sick → infirm → moribund] is analogous to [silly → _______ → daft]. 
+Which one of the given options is appropriate to fill the blank? 
+  
+(A) frown 
+(B) fawn 
+(C) vein 
+(D) vain 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 2 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.2 The 15 parts of the given figure are to be painted such that no two adjacent parts 
+with shared boundaries (excluding corners) have the same color. The minimum 
+number of colors required is 
+ 
+  
+(A) 4 
+(B) 3 
+(C) 5 
+(D) 6 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 3 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.3 How many 4 -digit positive integers divisible by 3 can be formed using only the 
+digits {1, 3,4, 6, 7}, such that no digit appears more than once in a number? 
+  
+(A) 24 
+(B) 48 
+(C) 72 
+(D) 12 
+  
+Q.4 The sum of the following infinite series is 
+2 + 1
+2 + 1
+3 + 1
+4 + 1
+8 + 1
+9 + 1
+16 + 1
+27 + ⋯ 
+  
+(A) 11/3 
+(B) 7/2 
+(C) 13/4 
+(D) 9/2 
+  
+ 
+ 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 4 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.5 In an election, the share of valid votes received by the four candidates A, B, C, and 
+D is represented by the pie chart shown. The total number of votes cast in the 
+election were 1,15,000, out of which 5,000 were invalid.  
+ 
+Based on the data provided, t he total number of valid votes received by the 
+candidates B and C is 
+  
+(A) 45,000 
+(B) 49,500 
+(C) 51,750 
+(D) 54,000 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+A
+40%
+B
+25%
+C
+20%
+D
+15%
+Share of valid votes
+ Data Science and Artificial Intelligence (DA) 
+Page 5 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.6 – Q.10 Carry TWO marks Each 
+Q.6 Thousands of years ago, some people began dairy farming. This coincided with a 
+number of mutations in a particular gene that resulted in these people developing 
+the ability to digest dairy milk. 
+Based on the given passage, which of the following can be inferred? 
+  
+(A) All human beings can digest dairy milk. 
+(B) No human being can digest dairy milk. 
+(C) Digestion of dairy milk is essential for human beings. 
+(D) In human beings, digestion of dairy milk resulted from a mutated gene. 
+  
+Q.7 The probability of a boy or a girl being born is 1/2. For a family having only  
+three children, what is the probability of having two girls and one boy? 
+  
+(A) 3/8 
+(B) 1/8 
+(C) 1/4 
+(D) 1/2  
+  
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 6 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.8 Person 1 and Person 2 invest in three mutual funds A, B, and C. The amounts they 
+invest in each of these mutual funds are given in the table. 
+ Mutual fund A Mutual fund B Mutual fund C 
+Person 1 ₹10,000 ₹20,000 ₹20,000 
+Person 2 ₹20,000 ₹15,000 ₹15,000 
+At the end of one year, the total amount that Person 1 gets is ₹500 more than  
+Person 2. The annual rate of return for the mutual funds B and C is 15% each. What 
+is the annual rate of return for the mutual fund A? 
+  
+(A) 7.5% 
+(B) 10% 
+(C) 15% 
+(D) 20% 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 7 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.9 Three different views of a dice are shown in the figure below.  
+ 
+The piece of paper that can be folded to make this dice is  
+  
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+  
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 8 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.10 Visualize two identical right circular cones such that one is inverted over the other 
+and they share a common circular base. If a cutting plane passes through the vertices 
+of the assembled cones, what shape does the  outer boundary of the  
+resulting cross-section make?  
+  
+(A) A rhombus 
+(B) A triangle 
+(C) An ellipse 
+(D) A hexagon 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 9 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.11 – Q.35 Carry ONE mark Each 
+ 
+Q.11 Consider the following statements: 
+(i) The mean and variance of a Poisson random variable are equal. 
+(ii) For a standard normal random variable, the mean is zero and the 
+variance is one. 
+Which ONE of the following options is correct?  
+(A) Both (i) and (ii) are true 
+(B) (i) is true and (ii) is false 
+(C) (ii) is true and (i) is false 
+(D) Both (i) and (ii) are false 
+ 
+Q.12 Three fair coins are tossed independently. T is the event that two or more tosses 
+result in heads. S is the event that two or more tosses result in tails.  
+What is the probability of the event 𝑇 ∩ 𝑆 ? 
+(A) 0 
+(B) 0.5 
+(C) 0.25 
+(D) 1 
+ 
+ 
+ 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 10 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.13 Consider the matrix 𝑴 = [2 −1
+3 1 ].  
+Which ONE of the following statements is TRUE? 
+(A) The eigenvalues of 𝑴 are non-negative and real. 
+(B) The eigenvalues of 𝑴 are complex conjugate pairs. 
+(C) One eigenvalue of 𝑴 is positive and real, and another eigenvalue of 𝑴 is zero.  
+(D) One eigenvalue of 𝑴 is non-negative and real, and another eigenvalue of 𝑴 is 
+negative and real.  
+ 
+Q.14 Consider performing depth -first search (DFS) on an undirected and unweighted 
+graph G starting at vertex 𝑠. For any vertex 𝑢 in G, 𝑑[𝑢] is the length of the shortest 
+path from 𝑠 to 𝑢. Let (𝑢, 𝑣) be an edge in G such that 𝑑[𝑢] < 𝑑[𝑣]. If the edge 
+(𝑢, 𝑣) is explored first in the direction from 𝑢 to 𝑣 during the above DFS, then (𝑢, 𝑣) 
+becomes a ______ edge. 
+(A) tree  
+(B) cross  
+(C) back 
+(D) gray 
+ 
+  
+ Data Science and Artificial Intelligence (DA) 
+Page 11 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.15 For any twice differentiable function 𝑓: ℝ → ℝ, if at some 𝑥 ∗ ∈ ℝ, 𝑓 ′(𝑥 ∗) = 0 
+and 𝑓′′(𝑥 ∗) > 0, then the function 𝑓 necessarily has a ______ at 𝑥 = 𝑥 ∗. 
+Note: ℝ denotes the set of real numbers. 
+(A) local minimum 
+(B) global minimum 
+(C) local maximum 
+(D) global maximum 
+ 
+Q.16 Match the items in Column 1 with the items in Column 2 in the following table: 
+Column 1 Column 2 
+(p) First In First Out 
+(q) Lookup Operation 
+(r) Last In First Out 
+ 
+(i) Stacks 
+(ii) Queues 
+(iii) Hash Tables 
+(A) (p) − (ii), (q) − (iii), (r) − (i) 
+(B) (p) − (ii), (q) − (i), (r) − (iii) 
+(C) (p) − (i), (q) − (ii), (r) − (iii) 
+(D) (p) − (i), (q) − (iii), (r) − (ii) 
+ 
+  
+ Data Science and Artificial Intelligence (DA) 
+Page 12 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.17 Consider the dataset with six datapoints: {(𝒙𝟏, 𝒚𝟏),(𝒙𝟐, 𝒚𝟐),… , (𝒙𝟔,𝒚𝟔)},  
+where 𝒙𝟏 =  [1
+0] ,  𝒙𝟐 =  [0
+1] , 𝒙𝟑 =  [ 0
+−1] , 𝒙𝟒 =  [−1
+0 ] , 𝒙𝟓 =  [2
+2] , 𝒙𝟔 =  [−2
+−2]    
+and the labels are given by 𝒚𝟏 = 𝒚𝟐 = 𝒚𝟓 = 1, and 𝒚𝟑 = 𝒚𝟒 = 𝒚𝟔 =  −1. A hard 
+margin linear support vector machine is trained on the above dataset.  
+Which ONE of the following sets is a possible set of support vectors? 
+(A)  {𝒙𝟏, 𝒙𝟐,𝒙𝟓} 
+(B) {𝒙𝟑, 𝒙𝟒,𝒙𝟓} 
+(C) {𝒙𝟒, 𝒙𝟓} 
+(D) {𝒙𝟏, 𝒙𝟐,𝒙𝟑, 𝒙𝟒} 
+ 
+Q.18 Match the items in Column 1 with the items in Column 2 in the following table: 
+Column 1 Column 2 
+(p) Principal Component Analysis 
+(q) Naïve Bayes Classification 
+(r) Logistic Regression 
+(i) Discriminative Model 
+(ii) Dimensionality Reduction 
+(iii) Generative Model 
+ 
+(A) (p) − (iii), (q) − (i), (r) − (ii) 
+(B) (p) − (ii), (q) − (i), (r) − (iii)  
+(C) (p) − (ii), (q) − (iii), (r) − (i)  
+(D) (p) − (iii), (q) − (ii), (r) − (i) 
+ 
+ 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 13 of 41 
+Organizing Institute: IISc Bengaluru 
+ 
+Q.19 Euclidean distance based 𝑘-means clustering algorithm was run on a dataset of 100 
+points with 𝑘 = 3. If the points [1
+1] and  [−1
+1 ] are both part of cluster 3, then which 
+ONE of the following points is necessarily also part of cluster 3? 
+(A) [0
+0]  
+(B) [0
+2]  
+(C) [2
+0]  
+(D) [0
+1]  
+ 
+Q.20 Given a dataset with 𝐾 binary-valued attributes (where 𝐾 > 2) for a two -class 
+classification task, the number of parameters to be estimated for learning a naïve 
+Bayes classifier is 
+(A) 2𝐾 + 1 
+(B) 2𝐾 + 1 
+(C) 2𝐾+1 + 1 
+(D) 𝐾2 + 1 
+ 
+ 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 14 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.21 Consider performing uniform hashing on an open address  hash table with load 
+factor 𝛼 =
+𝑛
+𝑚 < 1, where 𝑛 elements are stored in the table with 𝑚 slots. The 
+expected number of probes in an unsuccessful search is at most 
+1
+1−𝛼 . 
+Inserting an element in this hash table requires at most ______ probes, on average. 
+(A) ln ( 1
+1 − 𝛼) 
+(B) 1
+1 − 𝛼 
+(C) 1 + 𝛼
+2 
+(D) 1
+1 + 𝛼 
+ 
+Q.22 For any binary classification dataset, let 𝑆𝐵 ∈ ℝ𝑑×𝑑 and 𝑆𝑊 ∈ ℝ𝑑×𝑑 be the 
+between-class and within -class scatter (covariance) matrices, respectively. The 
+Fisher linear discriminant is defined by  𝑢∗ ∈ ℝ𝑑, that maximizes  
+𝐽(𝑢) = 𝑢𝑇 𝑆𝐵𝑢
+𝑢𝑇𝑆𝑊𝑢 
+If 𝜆 = 𝐽(𝑢∗),  𝑆𝑊 is non-singular and 𝑆𝐵 ≠ 0, then (𝑢∗, 𝜆) must satisfy which ONE 
+of the following equations? 
+Note: ℝ denotes the set of real numbers. 
+(A) 𝑆𝑊  −1𝑆𝐵𝑢∗ = 𝜆𝑢∗  
+(B) 𝑆𝑊𝑢∗ = 𝜆𝑆𝐵𝑢∗  
+(C) 𝑆𝐵𝑆𝑊𝑢∗ = 𝜆𝑢∗  
+(D) 𝑢∗𝑇𝑢∗ = 𝜆2  
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 15 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.23 Let ℎ1and ℎ2 be two admissible heuristics used in 𝐴∗ search.  
+Which ONE of the following expressions is always an admissible heuristic? 
+(A) ℎ1 +  ℎ2  
+(B) ℎ1 × ℎ2   
+(C) ℎ1/ℎ2, (ℎ2 ≠ 0) 
+(D) |ℎ1 − ℎ2|  
+ 
+Q.24 Consider five random variables 𝑈, 𝑉, 𝑊, 𝑋, and 𝑌 whose joint distribution 
+satisfies:  
+𝑃(𝑈, 𝑉, 𝑊, 𝑋, 𝑌) = 𝑃(𝑈)𝑃(𝑉)𝑃(𝑊|𝑈, 𝑉)𝑃(𝑋|𝑊)𝑃(𝑌|𝑊) 
+Which ONE of the following statements is FALSE? 
+(A) 𝑌 is conditionally independent of 𝑉 given 𝑊 
+(B) 𝑋 is conditionally independent of 𝑈 given 𝑊 
+(C) 𝑈 and 𝑉 are conditionally independent given 𝑊 
+(D) 𝑌 and 𝑋 are conditionally independent given 𝑊 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 16 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.25 Consider the following statement:  
+In adversarial search, 𝛼– 𝛽 pruning can be applied to game trees of any depth where 
+𝛼 is the    (m)    value choice we have formed so far at any choice point along the 
+path for the MAX player and 𝛽 is the      (n)    value choice we have formed so far 
+at any choice point along the path for the MIN player. 
+Which ONE of the following choices of (m) and (n) makes the above statement 
+valid? 
+(A) (m) = highest, (n) = highest 
+(B) (m) = lowest, (n) = highest 
+(C) (m) = highest, (n) = lowest 
+(D) (m) = lowest, (n) = lowest 
+ 
+Q.26 Consider a database that includes the following relations: 
+Defender(name, rating, side, goals) 
+Forward(name, rating, assists, goals) 
+Team(name, club, price) 
+Which ONE of the following relational algebra expressions checks that every name 
+occurring in Team appears in either Defender or Forward, where 𝜙 denotes the 
+empty set? 
+(A) Π𝑛𝑎𝑚𝑒 (Team) ∖ (Π𝑛𝑎𝑚𝑒 (Defender) ∩ Π𝑛𝑎𝑚𝑒 (Forward)) = 𝜙 
+(B) (Π𝑛𝑎𝑚𝑒 (Defender) ∩ Π𝑛𝑎𝑚𝑒 (Forward)) ∖ Π𝑛𝑎𝑚𝑒 (Team) = 𝜙 
+(C) Π𝑛𝑎𝑚𝑒 (Team) ∖ (Π𝑛𝑎𝑚𝑒 (Defender) ∪ Π𝑛𝑎𝑚𝑒 (Forward)) = 𝜙 
+(D) (Π𝑛𝑎𝑚𝑒 (Defender) ∪ Π𝑛𝑎𝑚𝑒 (Forward)) ∖ Π𝑛𝑎𝑚𝑒 (Team) = 𝜙 
+ Data Science and Artificial Intelligence (DA) 
+Page 17 of 41 
+Organizing Institute: IISc Bengaluru 
+ 
+Q.27 Let the minimum, maximum, mean and standard deviation values for the attribute 
+income of data scientists be ₹46000, ₹170000, ₹96000, and ₹21000, respectively. 
+The z-score normalized income value of ₹106000 is closest to which ONE of the 
+following options? 
+(A) 0.217 
+(B) 0.476 
+(C) 0.623 
+(D) 2.304 
+ 
+ 
+ 
+Q.28 Consider the following tree traversals on a full binary tree: 
+(i) Preorder  
+(ii) Inorder  
+(iii) Postorder 
+Which of the following traversal options is/are sufficient to uniquely reconstruct 
+the full binary tree? 
+(A) (i) and (ii) 
+(B) (ii) and (iii) 
+(C) (i) and (iii) 
+(D) (ii) only  
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 18 of 41 
+Organizing Institute: IISc Bengaluru 
+ 
+Q.29 Let 𝑥 and 𝑦 be two propositions. Which of the following statements is a tautology 
+/are tautologies? 
+(A) (¬𝑥 ∧ 𝑦 ) ⟹ (𝑦 ⟹ 𝑥) 
+(B) (𝑥 ∧ ¬𝑦 ) ⟹ (¬𝑥 ⟹ 𝑦) 
+(C) (¬𝑥 ∧ 𝑦 ) ⟹ (¬𝑥 ⟹ 𝑦) 
+(D) (𝑥 ∧ ¬𝑦 ) ⟹ (𝑦 ⟹ 𝑥) 
+ 
+Q.30 Consider sorting the following array of integers in ascending order using an in-place 
+Quicksort algorithm that uses the last element as the pivot. 
+60 70 80 90 100 
+The minimum number of swaps performed during this Quicksort is ______. 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 19 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.31 Consider the following two tables named Raider and Team in a relational database 
+maintained by a Kabaddi league. The attribute ID in table Team references the 
+primary key of the Raider table, ID. 
+Raider 
+ID Name Raids RaidPoints 
+1 Arjun 200 250 
+2 Ankush 190 219 
+3 Sunil 150 200 
+4 Reza 150 190 
+5 Pratham 175 220 
+6 Gopal 193 215 
+ 
+ 
+ 
+ 
+ 
+The SQL query described below is executed on this database: 
+SELECT * 
+FROM Raider, Team 
+WHERE Raider.ID=Team.ID AND City=“Jaipur” AND 
+RaidPoints > 200; 
+The number of rows returned by this query is ______. 
+                 Team 
+City ID BidPoints 
+Jaipur 2 200 
+Patna 3 195 
+Hyderabad 5 175 
+Jaipur 1 250 
+Patna 4 200 
+Jaipur 6 200 
+ 
+ 
+  
+ Data Science and Artificial Intelligence (DA) 
+Page 20 of 41 
+Organizing Institute: IISc Bengaluru 
+ 
+Q.32 The fundamental operations in a double-ended queue D are:  
+insertFirst(e) – Insert a new element e at the beginning of D. 
+insertLast(e) – Insert a new element e at the end of D. 
+removeFirst() – Remove and return the first element of D. 
+removeLast() – Remove and return the last element of D.  
+In an empty double-ended queue, the following operations are performed: 
+insertFirst(10) 
+insertLast(32) 
+a ←removeFirst() 
+insertLast(28) 
+insertLast(17) 
+a ←removeFirst() 
+a ← removeLast() 
+ 
+The value of a is ______. 
+ 
+ 
+Q.33 Let 𝑓: ℝ → ℝ be the function 𝑓(𝑥) =
+1
+1+𝑒−𝑥 .  
+ 
+The value of the derivative of 𝑓 at 𝑥 where 𝑓(𝑥) = 0.4 is ______  
+(rounded off to two decimal places). 
+Note: ℝ denotes the set of real numbers. 
+ 
+  
+ Data Science and Artificial Intelligence (DA) 
+Page 21 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.34 The sample average of 50 data points is 40. The updated sample average after 
+including a new data point taking the value of 142 is ______. 
+ 
+Q.35 
+Consider the 3 × 3 matrix 𝑴 = [
+1 2 3
+3 1 3
+4 3 6
+]. 
+The determinant of (𝑴𝟐 + 12𝑴)  is ______. 
+ 
+Q.36 
+ 
+ 
+A fair six-sided die (with faces numbered 1, 2, 3, 4, 5, 6) is repeatedly thrown 
+independently.  
+ 
+What is the expected number of times the die is thrown until two consecutive throws 
+of even numbers are seen? 
+ 
+ 
+(A) 2 
+(B) 4 
+(C) 6 
+(D) 8 
+ 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 22 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.37 Let 𝑓: ℝ → ℝ be a function. Note: ℝ denotes the set of real numbers. 
+𝑓(𝑥) =  {
+−𝑥,                         if 𝑥 < −2
+𝑎𝑥 2 + 𝑏𝑥 + 𝑐,            if 𝑥 ∈ [−2,2]
+𝑥,                          if 𝑥 > 2
+ 
+ 
+Which ONE of the following choices gives the values of 𝑎, 𝑏, 𝑐 that make the 
+function 𝑓 continuous and differentiable? 
+(A) 𝑎 = 1
+4 , 𝑏 = 0, 𝑐 = 1 
+(B) 𝑎 = 1
+2 , 𝑏 = 0, 𝑐 = 0 
+(C) 𝑎 = 0, 𝑏 = 0, 𝑐 = 0 
+(D) 𝑎 = 1, 𝑏 = 1, 𝑐 = −4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 23 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.38 Consider the following Python code: 
+def count(child_dict, i): 
+    if i not in child_dict.keys(): 
+         return 1 
+    ans = 1 
+    for j in child_dict[i]: 
+        ans += count(child_dict, j) 
+    return ans 
+ 
+child_dict = dict() 
+child_dict[0] = [1,2] 
+child_dict[1] = [3,4,5] 
+child_dict[2] = [6,7,8] 
+print(count(child_dict,0)) 
+ 
+Which ONE of the following is the output of this code? 
+(A) 6 
+(B) 1 
+(C) 8 
+(D) 9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 24 of 41 
+Organizing Institute: IISc Bengaluru 
+ 
+Q.39 Consider the function computeS(X) whose pseudocode is given below: 
+ 
+Which ONE of the following values is returned by the function computeS(X) 
+for X = [6, 3, 5, 4, 10]? 
+ 
+(A) [1, 1, 2, 3, 4] 
+(B) [1, 1, 2, 3, 3] 
+(C) [1, 1, 2, 1, 2] 
+(D) [1, 1, 2, 1, 5] 
+ 
+  
+computeS(X) 
+𝑆[1] ← 1  
+for 𝑖 ←2 to 𝑙𝑒𝑛𝑔𝑡ℎ(𝑋) 
+  𝑆[𝑖] ← 1 
+  if 𝑋[𝑖 − 1] ≤ 𝑋[𝑖] 
+      𝑆[𝑖] ← 𝑆[𝑖] + 𝑆[𝑖 − 1] 
+  end if 
+end for 
+return S 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 25 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.40 Let 𝐹(𝑛) denote the maximum number of comparisons made while searching for 
+an entry in a sorted array of size 𝑛 using binary search.  
+Which ONE of the following options is TRUE? 
+(A) 𝐹(𝑛) = 𝐹(⌊𝑛/2⌋) + 1 
+(B) 𝐹(𝑛) = 𝐹(⌊𝑛/2⌋) + 𝐹(⌈𝑛/2⌉) 
+(C) 𝐹(𝑛) = 𝐹(⌊𝑛/2⌋) 
+(D) 𝐹(𝑛) = 𝐹(𝑛 − 1) + 1 
+ 
+ 
+Q.41 Consider the following Python function: 
+def fun(D, s1, s2): 
+       if s1 < s2: 
+          D[s1], D[s2] = D[s2], D[s1] 
+          fun(D, s1+1, s2-1) 
+What does this Python function fun()  do? Select the ONE appropriate option 
+below.   
+(A) It finds the smallest element in D from index s1 to s2, both inclusive.  
+(B) It performs a merge sort in-place on this list D between indices s1 and s2, both 
+inclusive. 
+(C) It reverses the list D between indices s1 and s2, both inclusive. 
+(D) It swaps the elements in D at indices s1 and s2, and leaves the remaining elements 
+unchanged. 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 26 of 41 
+Organizing Institute: IISc Bengaluru 
+ 
+Q.42 Consider the table below, where the (𝑖, 𝑗)𝑡ℎ element of the table is the distance 
+between points 𝑥𝑖 and 𝑥𝑗. Single linkage clustering is performed on data points, 
+𝑥1,𝑥2, 𝑥3,𝑥4, 𝑥5.  
+ 
+ 
+ 
+ 
+ 
+ 
+Which ONE of the following is the correct representation of the clusters produced? 
+ 𝑥1 𝑥2 𝑥3 𝑥4 𝑥5 
+𝑥1 0 1 4 3 6 
+𝑥2 1 0 3 5 3 
+𝑥3 4 3 0 2 5 
+𝑥4 3 5 2 0 1 
+𝑥5 6 3 5 1 0 
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+ 
+
+ Data Science and Artificial Intelligence (DA) 
+Page 27 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.43 Consider the two neural networks (NNs) shown in Figures 1 and 2, with 𝑅𝑒𝐿𝑈 
+activation (𝑅𝑒𝐿𝑈(𝑧) = max{0, 𝑧} , ∀𝑧 ∈ ℝ). ℝ denotes the set of real numbers. The 
+connections and their corresponding weights are shown in the Figures. The biases 
+at every neuron are set to 0. For what values of 𝑝, 𝑞, 𝑟 in Figure 2 are the two NNs 
+equivalent, when 𝑥1,𝑥2, 𝑥3 are positive?  
+Figure 1 
+ 
+ 
+ 
+ 
+ 
+Figure 2 
+(A) 𝑝 = 36, 𝑞 = 24,𝑟 = 24 
+(B) 𝑝 = 24, 𝑞 = 24,𝑟 = 36 
+(C) 𝑝 = 18, 𝑞 = 36,𝑟 = 24 
+(D) 𝑝 = 36, 𝑞 = 36,𝑟 = 36 
+ 
+ 
+ 
+ 
+ 
+
+ Data Science and Artificial Intelligence (DA) 
+Page 28 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.44 Consider a state space where the start state is number 1. The successor function for 
+the state numbered n returns two states numbered n+1 and n+2. Assume that the 
+states in the unexpanded state list are expanded in the ascending order of numbers 
+and the previously expanded states are not added to the unexpanded state list.  
+Which ONE of the following statements about breadth -first search (BFS) and 
+depth-first search (DFS) is true, when reaching the goal state number 6?  
+(A) BFS expands more states than DFS. 
+(B) DFS expands more states than BFS. 
+(C) Both BFS and DFS expand equal number of states. 
+(D) Both BFS and DFS do not reach the goal state number 6. 
+ 
+Q.45 Consider the following sorting algorithms:  
+(i) Bubble sort 
+(ii) Insertion sort 
+(iii) Selection sort 
+Which ONE among the following choices of sorting algorithms sorts the numbers 
+in the array [4, 3, 2, 1, 5] in increasing order after exactly two passes over the array? 
+(A) (i) only 
+(B) (iii) only 
+(C) (i) and (iii) only 
+(D) (ii) and (iii) only 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 29 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.46 Given the relational schema 𝑅 = (𝑈,𝑉, 𝑊, 𝑋, 𝑌, 𝑍) and the set of functional 
+dependencies: 
+{𝑈 → 𝑉, 𝑈 → 𝑊, 𝑊𝑋 → 𝑌, 𝑊𝑋 → 𝑍, 𝑉 → 𝑋} 
+Which of the following functional dependencies can be derived from the above 
+set? 
+(A) 𝑉𝑊 → 𝑌𝑍 
+(B) 𝑊𝑋 → 𝑌𝑍 
+(C) 𝑉𝑊 → 𝑈 
+(D) 𝑉𝑊 → 𝑌 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ Data Science and Artificial Intelligence (DA) 
+Page 30 of 41 
+Organizing Institute: IISc Bengaluru 
+ 
+Q.47 Select all choices that are subspaces of  ℝ3.  
+Note: ℝ denotes the set of real numbers. 
+(A) 
+{𝐱 = [
+𝑥1
+𝑥2
+𝑥3
+] ∈ ℝ3:   𝐱 = 𝛼 [
+1
+1
+0
+] + 𝛽 [
+1
+0
+0
+] ,𝛼, 𝛽 ∈ ℝ} 
+(B) 
+{𝐱 = [
+𝑥1
+𝑥2
+𝑥3
+] ∈ ℝ3:   𝐱 = 𝛼2 [
+1
+2
+0
+] + 𝛽2 [
+1
+0
+1
+] , 𝛼, 𝛽 ∈ ℝ} 
+(C) 
+{𝐱 = [
+𝑥1
+𝑥2
+𝑥3
+] ∈ ℝ3:   5𝑥1 + 2𝑥3 = 0, 4𝑥1 − 2𝑥2 + 3𝑥3 = 0} 
+(D) 
+{𝐱 = [
+𝑥1
+𝑥2
+𝑥3
+] ∈ ℝ3:    5𝑥1 + 2𝑥3 + 4 = 0} 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 31 of 41 
+Organizing Institute: IISc Bengaluru 
+ 
+ 
+Q.48 Which of the following statements is/are TRUE?  
+Note: ℝ denotes the set of real numbers. 
+(A) There exist 𝑴 ∈ ℝ3×3, 𝒑 ∈ ℝ3, and 𝒒 ∈ ℝ3  such that 𝑴𝐱 = 𝒑 has a unique 
+solution and M𝐱 = 𝒒  has infinite solutions.  
+(B) There exist 𝑴 ∈ ℝ3×3, 𝒑 ∈ ℝ3, and 𝒒 ∈ ℝ3  such that 𝑴𝐱 = 𝒑 has no solutions 
+and M𝐱 = 𝒒  has infinite solutions. 
+(C) There exist 𝑴 ∈ ℝ2×3, 𝒑 ∈ ℝ2, and 𝒒 ∈ ℝ2 such that 𝑴𝐱 = 𝒑 has a unique 
+solution and M𝐱 = 𝒒 has infinite solutions. 
+(D) There exist 𝑴 ∈ ℝ3×2, 𝒑 ∈ ℝ3, and 𝒒 ∈ ℝ3  such that 𝑴𝐱 = 𝒑 has a unique 
+solution and M𝐱 = 𝒒 has no solutions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 32 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.49 Let ℝ be the set of real numbers, 𝑈 be a subspace of ℝ3  and  𝑴 ∈ ℝ3×3 be the 
+matrix corresponding to the projection on to the subspace 𝑈. 
+Which of the following statements is/are TRUE?  
+(A) If 𝑈 is a 1-dimensional subspace of ℝ3, then the null space of 𝑴 is a  
+1-dimensional subspace. 
+(B) If 𝑈 is a 2-dimensional subspace of ℝ3, then the null space of 𝑴 is a 
+1-dimensional subspace. 
+(C) 𝑴2 =  𝑴 
+(D) 𝑴3 =  𝑴 
+ 
+ 
+ 
+Q.50 Consider the function 𝑓: ℝ → ℝ where ℝ is the set of all real numbers. 
+𝑓(𝑥) = 𝑥 4
+4 − 2𝑥 3
+3 − 3𝑥 2
+2 + 1 
+Which of the following statements is/are TRUE? 
+(A) 𝑥 = 0 is a local maximum of f 
+(B) 𝑥 = 3 is a local minimum of f 
+(C) 𝑥 = −1 is a local maximum of f 
+(D) 𝑥 = 0 is a local minimum of f 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 33 of 41 
+Organizing Institute: IISc Bengaluru 
+ 
+ 
+Q.51 Consider the directed acyclic graph (DAG) below:  
+ 
+Which of the following is/are valid vertex orderings that can be obtained from a 
+topological sort of the DAG?  
+(A) P Q R S T U V 
+(B) P R Q V S U T  
+(C) P Q R S V U T  
+(D) P R Q S V T U 
+  
+
+ Data Science and Artificial Intelligence (DA) 
+Page 34 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.52 Let H, 𝐼, 𝐿, and 𝑁 represent height, number of internal nodes, number of leaf nodes, 
+and the total number of nodes respectively in a rooted binary tree.  
+Which of the following statements is/are always TRUE? 
+(A) 𝐿 ≤ 𝐼 + 1  
+(B) 𝐻 + 1 ≤ 𝑁 ≤ 2𝐻+1 − 1  
+(C) 𝐻 ≤ 𝐼 ≤ 2𝐻 − 1  
+(D) 𝐻 ≤ 𝐿 ≤ 2𝐻−1  
+  
+ Data Science and Artificial Intelligence (DA) 
+Page 35 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.53 Consider the following figures representing datasets consisting of  
+two-dimensional features with two classes denoted by circles and squares. 
+ 
+(i) 
+ 
+(ii) 
+ 
+(iii) 
+ 
+(iv) 
+Which of the following is/are TRUE?  
+(A) (i) is linearly separable. 
+(B) (ii) is linearly separable. 
+(C) (iii) is linearly separable. 
+(D) (iv) is linearly separable. 
+ 
+  
+
+ Data Science and Artificial Intelligence (DA) 
+Page 36 of 41 
+Organizing Institute: IISc Bengaluru 
+ 
+Q.54 Let game(ball, rugby) be true if the ball is used in rugby and false otherwise. 
+Let shape(ball, round) be true if the ball is round and false otherwise.  
+Consider the following logical sentences: 
+s1: ∀ball ¬ game(ball, rugby) ⟹shape(ball, round) 
+s2: ∀ball ¬ shape(ball, round) ⟹game(ball, rugby) 
+s3: ∀ball  game(ball, rugby) ⟹ ¬ shape(ball, round) 
+s4: ∀ball  shape(ball, round) ⟹ ¬ game(ball, rugby) 
+Which of the following choices is/are logical representations of the assertion,   
+                   “All balls are round except balls used in rugby”? 
+ 
+(A) 𝑠1 ∧ 𝑠3 
+(B) 𝑠1 ∧ 𝑠2 
+(C) 𝑠2 ∧ 𝑠3 
+(D) 𝑠3 ∧ 𝑠4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 37 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.55 An OTT company is maintaining a large disk-based relational database of different 
+movies with the following schema: 
+Movie(ID, CustomerRating) 
+Genre(ID, Name) 
+Movie_Genre(MovieID, GenreID) 
+Consider the following SQL query on the relation database above: 
+SELECT * 
+FROM Movie, Genre, Movie_Genre 
+WHERE  
+ Movie.CustomerRating > 3.4 AND 
+ Genre.Name = “Comedy” AND 
+ Movie_Genre.MovieID = Movie.ID AND 
+ Movie_Genre.GenreID = Genre.ID; 
+This SQL query can be sped up using which of the following indexing options? 
+A B + tree on all the attributes. 
+B Hash index on Genre .Name and B + tree on the remaining attributes. 
+C Hash index on Movie .CustomerRating and B + tree on the remaining 
+attributes. 
+ 
+D Hash index on all the attributes. 
+ 
+Q.56 Let 𝑋 be a random variable uniformly distributed in the interval [1, 3] and 𝑌 be a 
+random variable uniformly distributed in the interval [2, 4]. If X and Y are 
+independent of each other, the probability P(𝑋 ≥ 𝑌) is ______ (rounded off to 
+three decimal places). 
+ 
+ 
+ 
+ 
+ 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 38 of 41 
+Organizing Institute: IISc Bengaluru 
+ 
+Q.57 Let 𝑋 be a random variable exponentially distributed with parameter 𝜆 > 0. The 
+probability density function of X is given by: 
+𝑓𝑋(𝑥) = {𝜆 𝑒−𝜆𝑥,         𝑥 ≥ 0 
+0,           𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒 
+If 5𝐸(𝑋) = 𝑉𝑎𝑟(𝑋), where 𝐸(𝑋) and 𝑉𝑎𝑟(𝑋) indicate the expectation and variance 
+of 𝑋, respectively, the value of 𝜆 is ______  (rounded off to one decimal place). 
+ 
+Q.58 Consider two events T and S. Let 𝑇 ̅denote the complement of the event T. The 
+probability associated with different events are given as follows: 
+𝑃(𝑇 ̅ ) = 0.6, 𝑃(𝑆|𝑇) = 0.3, 𝑃(𝑆|𝑇 ̅) = 0.6 
+Then, 𝑃(𝑇|𝑆) is ______ (rounded off to two decimal places). 
+ 
+Q.59 Consider a joint probability density function of two random variables X and Y 
+𝑓𝑋,𝑌(𝑥, 𝑦) = {2𝑥𝑦, 0 < 𝑥 < 2, 0 < 𝑦 < 𝑥 
+0, otherwise                          
+Then, 𝐸[𝑌|𝑋 = 1.5] is ______. 
+ 
+ 
+Q.60 Evaluate the following limit: 
+lim
+𝑥→0
+ln ((𝑥2+1) cos 𝑥)
+𝑥2 = ______. 
+ 
+ Data Science and Artificial Intelligence (DA) 
+Page 39 of 41 
+Organizing Institute: IISc Bengaluru 
+ 
+Q.61 
+Let 𝒖 = 
+[
+ 
+ 
+ 
+  1 
+2
+3
+4
+5 ]
+ 
+ 
+ 
+ 
+ ,   and let  𝜎1, 𝜎2,𝜎3, 𝜎4, 𝜎5 be the singular values of the matrix  
+ 
+𝑴= 𝒖𝒖𝑻 (where 𝒖𝑻 is the transpose of 𝒖). The value of  ∑ 𝜎𝑖  5
+𝑖=1  is ______. 
+ 
+ 
+Q.62 Details of ten international cricket games between two teams “Green” and “Blue” 
+are given in Table C. This table consists of matches played on different pitches, 
+across formats along with their winners. The attribute Pitch can take one of two 
+values: spin-friendly (represented as 𝑆) or pace -friendly (represented as 𝐹). The 
+attribute Format can take one of two values: one -day match (represented as 𝑂) or 
+test match (represented as 𝑇).   
+ 
+A cricket organization would like to use the information given in Table C to develop 
+a decision-tree model to predict outcomes of future games between these two teams.   
+ 
+To develop such a model, the computed InformationGain(C, Pitch ) with respect to 
+the Target is ______ (rounded off to two decimal places). 
+ 
+ 
+Table C 
+ 
+Match 
+Number 
+Pitch Format Winner (Target) 
+1 𝑆 𝑇 Green 
+2 𝑆 𝑇 Blue 
+3 𝐹 𝑂 Blue 
+4 𝑆 𝑂 Blue 
+5 𝐹 𝑇 Green 
+6 𝐹 𝑂 Blue 
+7 𝑆 𝑂 Green 
+8 𝐹 𝑇 Blue 
+9 𝐹 𝑂 Blue 
+10 𝑆 𝑂 Green 
+ 
+  
+ Data Science and Artificial Intelligence (DA) 
+Page 40 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.63 Given the two -dimensional dataset consisting of 5 data points from two classes 
+(circles and squares) and assume that the Euclidean distance is used to measure the 
+distance between two points. The minimum odd value of 𝑘 in 𝑘-nearest neighbor 
+algorithm for which the diamond (⋄) shaped data point is assigned the label square 
+is ______. 
+ 
+
+ Data Science and Artificial Intelligence (DA) 
+Page 41 of 41 
+Organizing Institute: IISc Bengaluru 
+Q.64 Given the following Bayesian Network consisting of four Bernoulli random 
+variables and the associated conditional probability tables: 
+ 
+ 
+ 
+ 
+ 𝑃(𝑊 = 0| ⋅) 𝑃(𝑊 = 1| ⋅) 
+𝑈 = 0 1 0 
+𝑈 = 1 0 1 
+ 
+  𝑃(𝑍 = 0| ⋅) 𝑃(𝑍 = 1| ⋅) 
+𝑉 = 0 𝑊 = 0 0.5 0.5 
+𝑉 = 0 𝑊 = 1 1 0 
+𝑉 = 1 𝑊 = 0 1 0 
+𝑉 = 1 𝑊 = 1 0.5 0.5 
+The value of 𝑃(𝑈 = 1, 𝑉 = 1, 𝑊 = 1,𝑍 = 1) = ______ (rounded off to three 
+decimal places). 
+ 𝑃(⋅) 
+𝑈 = 0 0.5 
+𝑈 = 1 0.5 
+ 𝑃(𝑉 = 0| ⋅) 𝑃(𝑉 = 1| ⋅) 
+𝑈 =  0 0.5 0.5 
+𝑈 = 1 0.5 0.5 
+ 
+ 
+Q.65 Two fair coins are tossed independently. X is a random variable that takes a value 
+of 1 if both tosses are heads and 0 otherwise. Y is a random variable that takes a 
+value of 1 if at least one of the tosses is heads and 0 otherwise.  
+The value of the covariance of X and Y is ______ (rounded off to three decimal 
+places). 
+ 

@@ -1,0 +1,38 @@
+Key / Range Marks Key / Range Marks
+GA 1 A 1 CS 24 C 1
+GA 2 B 1 CS 25 26  to 26 1
+GA 3 A 1 CS 26 D 2
+GA 4 B 1 CS 27 C 2
+GA 5 C 1 CS 28 B 2
+GA 6 B 2 CS 29 C 2
+GA 7 D 2 CS 30 A 2
+GA 8 D 2 CS 31 C 2
+GA 9 140  to 140 2 CS 32 1000  to 1000 2
+GA 10 A 2 CS 33 D 2
+CS 1 11.85 to 11.95 1 CS 34 A 2
+CS 2 3.8  to 3.9 1 CS 35 B 2
+CS 3 36 to 36 1 CS 36 A 2
+CS 4 0 to 0 1 CS 37 34 to 34 2
+CS 5 A 1 CS 38 358 to 358 2
+CS 6 D 1 CS 39 6 to 62
+CS 7 C 1 CS 40 1.72 to 1.74 2
+CS 8 3 to 3 1 CS 41 C 2
+CS 9 20 to 20 1 CS 42 D 2
+CS 10 9 to 9 1 CS 43 D 2
+CS 11 B 1 CS 44 D 2
+CS 12 A 1 CS 45 A 2
+CS 13 A 1 CS 46 A 2
+CS 14 B 1 CS 47 6 to 62
+CS 15 A 1 CS 48 0.259 to 0.261 2
+CS 16 D 1 CS 49 8 to 82
+CS 17 B 1 CS 50 A 2
+CS 18 A 1 CS 51 5 to 52
+CS 19 C 1 CS 52 6  to 62
+CS 20 99.55
+ to 99.65 1 CS 53 B 2
+CS 21 8 to 8 1 CS 54 C 2
+CS 22 19 to 19 1 CS 55 10000  to 10000 2
+CS 23 A 1
+GATE 2014
+ Answer Keys for CS ‐ Computer Science and Information Technology
+Section Q. No. SESSION ‐ 2 Section Q.  No. SESSION ‐ 2

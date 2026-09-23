@@ -1,0 +1,196 @@
+year,q_no,subject,subtopic,type,marks,answer,skill,confidence,alt_subject,note
+2024,1,General Aptitude,verbal,MCQ,1,D,concept,high,,word analogy
+2024,2,General Aptitude,spatial,MCQ,1,A,concept,high,,colouring a 15-part figure
+2024,3,General Aptitude,quantitative,MCQ,1,B,calculation,high,,permutations; divisibility by 3
+2024,4,General Aptitude,quantitative,MCQ,1,B,calculation,high,,infinite series
+2024,5,General Aptitude,quantitative,MCQ,1,B,calculation,high,,pie chart
+2024,6,General Aptitude,verbal,MCQ,2,D,concept,high,,passage inference
+2024,7,General Aptitude,quantitative,MCQ,2,A,calculation,high,,elementary probability
+2024,8,General Aptitude,quantitative,MCQ,2,B,calculation,high,,table; percentages
+2024,9,General Aptitude,spatial,MCQ,2,A,concept,high,,dice net folding
+2024,10,General Aptitude,spatial,MCQ,2,A,concept,high,,3-D cross-section of cones
+2024,11,Probability and Statistics,Poisson distribution; normal distribution,MCQ,1,A,concept,high,,
+2024,12,Probability and Statistics,sample space and events,MCQ,1,A,calculation,high,,
+2024,13,Linear Algebra,eigenvalues and eigenvectors,MCQ,1,B,calculation,high,,
+2024,14,"Programming, Data Structures and Algorithms",graph traversals,MCQ,1,A,concept,high,,DFS edge classification
+2024,15,Calculus and Optimization,maxima and minima,MCQ,1,A,concept,high,,second-derivative test
+2024,16,"Programming, Data Structures and Algorithms",stacks; queues; hash tables,MCQ,1,A,concept,high,,
+2024,17,Machine Learning,support vector machine,MCQ,1,D,calculation,high,,
+2024,18,Machine Learning,PCA; naive Bayes classifier; logistic regression,MCQ,1,C,concept,high,,generative vs discriminative
+2024,19,Machine Learning,k-means/k-medoid,MCQ,1,D,concept,high,,
+2024,20,Machine Learning,naive Bayes classifier,MCQ,1,B,concept,high,,parameter count
+2024,21,"Programming, Data Structures and Algorithms",hash tables,MCQ,1,B,concept,high,,open addressing probes
+2024,22,Machine Learning,linear discriminant analysis,MCQ,1,A,concept,high,Linear Algebra,Fisher LDA as eigenproblem; uses LA
+2024,23,AI,informed search,MCQ,1,D,concept,high,,admissible heuristics
+2024,24,AI,conditional independence representation,MCQ,1,C,concept,medium,Probability and Statistics,factorised joint (Bayes net)
+2024,25,AI,minimax/adversarial search,MCQ,1,C,concept,high,,alpha-beta pruning
+2024,26,Database Management and Warehousing,relational algebra,MCQ,1,C,code,high,,
+2024,27,Database Management and Warehousing,data transformation,MCQ,1,B,calculation,medium,Probability and Statistics,z-score normalization
+2024,28,"Programming, Data Structures and Algorithms",trees,MSQ,1,A;B;C,concept,high,,traversals that rebuild a tree
+2024,29,AI,propositional logic,MSQ,1,B;C;D,calculation,high,,tautologies
+2024,30,"Programming, Data Structures and Algorithms",quicksort,NAT,1,0 to 0,calculation,high,,swap count depends on partition scheme
+2024,31,Database Management and Warehousing,SQL,NAT,1,3 to 3,code,high,,
+2024,32,"Programming, Data Structures and Algorithms",queues,NAT,1,17 to 17,code,high,,deque trace
+2024,33,Calculus and Optimization,continuity and differentiability,NAT,1,0.24 to 0.24,calculation,medium,Machine Learning,sigmoid derivative
+2024,34,Probability and Statistics,mean/median/mode/standard deviation,NAT,1,42 to 42,calculation,high,,
+2024,35,Linear Algebra,determinant,NAT,1,0 to 0,calculation,high,,
+2024,36,Probability and Statistics,conditional expectation and variance,MCQ,2,C,calculation,high,,expected waiting time
+2024,37,Calculus and Optimization,continuity and differentiability,MCQ,2,A,calculation,high,,piecewise function
+2024,38,"Programming, Data Structures and Algorithms",programming in Python,MCQ,2,D,code,high,,recursion over a tree
+2024,39,"Programming, Data Structures and Algorithms",programming (pseudocode),MCQ,2,C,code,high,,
+2024,40,"Programming, Data Structures and Algorithms",binary search,MCQ,2,A,concept,high,,comparison recurrence
+2024,41,"Programming, Data Structures and Algorithms",programming in Python,MCQ,2,C,code,high,,recursion
+2024,42,Machine Learning,hierarchical clustering,MCQ,2,A,calculation,high,,single linkage
+2024,43,Machine Learning,feed-forward neural network,MCQ,2,A,calculation,high,,ReLU network equivalence
+2024,44,AI,uninformed search,MCQ,2,C,calculation,medium,"Programming, Data Structures and Algorithms",BFS vs DFS in a state space
+2024,45,"Programming, Data Structures and Algorithms",basic sorting algorithms,MCQ,2,B,calculation,high,,
+2024,46,Database Management and Warehousing,normal form,MSQ,2,A;B;D,calculation,high,,FD closure
+2024,47,Linear Algebra,vector space and subspaces,MSQ,2,A;C,concept,high,,
+2024,48,Linear Algebra,systems of linear equations,MSQ,2,B;D,concept,high,,
+2024,49,Linear Algebra,projection matrix,MSQ,2,B;C;D,concept,high,,
+2024,50,Calculus and Optimization,maxima and minima,MSQ,2,A;B,calculation,high,,
+2024,51,"Programming, Data Structures and Algorithms",graph theory,MSQ,2,B;D,concept,high,,topological sort
+2024,52,"Programming, Data Structures and Algorithms",trees,MSQ,2,A;B;C,concept,high,,binary tree bounds
+2024,53,Machine Learning,classification problems,MSQ,2,A;D,concept,high,,linear separability
+2024,54,AI,predicate logic,MSQ,2,A;C,concept,high,,
+2024,55,Database Management and Warehousing,indexing,MSQ,2,A;B,concept,high,,hash vs B+ tree
+2024,56,Probability and Statistics,uniform distribution,NAT,2,0.125 to 0.125,calculation,high,,
+2024,57,Probability and Statistics,exponential distribution,NAT,2,0.2 to 0.2,calculation,high,,
+2024,58,Probability and Statistics,Bayes theorem,NAT,2,0.25 to 0.25,calculation,high,,
+2024,59,Probability and Statistics,conditional PDF,NAT,2,MTA,calculation,high,,MTA; given joint pdf integrates to 4
+2024,60,Calculus and Optimization,limit,NAT,2,0.5 to 0.5,calculation,high,,
+2024,61,Linear Algebra,singular value decomposition,NAT,2,55 to 55,calculation,high,,
+2024,62,Machine Learning,decision trees,NAT,2,0.12 to 0.13,calculation,high,,information gain
+2024,63,Machine Learning,k-nearest neighbour,NAT,2,5 to 5,calculation,high,,
+2024,64,AI,conditional independence representation,NAT,2,0.125 to 0.125,calculation,high,Probability and Statistics,joint from Bayes-net CPTs
+2024,65,Probability and Statistics,correlation and covariance,NAT,2,0.062 to 0.063,calculation,high,,
+2025,1,General Aptitude,verbal,MCQ,1,A,concept,high,,word analogy
+2025,2,General Aptitude,verbal,MCQ,1,B,concept,high,,tense
+2025,3,General Aptitude,quantitative,MCQ,1,C,calculation,high,,reading a pixel table
+2025,4,General Aptitude,analytical,MCQ,1,A,concept,high,,number pattern in overlapping shapes
+2025,5,General Aptitude,quantitative,MCQ,1,C,calculation,high,,mensuration
+2025,6,General Aptitude,verbal,MCQ,2,B,concept,high,,phrasal verbs
+2025,7,General Aptitude,analytical,MCQ,2,B,concept,high,,reasoning about a unimodal function
+2025,8,General Aptitude,spatial,MCQ,2,A,calculation,high,,assembling triangles; solved by area
+2025,9,General Aptitude,quantitative,MCQ,2,C,calculation,high,,exponents
+2025,10,General Aptitude,quantitative,MCQ,2,A,calculation,high,,bar chart; weighted mean
+2025,11,Probability and Statistics,conditional expectation and variance,MCQ,1,C,concept,high,,law of total expectation
+2025,12,Linear Algebra,Gaussian elimination,MCQ,1,B,concept,high,,operation count
+2025,13,Linear Algebra,systems of linear equations; eigenvalues and eigenvectors,MCQ,1,C,concept,high,,
+2025,14,Calculus and Optimization,Taylor series,MCQ,1,A,concept,high,,10th derivative of sinh at 0
+2025,15,AI,propositional logic,MCQ,1,A,concept,high,,logical equivalence
+2025,16,Database Management and Warehousing,normal form,MCQ,1,C,concept,high,,dependency preservation
+2025,17,Database Management and Warehousing,relational algebra,MCQ,1,C,code,high,,
+2025,18,"Programming, Data Structures and Algorithms",hash tables,MCQ,1,D,calculation,high,,linear probing
+2025,19,Probability and Statistics,cumulative distribution function,MCQ,1,A,calculation,high,,median from CDF
+2025,20,Probability and Statistics,normal distribution,MCQ,1,A,calculation,high,,
+2025,21,Probability and Statistics,exponential distribution,MCQ,1,A,calculation,high,,
+2025,22,Machine Learning,classification problems,MCQ,1,A,concept,high,,perceptron update
+2025,23,"Programming, Data Structures and Algorithms",programming in Python,MCQ,1,A,code,high,,list methods
+2025,24,Calculus and Optimization,continuity and differentiability,MSQ,1,A;B;C,concept,high,,
+2025,25,Linear Algebra,linear dependence and independence,MSQ,1,B;D,concept,high,,orthonormal bases
+2025,26,AI,variable elimination; approximate inference (sampling),MSQ,1,C;D,concept,high,,
+2025,27,"Programming, Data Structures and Algorithms",binary search,MSQ,1,C,concept,high,,array vs linked list
+2025,28,Linear Algebra,eigenvalues and eigenvectors,MSQ,1,A;B,concept,high,,I + xx^T
+2025,29,"Programming, Data Structures and Algorithms",basic sorting algorithms,MSQ,1,A;C,calculation,high,,insertion sort swaps
+2025,30,Machine Learning,hierarchical clustering,MSQ,1,B;D,concept,high,,single vs complete linkage
+2025,31,Probability and Statistics,Bayes theorem,NAT,1,0.25 to 0.25,calculation,high,,
+2025,32,Calculus and Optimization,limit,NAT,1,0.5 to 0.5,calculation,high,,
+2025,33,Database Management and Warehousing,SQL,NAT,1,3 to 3,code,high,,
+2025,34,Machine Learning,simple linear regression,NAT,1,0.285 to 0.287,calculation,high,,least squares
+2025,35,Machine Learning,naive Bayes classifier,NAT,1,0.39 to 0.41,calculation,high,Probability and Statistics,misclassification probability
+2025,36,Probability and Statistics,normal distribution,MCQ,2,B,calculation,high,,Var(Z^2)
+2025,37,Linear Algebra,rank and nullity,MCQ,2,D,concept,high,,A^3 = A
+2025,38,Linear Algebra,linear dependence and independence,MCQ,2,A,concept,high,,Gram matrix
+2025,39,Probability and Statistics,cumulative distribution function,MCQ,2,C,calculation,high,,
+2025,40,Probability and Statistics,central limit theorem,MCQ,2,A,calculation,high,,
+2025,41,Probability and Statistics,exponential distribution,MCQ,2,A,calculation,high,,floor gives geometric
+2025,42,Machine Learning,feed-forward neural network,MCQ,2,A,calculation,high,Calculus and Optimization,backprop through ReLU
+2025,43,AI,minimax/adversarial search,MCQ,2,C,calculation,high,,alpha-beta pruning
+2025,44,AI,informed search,MCQ,2,C,calculation,high,,A*
+2025,45,Probability and Statistics,independent events,MCQ,2,C,calculation,high,,
+2025,46,Database Management and Warehousing,multidimensional data models,MCQ,2,D,code,high,,GROUP BY CUBE
+2025,47,"Programming, Data Structures and Algorithms",programming in Python,MCQ,2,B,code,high,,set operations
+2025,48,Calculus and Optimization,continuity and differentiability,MSQ,2,A;C,concept,medium,Machine Learning,ReLU properties
+2025,49,Calculus and Optimization,maxima and minima,MSQ,2,C;D,calculation,high,,
+2025,50,Linear Algebra,projection matrix,MSQ,2,A;B,concept,high,,singular values vs eigenvalues
+2025,51,Calculus and Optimization,maxima and minima,MSQ,2,B;C;D,concept,high,,f'' > 0
+2025,52,Linear Algebra,orthogonal matrix,MSQ,2,A;D,concept,high,,
+2025,53,Machine Learning,support vector machine,MSQ,2,B;C,calculation,high,,
+2025,54,Probability and Statistics,Bernoulli/binomial distribution,MSQ,2,A;C,concept,high,,sample proportion
+2025,55,Machine Learning,classification problems,MSQ,2,B;C,concept,high,,nearest-mean classifier
+2025,56,Database Management and Warehousing,integrity constraints,MSQ,2,B;C,concept,high,,keys and NULLs
+2025,57,Database Management and Warehousing,normal form,MSQ,2,B;D,calculation,high,,candidate keys; BCNF
+2025,58,"Programming, Data Structures and Algorithms",shortest path,MSQ,2,A;C;D,concept,high,,
+2025,59,Calculus and Optimization,continuity and differentiability,NAT,2,0 to 0,concept,high,,
+2025,60,Machine Learning,PCA,NAT,2,100 to 100,calculation,high,Linear Algebra,variance = top eigenvalue
+2025,61,Probability and Statistics,Bernoulli/binomial distribution,NAT,2,66.6 to 66.7,calculation,high,,
+2025,62,Database Management and Warehousing,relational algebra,NAT,2,1 to 1,code,high,,division
+2025,63,"Programming, Data Structures and Algorithms",programming in Python,NAT,2,160 to 160,code,high,,recursion
+2025,64,"Programming, Data Structures and Algorithms",stacks,NAT,2,24 to 24,code,high,,pseudocode
+2025,65,"Programming, Data Structures and Algorithms",graph traversals,NAT,2,75 to 75,calculation,high,,DFS order
+2026,1,General Aptitude,verbal,MCQ,1,B,concept,high,,word analogy
+2026,2,General Aptitude,quantitative,MCQ,1,B,calculation,high,,digit product
+2026,3,General Aptitude,spatial,MCQ,1,A,concept,high,,assembling puzzle pieces
+2026,4,General Aptitude,quantitative,MCQ,1,C,calculation,high,,logarithms
+2026,5,General Aptitude,verbal,MCQ,1,D,concept,high,,counterfactual conditional
+2026,6,General Aptitude,verbal,MCQ,2,A,concept,high,,prepositions
+2026,7,General Aptitude,quantitative,MCQ,2,B,calculation,high,,mean/median/mode
+2026,8,General Aptitude,analytical,MCQ,2,D,concept,high,,logic puzzle
+2026,9,General Aptitude,analytical,MCQ,2,C,calculation,high,,digit puzzle
+2026,10,General Aptitude,quantitative,MCQ,2,C,calculation,high,,circle geometry
+2026,11,Machine Learning,PCA,MCQ,1,B,concept,high,Linear Algebra,PCs are orthogonal
+2026,12,Machine Learning,cross-validation,MCQ,1,C,concept,high,,LOOCV
+2026,13,AI,uninformed search; informed search,MCQ,1,C,concept,high,,
+2026,14,AI,predicate logic,MCQ,1,C,concept,high,,
+2026,15,"Programming, Data Structures and Algorithms",quicksort,MCQ,1,D,concept,high,,average-case recurrence
+2026,16,"Programming, Data Structures and Algorithms",programming in Python,MCQ,1,B,code,high,,mutable default argument
+2026,17,Database Management and Warehousing,normal form,MCQ,1,A,calculation,high,,candidate keys
+2026,18,Database Management and Warehousing,multidimensional data models,MCQ,1,D,concept,high,,OLAP drill-down
+2026,19,Probability and Statistics,counting (permutations and combinations),MCQ,1,C,calculation,high,,
+2026,20,Probability and Statistics,counting (permutations and combinations),MCQ,1,A,calculation,high,,stars and bars
+2026,21,Linear Algebra,orthogonal matrix,MCQ,1,B,calculation,high,,rotation matrix power
+2026,22,Linear Algebra,vector space and subspaces,MCQ,1,A,concept,high,,
+2026,23,Machine Learning,k-means/k-medoid; naive Bayes classifier; linear discriminant analysis,MSQ,1,B,concept,high,,task-algorithm matching (incl. MCMC)
+2026,24,AI,propositional logic,MSQ,1,A;B;C,concept,high,,entailment
+2026,25,"Programming, Data Structures and Algorithms",trees,MSQ,1,A;B,calculation,high,,rebuild from traversals
+2026,26,Database Management and Warehousing,integrity constraints,MSQ,1,A;B,concept,high,,foreign key
+2026,27,Calculus and Optimization,maxima and minima,MSQ,1,B;D,calculation,high,,
+2026,28,Probability and Statistics,t-distribution; normal distribution,MSQ,1,A;C,concept,high,,
+2026,29,Machine Learning,gradient descent,NAT,1,8.90 to 9.10,calculation,medium,Calculus and Optimization,SGD step; not named in syllabus
+2026,30,AI,minimax/adversarial search,NAT,1,2 to 2,calculation,high,,
+2026,31,"Programming, Data Structures and Algorithms",binary search,NAT,1,10 to 10,calculation,high,,
+2026,32,Database Management and Warehousing,indexing,NAT,1,195 to 195,calculation,high,,B+ tree fan-out
+2026,33,Probability and Statistics,counting (permutations and combinations),NAT,1,10 to 10,calculation,medium,,involutions; discrete maths
+2026,34,Probability and Statistics,exponential distribution,NAT,1,0.34 to 0.36,calculation,high,,memoryless
+2026,35,Calculus and Optimization,limit,NAT,1,1 to 1,calculation,medium,,double geometric series
+2026,36,Machine Learning,hierarchical clustering,MCQ,2,D,calculation,high,,Manhattan distance
+2026,37,Machine Learning,ridge regression; bias-variance trade-off,MCQ,2,D,concept,high,,
+2026,38,AI,propositional logic,MCQ,2,B,concept,high,,
+2026,39,"Programming, Data Structures and Algorithms",programming in Python,MCQ,2,C,code,high,,recursion call count
+2026,40,"Programming, Data Structures and Algorithms",graph traversals,MCQ,2,D,concept,high,,reversed-graph reachability
+2026,41,Database Management and Warehousing,indexing,MCQ,2,A,calculation,high,,B+ tree insertion
+2026,42,Database Management and Warehousing,relational algebra,MCQ,2,D,code,high,,
+2026,43,Database Management and Warehousing,concept hierarchies,MCQ,2,A,calculation,high,,cuboid count
+2026,44,Probability and Statistics,random variables,MCQ,2,A,calculation,high,,variance of a product
+2026,45,Probability and Statistics,central limit theorem,MCQ,2,A,calculation,medium,Calculus and Optimization,posed as a limit
+2026,46,Linear Algebra,eigenvalues and eigenvectors,MCQ,2,C,calculation,high,,
+2026,47,Machine Learning,classification problems,MSQ,2,A;B,calculation,high,,accuracy/precision/recall
+2026,48,AI,predicate logic,MSQ,2,B;C;D,concept,high,,validity
+2026,49,"Programming, Data Structures and Algorithms",basic sorting algorithms,MSQ,2,B;C;D,calculation,high,,
+2026,50,"Programming, Data Structures and Algorithms",programming in Python,MSQ,2,B;D,code,high,,closures
+2026,51,Database Management and Warehousing,SQL,MSQ,2,A,code,high,,
+2026,52,Linear Algebra,projection matrix,MSQ,2,A;D,concept,high,,centering matrix
+2026,53,Probability and Statistics,chi-squared distribution,MSQ,2,A;B;C,concept,high,,
+2026,54,Probability and Statistics,cumulative distribution function,MSQ,2,B;C,concept,high,,
+2026,55,Machine Learning,ridge regression,NAT,2,6.90 to 7.10,calculation,high,,regularised loss
+2026,56,Machine Learning,feed-forward neural network,NAT,2,135 to 135,calculation,high,,parameter count
+2026,57,Probability and Statistics,Bayes theorem,NAT,2,0.76 to 0.78,calculation,medium,AI,placed in the AI slot of the paper
+2026,58,"Programming, Data Structures and Algorithms",programming in Python; basic sorting algorithms,NAT,2,8 to 8,code,high,,bubble-sort passes
+2026,59,Database Management and Warehousing,tuple calculus,NAT,2,2 to 3,code,high,,key range 2 to 3
+2026,60,Database Management and Warehousing,SQL,NAT,2,3 to 3,code,high,,correlated subqueries
+2026,61,Database Management and Warehousing,ER-model,NAT,2,4 to 4,concept,high,,ER to 3NF relations
+2026,62,Probability and Statistics,mean/median/mode/standard deviation,NAT,2,10 to 10,calculation,high,,sample variance
+2026,63,Probability and Statistics,correlation and covariance,NAT,2,0 to 0,calculation,high,,
+2026,64,Probability and Statistics,Bernoulli/binomial distribution,NAT,2,0.08 to 0.12,calculation,high,,
+2026,65,Linear Algebra,quadratic forms; eigenvalues and eigenvectors,NAT,2,1 to 1,calculation,high,,

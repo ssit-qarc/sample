@@ -1,0 +1,76 @@
+===== Page 1 of 2 =====
+ 
+Q. No. Session  Question 
+Type 
+Subject 
+Name 
+Key/Range Mark  
+1 3 MCQ GA C 1 
+2 3 MCQ GA D 1 
+3 3 MCQ GA B 1 
+4 3 MCQ GA B 1 
+5 3 MCQ GA C 1 
+6 3 MCQ GA D 2 
+7 3 MCQ GA C 2 
+8 3 MCQ GA C 2 
+9 3 MCQ GA B 2 
+10 3 MCQ GA B 2 
+11 3 MCQ ST D 1 
+12 3 MCQ ST B 1 
+13 3 MCQ ST B 1 
+14 3 MCQ ST B 1 
+15 3 MCQ ST C 1 
+16 3 MCQ ST C 1 
+17 3 MCQ ST A 1 
+18 3 MCQ ST A 1 
+19 3 MCQ ST B 1 
+20 3 MCQ ST C 1 
+21 3 MCQ ST C 1 
+22 3 NAT ST 12 to 12 1 
+23 3 NAT ST 0.25 to 0.25 1 
+24 3 NAT ST 22 to 22 1 
+25 3 NAT ST 0.55 to 0.59 1 
+26 3 NAT ST 2.30 to 2.32 1 
+27 3 NAT ST 23 to 23 1 
+28 3 NAT ST 243 to 243 1 
+29 3 NAT ST 0.57 to 0.59 1 
+30 3 NAT ST 1 to 1 1 
+31 3 NAT ST 1.18 to 1.19 1 
+32 3 NAT ST 12 to 12 1 
+33 3 NAT ST 15 to 15 1 
+34 3 NAT ST 0.375 to 0.375 1 
+35 3 NAT ST 3 to 3 1 
+36 3 MCQ ST A 2 
+37 3 MCQ ST C 2 
+38 3 MCQ ST A 2 
+39 3 MCQ ST A 2 
+40 3 MCQ ST A 2 
+41 3 MCQ ST A 2 
+42 3 MCQ ST A 2 
+43 3 MCQ ST B 2 
+44 3 MCQ ST A 2 
+
+===== Page 2 of 2 =====
+ 
+45 3 MSQ ST A, B, D 2 
+46 3 MSQ ST A, B, D 2 
+47 3 MSQ ST A, D 2 
+48 3 MSQ ST B, C 2 
+49 3 MSQ ST A, B 2 
+50 3 MSQ ST A, C 2 
+51 3 NAT ST 15 to 15 2 
+52 3 NAT ST 4.907 to 4.909 2 
+53 3 NAT ST 0.436 to 0.439 2 
+54 3 NAT ST 1.8 to 1.8 2 
+55 3 NAT ST 512 to 512 2 
+56 3 NAT ST 60 to 60 2 
+57 3 NAT ST 61.5 to 61.7 2 
+58 3 NAT ST 3.5 to 3.5 2 
+59 3 NAT ST 1.6 to 1.6 2 
+60 3 NAT ST 3 to 3 2 
+61 3 NAT ST 16 to 16 2 
+62 3 NAT ST 8 to 8 2 
+63 3 NAT ST 3 to 3 2 
+64 3 NAT ST 1.065 to 1.069 2 
+65 3 NAT ST 6 to 6 2 
+ 
