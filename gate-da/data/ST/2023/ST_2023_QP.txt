@@ -1,0 +1,1720 @@
+===== Page 1 of 48 =====
+ Statistics (ST) 
+Page 1 of 48 
+Organizing Institute: IIT Kanpur 
+General Aptitude (GA) 
+Q.1 – Q.5 Carry ONE mark Each 
+Q.1 “I have not yet decided what I will do this evening; I ______ visit a friend.” 
+  
+(A) mite 
+(B) would 
+(C) might 
+(D) didn’t 
+  
+ 
+ 
+Q.2 Eject : Insert : : Advance : _______  
+(By word meaning) 
+  
+(A) Advent 
+(B) Progress 
+(C) Retreat 
+(D) Loan 
+  
+ 
+ 
+
+===== Page 2 of 48 =====
+ Statistics (ST) 
+Page 2 of 48 
+Organizing Institute: IIT Kanpur 
+Q.3 In the given figure, PQRSTV is a regular hexagon with each side of length 5 cm. A 
+circle is drawn with its centre at V such that it passes through P. What is the area 
+(in cm2) of the shaded region? (The diagram is representative)  
+ 
+ 
+(A) 25π
+3  
+(B) 20π
+3  
+(C) 6π 
+(D) 7π 
+  
+
+
+===== Page 3 of 48 =====
+ Statistics (ST) 
+Page 3 of 48 
+Organizing Institute: IIT Kanpur 
+Q.4 A duck named Donald Duck says “All ducks always lie.” 
+Based only on the information above, which one of the following statements can be 
+logically inferred with certainty? 
+  
+(A) Donald Duck always lies.  
+(B) Donald Duck always tells the truth. 
+(C) Donald Duck’s statement is true. 
+(D) Donald Duck’s statement is false. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 4 of 48 =====
+ Statistics (ST) 
+Page 4 of 48 
+Organizing Institute: IIT Kanpur 
+Q.5 A line of symmetry is defined as a line that divides a figure into two parts in a way 
+such that each part is a mirror image of the other part about that line. 
+The figure below consists of 20 unit squares arranged as shown. In addition to the 
+given black squares, upto 5 more may be coloured black. Which one among the 
+following options depicts the minimum number of boxes that must be coloured 
+black to achieve two lines of symmetry? (The figure is representative) 
+ 
+ 
+a   b 
+ c d  
+e f g h 
+ i   
+j   k 
+ 
+(A) d 
+(B) c, d, i 
+(C) c, i 
+(D) c, d, i, f, g 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 5 of 48 =====
+ Statistics (ST) 
+Page 5 of 48 
+Organizing Institute: IIT Kanpur 
+Q.6 – Q.10 Carry TWO marks Each 
+Q.6 
+ 
+Based only on the truth of the statement ‘Some humans are intelligent’, which one 
+of the following options can be logically inferred with certainty? 
+ 
+  
+(A) 
+ 
+No human is intelligent. 
+(B) All humans are intelligent.  
+(C) 
+ 
+Some non-humans are intelligent. 
+(D) Some intelligent beings are humans. 
+  
+
+===== Page 6 of 48 =====
+ Statistics (ST) 
+Page 6 of 48 
+Organizing Institute: IIT Kanpur 
+Q.7 Which one of the options can be inferred about the mean, median, and mode for the 
+given probability distribution (i.e. probability mass function), 𝑃(𝑥), of a variable x?   
+ 
+ 
+(A) mean = median ≠ mode  
+(B) mean = median = mode 
+(C) mean ≠ median = mode 
+(D) mean ≠ mode = median 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+
+===== Page 7 of 48 =====
+ Statistics (ST) 
+Page 7 of 48 
+Organizing Institute: IIT Kanpur 
+Q.8 The James Webb telescope, recently launched in space, is giving humankind 
+unprecedented access to the depths of time by imaging very old stars formed almost 
+13 billion years ago. Astrophysicists and cosmologists believe that this odyssey in 
+space may even shed light on the existence of dark matter. Dark matter is supposed 
+to interact only via the gravitational interaction and not through the 
+electromagnetic-, the weak - or the strong-interaction. This may justify the epithet 
+“dark” in dark matter. 
+Based on the above paragraph, which one of the following statements is FALSE? 
+  
+(A) No other telescope has captured images of stars older than those captured by  the 
+James Webb telescope. 
+(B) People other than astrophysicists and cosmologists may also believe in the existence 
+of dark matter. 
+(C) The James Webb telescope could be of use in the research on dark matter. 
+(D) If dark matter was known to interact via  the strong -interaction, then the epithet 
+“dark” would be justified. 
+  
+  
+
+===== Page 8 of 48 =====
+ Statistics (ST) 
+Page 8 of 48 
+Organizing Institute: IIT Kanpur 
+Q.9 Let 𝑎 =  30! ,  𝑏 =  50! ,  and  𝑐 = 100! .  Consider the following numbers:  
+log𝑎 𝑐, log𝑐 𝑎, log𝑏 𝑎, log𝑎 𝑏 
+Which one of the following inequalities is CORRECT?  
+  
+(A) log𝑐 𝑎 <  log𝑏 𝑎 <  log𝑎 𝑏 <  log𝑎 𝑐  
+(B) log𝑐 𝑎 <  log𝑎 𝑏 <  log𝑏 𝑎 <  log𝑏 𝑐  
+(C) log𝑐 𝑎 <  log𝑏 𝑎 <  log𝑎 𝑐 <  log𝑎 𝑏  
+(D) log𝑏 𝑎 <  log𝑐 𝑎 <  log𝑎 𝑏 <  log𝑎 𝑐  
+  
+ 
+ 
+  
+
+===== Page 9 of 48 =====
+ Statistics (ST) 
+Page 9 of 48 
+Organizing Institute: IIT Kanpur 
+Q.10 A square of side length 4 cm is given. The boundary of the shaded region is defined 
+by one semi -circle on the top and two circular arcs at the bottom, each of radius 
+2 cm, as shown. 
+The area of the shaded region is _______ cm2. 
+ 
+ 
+(A) 8 
+(B) 4 
+(C) 12 
+(D) 10 
+  
+ 
+ 
+ 
+ 
+
+
+===== Page 10 of 48 =====
+ Statistics (ST) 
+Page 10 of 48 
+Organizing Institute: IIT Kanpur 
+Q.11 – Q.35 Carry ONE mark Each 
+Q.11 The area of the region bounded by the parabola  𝑥 = −𝑦2  and the line   
+𝑦 = 𝑥 + 2  equals  
+  
+(A) 3
+2
+  
+(B) 7
+2
+  
+(C) 9
+2
+  
+(D) 9  
+  
+Q.12 Let  𝐴  be a  3 × 3  real matrix having eigenvalues  1, 0,  and  −1.  
+If  𝐵 = 𝐴2 + 2𝐴 + 𝐼3 , where  𝐼3  is the  3 × 3  identity matrix, then which one 
+of the following statements is true? 
+  
+(A) 𝐵3 − 5𝐵2 + 4𝐵 = 0  
+(B) 𝐵3 − 5𝐵2 − 4𝐵 = 0  
+(C) 𝐵3 + 5𝐵2 − 4𝐵 = 0  
+(D) 𝐵3 + 5𝐵2 + 4𝐵 = 0  
+  
+
+===== Page 11 of 48 =====
+ Statistics (ST) 
+Page 11 of 48 
+Organizing Institute: IIT Kanpur 
+Q.13 Consider the following statements. 
+(I) Let  𝐴  and  𝐵  be two  𝑛 × 𝑛  real matrices. If  𝐵  is invertible, then 
+𝑟𝑎𝑛𝑘(𝐵𝐴) = 𝑟𝑎𝑛𝑘(𝐴). 
+(II) Let  𝐴  be an  𝑛 × 𝑛  real matrix. If  𝐴2𝒙 = 𝒃  has a solution for every  
+𝒃 ∈  ℝ𝑛, then  𝐴𝒙 = 𝒃  also has a solution for every  𝒃 ∈  ℝ𝑛. 
+Which of the above statements is/are true? 
+  
+(A) Only  (I) 
+(B) Only  (II) 
+(C) Both  (I)  and  (II) 
+(D) Neither  (I)  nor  (II) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 12 of 48 =====
+ Statistics (ST) 
+Page 12 of 48 
+Organizing Institute: IIT Kanpur 
+Q.14 Consider the probability space  (Ω, 𝒢, 𝑃), where  Ω = [0, 2]  and   
+𝒢 = {𝜙, Ω, [0,1], (1,2]}.  Let  𝑋   and  𝑌  be two functions on  Ω  defined as  
+𝑋(𝜔) =  { 1      𝑖𝑓 𝜔 ∈ [0, 1]
+ 2      𝑖𝑓 𝜔 ∈ (1, 2] 
+and  
+𝑌(𝜔) =  { 2      𝑖𝑓 𝜔 ∈ [0, 1.5]
+ 3      𝑖𝑓 𝜔 ∈ (1.5, 2]. 
+Then which one of the following statements is true? 
+  
+(A) 𝑋  is a random variable with respect to  𝒢, but  𝑌  is not a random variable with 
+respect to  𝒢 
+(B) 𝑌  is a random variable with respect to  𝒢, but  𝑋  is not a random variable with 
+respect to  𝒢 
+(C) Neither  𝑋  nor  𝑌  is a random variable with respect to  𝒢 
+(D) Both  𝑋  and  𝑌  are random variables with respect to  𝒢 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 13 of 48 =====
+ Statistics (ST) 
+Page 13 of 48 
+Organizing Institute: IIT Kanpur 
+Q.15 Let  Φ(⋅)  denote the cumulative distribution function of a standard normal 
+random variable. If the random variable  𝑋   has the cumulative distribution 
+function  
+𝐹(𝑥) = {Φ(𝑥)           𝑖𝑓 𝑥 < −1 
+Φ(𝑥 + 1)   𝑖𝑓 𝑥 ≥ −1, 
+then which one of the following statements is true? 
+  
+(A) 𝑃(𝑋 ≤ −1) =
+1
+2  
+(B) 𝑃(𝑋 = −1) =
+1
+2  
+(C) 𝑃(𝑋 < −1) =
+1
+2  
+(D) 𝑃(𝑋 ≤ 0) =
+1
+2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 14 of 48 =====
+ Statistics (ST) 
+Page 14 of 48 
+Organizing Institute: IIT Kanpur 
+Q.16 Let  𝑋  be a random variable with probability density function  
+𝑓(𝑥) = { 𝛼𝜆 𝑥𝛼−1𝑒−𝜆𝑥𝛼
+        𝑖𝑓 𝑥 > 0
+ 0                                𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒, 
+where  𝛼 > 0  and  𝜆 > 0. If the median of  𝑋  is  1  and the third quantile is  2, 
+then  (𝛼, 𝜆)  equals 
+  
+(A) (1, log𝑒 2) 
+(B) (1, 1) 
+(C) (2, log𝑒 2) 
+(D) (1, log𝑒 3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 15 of 48 =====
+ Statistics (ST) 
+Page 15 of 48 
+Organizing Institute: IIT Kanpur 
+Q.17 Let  𝑋  be a random variable having Poisson distribution with mean  𝜆 > 0. Then 
+𝐸 (
+1
+𝑋+1 | 𝑋 > 0) equals   
+  
+(A) 1 − 𝑒−𝜆 − 𝜆𝑒−𝜆
+𝜆(1 − 𝑒− 𝜆)  
+(B) 1 − 𝑒−𝜆
+𝜆  
+(C) 1 − 𝑒−𝜆 − 𝜆𝑒−𝜆
+𝜆  
+(D) 1 − 𝑒−𝜆
+𝜆 + 1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 16 of 48 =====
+ Statistics (ST) 
+Page 16 of 48 
+Organizing Institute: IIT Kanpur 
+Q.18 Suppose that  𝑋  has the probability density function  
+𝑓(𝑥) = {
+𝜆𝛼
+Γ(𝛼) 𝑥𝛼−1𝑒−𝜆𝑥         𝑖𝑓  𝑥 > 0
+0                                 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒,
+ 
+where  𝛼 > 0  and  𝜆 > 0. Which one of the following statements is NOT true? 
+   
+(A) 𝐸(𝑋)  exists for all  𝛼 > 0  and  𝜆 > 0 
+(B) Variance of  𝑋  exists for all  𝛼 > 0  and  𝜆 > 0 
+(C) 𝐸 ( 
+1
+𝑋 )  exists for all  𝛼 > 0  and  𝜆 > 0 
+(D) 𝐸(log𝑒(1 + 𝑋))  exists for all  𝛼 > 0  and  𝜆 > 0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 17 of 48 =====
+ Statistics (ST) 
+Page 17 of 48 
+Organizing Institute: IIT Kanpur 
+Q.19 Let  (𝑋, 𝑌)  have joint probability density function  
+𝑓(𝑥, 𝑦) = { 8𝑥𝑦         𝑖𝑓 0 < 𝑥 < 𝑦 < 1
+  0             𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒.  
+If  𝐸(𝑋 | 𝑌 = 𝑦0) =
+1
+2 , then  𝑦0  equals 
+  
+(A) 3
+4 
+(B) 1
+2 
+(C) 1
+3 
+(D) 2
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 18 of 48 =====
+ Statistics (ST) 
+Page 18 of 48 
+Organizing Institute: IIT Kanpur 
+Q.20 Suppose that there are 5 boxes, each containing 3 blue pens, 1 red pen and 2 
+black pens. One pen is drawn at random from each of these 5 boxes. If the random 
+variable  𝑋1  denotes the total number of blue pens drawn and the random variable  
+𝑋2  denotes the total number of red pens drawn, then  𝑃(𝑋1 = 2, 𝑋2 = 1)  equals 
+  
+(A) 5
+36 
+(B) 5
+18 
+(C) 5
+12 
+(D) 5
+9 
+  
+Q.21 Let  {𝑋𝑛}𝑛≥1  and  {𝑌𝑛}𝑛≥1  be two sequences of random variables and  𝑋  and  𝑌  
+be two random variables, all of them defined on the same probability space. 
+Which one of the following statements is true? 
+  
+(A) If  {𝑋𝑛}𝑛≥1  converges in distribution to a real constant  𝑐, then  {𝑋𝑛}𝑛≥1  
+converges in probability to  𝑐 
+(B) If  {𝑋𝑛}𝑛≥1  converges in probability to  𝑋, then  {𝑋𝑛}𝑛≥1  converges in  3rd mean 
+to  𝑋 
+(C) If  {𝑋𝑛}𝑛≥1  converges in distribution to  𝑋  and  {𝑌𝑛}𝑛≥1  converges in 
+distribution to  𝑌, then  {𝑋𝑛 + 𝑌𝑛}𝑛≥1  converges in distribution to  𝑋 + 𝑌 
+(D) If  {𝐸(𝑋𝑛)}𝑛≥1  converges to  𝐸(𝑋), then  {𝑋𝑛}𝑛≥1  converges in  1st mean to  𝑋 
+
+===== Page 19 of 48 =====
+ Statistics (ST) 
+Page 19 of 48 
+Organizing Institute: IIT Kanpur 
+Q.22 Let  𝑋  be a random variable with probability density function  
+𝑓(𝑥; 𝜆) = { 
+1
+𝜆 𝑒− 𝑥
+𝜆       𝑖𝑓 𝑥 > 0
+0              𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒,
+ 
+where  𝜆 > 0 is an unknown parameter. Let  𝑌1, 𝑌2, … , 𝑌𝑛  be a random sample of 
+size  𝑛   from a population having the same distribution as  𝑋2.  
+If  𝑌̅ =
+1
+𝑛 ∑ 𝑌𝑖
+𝑛
+𝑖=1 , then which one of the following statements is true? 
+  
+(A) 
+√𝑌̅
+2  is a method of moments estimator of  𝜆  
+(B) √𝑌̅  is a method of moments estimator of  𝜆 
+(C) 1
+2
+√𝑌̅  is a method of moments estimator of  𝜆 
+(D) 2√𝑌̅  is a method of moments estimator of  𝜆 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 20 of 48 =====
+ Statistics (ST) 
+Page 20 of 48 
+Organizing Institute: IIT Kanpur 
+Q.23 Let  𝑋1, 𝑋2, … , 𝑋𝑛  be a random sample of size  𝑛 (≥ 2)  from a population 
+having probability density function  
+𝑓(𝑥; 𝜃) = { 2
+𝜃𝑥 (− log𝑒 𝑥)𝑒− (log𝑒 𝑥)2
+𝜃          𝑖𝑓 0 < 𝑥 < 1
+0                                                 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒,
+ 
+where  𝜃 > 0  is an unknown parameter. Then which one of the following 
+statements is true?  
+  
+(A) 1
+𝑛
+∑ (log𝑒 𝑋𝑖)2𝑛
+𝑖=1   is the maximum likelihood estimator of  𝜃 
+(B) 1
+𝑛−1 ∑ (log𝑒 𝑋𝑖)2𝑛
+𝑖=1   is the maximum likelihood estimator of  𝜃 
+(C) 1
+𝑛 ∑ log𝑒 𝑋𝑖
+𝑛
+𝑖=1   is the maximum likelihood estimator of  𝜃 
+(D) 1
+𝑛−1
+∑ log𝑒 𝑋𝑖
+𝑛
+𝑖=1   is the maximum likelihood estimator of  𝜃 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 21 of 48 =====
+ Statistics (ST) 
+Page 21 of 48 
+Organizing Institute: IIT Kanpur 
+Q.24 Let  𝑋1, 𝑋2, … , 𝑋𝑛  be a random sample of size  𝑛   from a population having 
+uniform distribution over the interval  (
+1
+3 , 𝜃), where  𝜃 >
+1
+3  is an unknown 
+parameter. If  𝑌 = max{𝑋1, 𝑋2, … , 𝑋𝑛}, then which one of the following 
+statements is true? 
+  
+(A) (
+𝑛+1
+𝑛 ) (𝑌 −
+1
+3) +
+1
+3  is an unbiased estimator of  𝜃 
+(B) (
+𝑛
+𝑛+1) (𝑌 −
+1
+3) +
+1
+3  is an unbiased estimator of  𝜃 
+(C) (
+𝑛+1
+𝑛 ) (𝑌 +
+1
+3) −
+1
+3  is an unbiased estimator of  𝜃 
+(D) 𝑌  is an unbiased estimator of  𝜃 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 22 of 48 =====
+ Statistics (ST) 
+Page 22 of 48 
+Organizing Institute: IIT Kanpur 
+Q.25 Suppose that  𝑿1, 𝑿2, … , 𝑿𝑛, 𝒀1, 𝒀2, … , 𝒀𝑛  are independent and identically 
+distributed random vectors each having  𝑁𝑝(𝝁, Σ)  distribution, where  Σ  is non-
+singular,  𝑝 > 1  and  𝑛 > 1. If  𝑿̅ =
+1
+𝑛
+∑ 𝑿𝑖
+𝑛
+𝑖=1   and  𝒀̅ =
+1
+𝑛
+∑ 𝒀𝑖
+𝑛
+𝑖=1 , then which 
+one of the following statements is true? 
+  
+(A) There exists  𝑐 > 0  such that  𝑐 (𝑿̅ − 𝝁)𝑇Σ−1(𝑿̅ − 𝝁)  has  𝜒2-distribution 
+with  𝑝  degrees of freedom 
+(B) There exists  𝑐 > 0  such that  𝑐 (𝑿̅ − 𝒀̅)𝑇Σ−1(𝑿̅ − 𝒀̅)  has  𝜒2-distribution 
+with  (𝑝 − 1)  degrees of freedom 
+(C) There exists  𝑐 > 0  such that  𝑐 ∑ (𝑿𝑖 − 𝑿̅)𝑇Σ−1(𝑿𝑖 − 𝑿̅)𝑛
+𝑖=1    has 
+ 𝜒2-distribution with  𝑝  degrees of freedom 
+(D) There exists  𝑐 > 0  such that  𝑐 ∑ (𝑿𝑖 − 𝒀𝑖 − 𝑿̅ + 𝒀̅)𝑇Σ−1(𝑿𝑖 − 𝒀𝑖 − 𝑿̅ + 𝒀̅)𝑛
+𝑖=1    
+has  𝜒2-distribution with  𝑝  degrees of freedom 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 23 of 48 =====
+ Statistics (ST) 
+Page 23 of 48 
+Organizing Institute: IIT Kanpur 
+Q.26 Consider the following regression model 
+𝑦𝑘 = 𝛼0 + 𝛼1 log𝑒 𝑘 + 𝜖𝑘,         𝑘 = 1, 2, … , 𝑛, 
+where  𝜖𝑘’s are independent and identically distributed random variables each 
+having probability density function  𝑓(𝑥) =
+1
+2 𝑒−|𝑥|, 𝑥 ∈ ℝ. Then which one of 
+the following statements is true?  
+  
+(A) The maximum likelihood estimator of  𝛼0  does not exist  
+(B) The maximum likelihood estimator of  𝛼1  does not exist 
+(C) The least squares estimator of  𝛼0  exists and is unique 
+(D) The least squares estimator of  𝛼1  exists, but it is not unique 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 24 of 48 =====
+ Statistics (ST) 
+Page 24 of 48 
+Organizing Institute: IIT Kanpur 
+Q.27 Suppose that  𝑋1, 𝑋2, … , 𝑋𝑛  are independent and identically distributed random 
+variables each having probability density function  𝑓(⋅)  and median  𝜃. We want 
+to test  
+𝐻0: 𝜃 = 𝜃0         against       𝐻1: 𝜃 > 𝜃0. 
+Consider a test that rejects  𝐻0  if  𝑆 > 𝑐  for some  𝑐  depending on the size of 
+the test, where  𝑆  is the cardinality of the set  {𝑖: 𝑋𝑖 > 𝜃0, 1 ≤ 𝑖 ≤ 𝑛}. Then 
+which one of the following statements is true? 
+  
+(A) Under  𝐻0, the distribution of  𝑆  depends on  𝑓(⋅) 
+(B) Under  𝐻1, the distribution of  𝑆  does not depend on  𝑓(⋅) 
+(C) The power function depends on  𝜃 
+(D) The power function does not depend on  𝜃 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 25 of 48 =====
+ Statistics (ST) 
+Page 25 of 48 
+Organizing Institute: IIT Kanpur 
+Q.28 Suppose that  𝑥  is an observed sample of size 1 from a population with 
+probability density function  𝑓(⋅). Based on  𝑥, consider testing 
+𝐻0: 𝑓(𝑦) = 1
+√2𝜋
+ 𝑒− 𝑦2
+2   ;  𝑦 ∈ ℝ     against    𝐻1: 𝑓(𝑦) = 1
+2 𝑒−|𝑦| ;  𝑦 ∈ ℝ. 
+Then which one of the following statements is true? 
+  
+(A) The most powerful test rejects  𝐻0  if  |𝑥| > 𝑐  for some  𝑐 > 0 
+(B) The most powerful test rejects  𝐻0  if  |𝑥| < 𝑐  for some  𝑐 > 0 
+(C) The most powerful test rejects  𝐻0  if  ||𝑥| − 1| > 𝑐  for some  𝑐 > 0 
+(D) The most powerful test rejects  𝐻0  if  ||𝑥| − 1| < 𝑐  for some  𝑐 > 0 
+  
+Q.29 Let  𝑓: ℝ2 → ℝ  be defined by  𝑓(𝑥, 𝑦) = 𝑥𝑦. Then the maximum value (rounded 
+off to two decimal places) of  𝑓  on the ellipse  𝑥2 + 2𝑦2 = 1   
+equals  _______________ 
+  
+Q.30 Let  𝐴  be a  2 × 2  real matrix such that  𝐴𝐵 = 𝐵𝐴  for all  2 × 2  real matrices  
+𝐵.  If  trace of  𝐴  equals  5,  then determinant of  𝐴 (rounded off to two decimal 
+places) equals  _______________ 
+  
+Q.31 Two defective bulbs are present in a set of five bulbs. To remove the two 
+defective bulbs, the bulbs are chosen randomly one by one and tested. If  𝑋  
+denotes the minimum number of bulbs that must be tested to find out the two 
+defective bulbs, then  𝑃(𝑋 = 3)  (rounded off to two decimal places)  
+equals  _______________ 
+
+===== Page 26 of 48 =====
+ Statistics (ST) 
+Page 26 of 48 
+Organizing Institute: IIT Kanpur 
+Q.32 Let  {𝑋𝑛}𝑛≥1  be a sequence of independent and identically distributed random 
+variables each having mean  4  and  variance  9. If  𝑌𝑛 =
+1
+𝑛 ∑ 𝑋𝑖
+𝑛
+𝑖=1  for 𝑛 ≥ 1, 
+then  lim
+𝑛→∞
+𝐸 [(
+𝑌𝑛−4
+√𝑛 )
+2
+]  (in integer) equals  _______________ 
+  
+Q.33 Let  {𝑊𝑡}𝑡≥0  be a standard Brownian motion. Then  𝐸(𝑊4
+2| 𝑊2 = 2)   
+(in integer) equals  _______________ 
+  
+Q.34 Let  {𝑋𝑛}𝑛≥1  be a Markov chain with state space  {1, 2, 3}  and transition 
+probability matrix 
+[
+ 
+ 
+ 
+ 
+ 1
+2
+1
+4
+1
+4
+1
+3
+1
+3
+1
+3
+0 1
+2
+1
+2]
+ 
+ 
+ 
+ 
+ 
+ . 
+Then  𝑃(𝑋2 = 1 | 𝑋1 = 1, 𝑋3 = 2)  (rounded off to two decimal places)  
+equals  _______________ 
+  
+Q.35 
+Suppose that  (𝑋1, 𝑋2, 𝑋3)  has  𝑁3(𝝁, Σ)  distribution with  𝝁 = [
+0
+0
+0
+]  and   
+Σ =  [
+2 2 1
+2 5 1
+1 1 1
+]. 
+Given that  Φ(−0.5) = 0.3085, where  Φ(⋅)  denotes the cumulative 
+distribution function of a standard normal random variable,   
+𝑃 ((𝑋1 − 2𝑋2 + 2𝑋3)2 <
+7
+2)  (rounded off to two decimal places)  
+equals  _______________ 
+ 
+ 
+
+===== Page 27 of 48 =====
+ Statistics (ST) 
+Page 27 of 48 
+Organizing Institute: IIT Kanpur 
+Q.36 – Q.65 Carry TWO marks Each 
+Q.36 Let  𝐴  be an  𝑛 × 𝑛  real matrix. Consider the following statements. 
+(I) If  𝐴  is symmetric, then there exists  𝑐 ≥ 0  such that  𝐴 + 𝑐𝐼𝑛  is 
+symmetric and positive definite, where  𝐼𝑛  is the  𝑛 × 𝑛  identity 
+matrix. 
+(II) If  𝐴  is symmetric and positive definite, then there exists a symmetric 
+and positive definite matrix  𝐵  such that  𝐴 = 𝐵2. 
+Which of the above statements is/are true? 
+  
+(A) Only  (I) 
+(B) Only  (II) 
+(C) Both  (I)  and  (II) 
+(D) Neither  (I)  nor  (II) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 28 of 48 =====
+ Statistics (ST) 
+Page 28 of 48 
+Organizing Institute: IIT Kanpur 
+Q.37 Let  𝑋  be a random variable with probability density function 
+𝑓(𝑥) = {
+1
+𝑥2         𝑖𝑓 𝑥 ≥ 1
+ 0           𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒.
+ 
+If  𝑌 = log𝑒 𝑋, then  𝑃(𝑌 < 1 | 𝑌 < 2)  equals 
+  
+(A) 𝑒
+1 + 𝑒 
+(B) 𝑒 − 1
+𝑒 + 1 
+(C) 1
+1 + 𝑒 
+(D) 1
+𝑒 − 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 29 of 48 =====
+ Statistics (ST) 
+Page 29 of 48 
+Organizing Institute: IIT Kanpur 
+Q.38 Let  {𝑁(𝑡)}𝑡≥0  be a Poisson process with rate  1. Consider the following 
+statements. 
+(I) 𝑃(𝑁(3) = 3 | 𝑁(5) = 5) =  (5
+3) (
+3
+5)
+3
+(
+2
+5)
+2
+. 
+(II) If  𝑆5  denotes the time of occurrence of the 5th event for the above 
+Poisson process, then  𝐸(𝑆5 | 𝑁(5) = 3) = 7. 
+Which of the above statements is/are true? 
+   
+(A) Only  (I) 
+(B) Only  (II) 
+(C) Both  (I)  and  (II) 
+(D) Neither  (I)  nor  (II) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 30 of 48 =====
+ Statistics (ST) 
+Page 30 of 48 
+Organizing Institute: IIT Kanpur 
+Q.39 Let  𝑋1, 𝑋2, … , 𝑋𝑛  be a random sample of size  𝑛  from a population having 
+probability density function  
+𝑓(𝑥; 𝜇) = { 𝑒−(𝑥−𝜇)          𝑖𝑓 𝜇 ≤ 𝑥 < ∞
+0                    𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒,  
+where  𝜇 ∈ ℝ  is an unknown parameter. If  𝑀̂  is the maximum likelihood 
+estimator of the median of  𝑋1, then which one of the following statements is true? 
+  
+(A) 𝑃(𝑀̂ ≤ 2) = 1 − 𝑒−𝑛(1−log𝑒 2)  if  𝜇 = 1 
+(B) 𝑃(𝑀̂ ≤ 1) = 1 − 𝑒−𝑛 log𝑒 2  if  𝜇 = 1 
+(C) 𝑃(𝑀̂ ≤ 3) = 1 − 𝑒−𝑛(1−log𝑒 2)  if  𝜇 = 1 
+(D) 𝑃(𝑀̂ ≤ 4) = 1 − 𝑒−𝑛(2 log𝑒 2−1)  if  𝜇 = 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 31 of 48 =====
+ Statistics (ST) 
+Page 31 of 48 
+Organizing Institute: IIT Kanpur 
+Q.40 Let  𝑋1, 𝑋2, … , 𝑋10  be a random sample of size  10  from a population having  
+𝑁(0, 𝜃2)  distribution, where  𝜃 > 0  is an unknown parameter.  
+Let  𝑇 =
+1
+10 ∑ 𝑋𝑖
+210
+𝑖=1 . If the mean square error of  𝑐𝑇 (𝑐 > 0),  as an estimator of  
+𝜃2,  is minimized at  𝑐 = 𝑐0, then the value of  𝑐0  equals 
+  
+(A) 5
+6 
+(B) 2
+3 
+(C) 3
+5 
+(D) 1
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 32 of 48 =====
+ Statistics (ST) 
+Page 32 of 48 
+Organizing Institute: IIT Kanpur 
+Q.41 Suppose that  𝑿1, 𝑿2, … , 𝑿10  are independent and identically distributed random 
+vectors each having  𝑁2(𝝁, Σ)  distribution, where  Σ  is non-singular. If  
+𝑈 = 1
+1 + (𝑿̅ − 𝝁)𝑇Σ−1(𝑿̅ − 𝝁)  , 
+where  𝑿̅ =
+1
+10
+∑ 𝑿𝑖
+10
+𝑖=1 , then the value of   log𝑒 𝑃 (𝑈 ≤
+1
+2)  equals 
+  
+(A) −5 
+(B) −10 
+(C) −2 
+(D) −1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 33 of 48 =====
+ Statistics (ST) 
+Page 33 of 48 
+Organizing Institute: IIT Kanpur 
+Q.42 Suppose that  (𝑋, 𝑌)  has joint probability mass function 
+𝑃(𝑋 = 0, 𝑌 = 0) = 𝑃(𝑋 = 1, 𝑌 = 1) = 𝜃,
+𝑃(𝑋 = 1, 𝑌 = 0) = 𝑃(𝑋 = 0, 𝑌 = 1) = 1
+2 − 𝜃, 
+where 0 ≤ 𝜃 ≤
+1
+2  is an unknown parameter. Consider testing  𝐻0: 𝜃 =
+1
+4  
+against  𝐻1: 𝜃 =
+1
+3 , based on a random sample  {(𝑋1, 𝑌1), (𝑋2, 𝑌2), … , (𝑋𝑛, 𝑌𝑛)}  
+from the above probability mass function. Let  𝑀  be the cardinality of the set  
+{𝑖: 𝑋𝑖 = 𝑌𝑖, 1 ≤ 𝑖 ≤ 𝑛}. If  𝑚  is the observed value of  𝑀, then which one of the 
+following statements is true? 
+  
+(A) The likelihood ratio test rejects  𝐻0  if  𝑚 > 𝑐  for some  𝑐 
+(B) The likelihood ratio test rejects  𝐻0  if  𝑚 < 𝑐  for some  𝑐 
+(C) The likelihood ratio test rejects  𝐻0  if  𝑐1 < 𝑚 < 𝑐2  for some  𝑐1  and  𝑐2 
+(D) The likelihood ratio test rejects  𝐻0  if  𝑚 < 𝑐1  or  𝑚 > 𝑐2  for some  𝑐1  and  𝑐2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 34 of 48 =====
+ Statistics (ST) 
+Page 34 of 48 
+Organizing Institute: IIT Kanpur 
+Q.43 Let  𝑔(𝑥) = 𝑓(𝑥) + 𝑓(2 − 𝑥)  for all  𝑥 ∈ [0, 2] , where  𝑓: [0, 2] → ℝ  is 
+continuous on  [0, 2]  and twice differentiable on  (0, 2). If  𝑔′  denotes the 
+derivative of  𝑔  and  𝑓′′  denotes the second derivative of  𝑓, then which one of 
+the following statements is NOT true? 
+  
+(A) There exists  𝑐 ∈ (0, 2)  such that  𝑔′(𝑐) = 0 
+(B) If  𝑓′′ > 0  on  (0, 2), then  𝑔  is strictly decreasing on  (0, 1) 
+(C) If  𝑓′′ < 0  on  (0, 2), then  𝑔  is strictly increasing on  (1, 2) 
+(D) If  𝑓′′ = 0  on  (0, 2), then  𝑔  is a constant function 
+  
+Q.44 For any subset  𝒰  of  ℝ𝑛, let  𝐿(𝒰)  denote the span of  𝒰. For any two subsets  
+𝒯  and  𝒮  of  ℝ𝑛, which one of the following statements is NOT true? 
+  
+(A) If  𝒯  is a proper subset of  𝒮, then  𝐿(𝒯)  is a proper subset of  𝐿(𝒮) 
+(B) 𝐿(𝐿(𝒮)) = 𝐿(𝒮)  
+(C) 𝐿(𝒯 ∪ 𝒮) = {𝑢 + 𝑣: 𝑢 ∈ 𝐿(𝒯), 𝑣 ∈ 𝐿(𝒮)}  
+(D) If  𝛼, 𝛽  and  𝛾  are three vectors in  ℝ𝑛  such that  𝛼 + 2𝛽 + 3𝛾 = 0, then  
+𝐿({𝛼, 𝛽}) = 𝐿({𝛽, 𝛾}) 
+ 
+ 
+ 
+ 
+
+===== Page 35 of 48 =====
+ Statistics (ST) 
+Page 35 of 48 
+Organizing Institute: IIT Kanpur 
+Q.45 Let  𝑓   be a continuous function from  [0, 1]  to the set of all real numbers. Then 
+which one of the following statements is NOT true?  
+  
+(A) 
+For any sequence  {𝑥𝑛}𝑛≥1  in  [0, 1],  ∑
+𝑓(𝑥𝑛)
+𝑛2
+∞
+𝑛=1
+  is absolutely convergent 
+(B) If  |𝑓(𝑥)| = 1  for all  𝑥 ∈ [0, 1], then  | ∫ 𝑓(𝑥)𝑑𝑥 | = 1
+1
+0  
+(C) If  {𝑥𝑛}𝑛≥1  is a sequence in  [0, 1]  such that  {𝑓(𝑥𝑛)}𝑛≥1  is convergent, then  
+{𝑥𝑛}𝑛≥1  is convergent 
+(D) If  𝑓  is also monotonically increasing, then the image of  𝑓  is given by  
+[𝑓(0), 𝑓(1)] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 36 of 48 =====
+ Statistics (ST) 
+Page 36 of 48 
+Organizing Institute: IIT Kanpur 
+Q.46 Let  𝑋  be a random variable with cumulative distribution function  
+𝐹(𝑥) =  
+{
+ 
+ 
+ 
+ 0                           𝑖𝑓 𝑥 < −1
+1
+4 (𝑥 + 1)             𝑖𝑓 − 1 ≤ 𝑥 < 0
+1
+4 (𝑥 + 3)             𝑖𝑓 0 ≤ 𝑥 < 1
+  1                           𝑖𝑓 𝑥 ≥ 1.
+ 
+Which one of the following statements is true? 
+   
+(A) 
+lim
+𝑛→∞
+𝑃 (− 1
+2 + 1
+𝑛 < 𝑋 <  − 1
+𝑛) = 5
+8 
+(B) 
+lim
+𝑛→∞
+𝑃 (− 1
+2 − 1
+𝑛 < 𝑋 <  1
+𝑛) = 5
+8 
+(C) 
+lim
+𝑛→∞
+𝑃 (𝑋 = 1
+𝑛) = 1
+2 
+(D) 
+𝑃(𝑋 = 0) = 1
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 37 of 48 =====
+ Statistics (ST) 
+Page 37 of 48 
+Organizing Institute: IIT Kanpur 
+Q.47 Let  (𝑋, 𝑌)  have joint probability mass function 
+𝑝(𝑥, 𝑦) = { 
+𝑐
+2𝑥+𝑦+2           𝑖𝑓 𝑥 = 0, 1, 2, … ;    𝑦 = 0, 1, 2, … ;    𝑥 ≠ 𝑦
+0                     𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒.
+ 
+Then which one of the following statements is true? 
+  
+(A) 𝑐 = 1
+2 
+(B) 𝑐 = 1
+4 
+(C) 𝑐 > 1 
+(D) 𝑋  and  𝑌  are independent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 38 of 48 =====
+ Statistics (ST) 
+Page 38 of 48 
+Organizing Institute: IIT Kanpur 
+Q.48 Let  𝑿1, 𝑿2, … , 𝑿10  be a random sample of size  10  from a  𝑁3(𝝁, Σ)  
+distribution, where  𝝁  and non-singular  Σ  are unknown parameters. If  
+𝑿̅1 = 1
+5 ∑ 𝑿𝑖
+5
+𝑖=1
+, 𝑿̅2 = 1
+5 ∑ 𝑿𝑖
+10
+𝑖=6
+,
+𝑆1 = 1
+4 ∑(𝑿𝑖 − 𝑿̅1)(𝑿𝑖 − 𝑿̅1)𝑇,
+5
+𝑖=1
+𝑆2 = 1
+4 ∑(𝑿𝑖 − 𝑿̅2)(𝑿𝑖 − 𝑿̅2)𝑇,
+10
+𝑖=6
+ 
+then which one of the following statements is NOT true? 
+   
+(A) 5
+6 (𝑿̅1 − 𝝁)𝑇𝑆1
+−1(𝑿̅1 − 𝝁)  follows a 𝐹-distribution with  3  and  2  degrees of 
+freedom 
+(B) 6
+5 (𝑿̅1−𝝁)𝑇𝑆1
+−1(𝑿̅1−𝝁)    follows a 𝐹-distribution with  2  and  3  degrees of 
+freedom 
+(C) 4(𝑆1 + 𝑆2)   follows a Wishart distribution of order  3  with  8  degrees of 
+freedom 
+(D) 5(𝑆1 + 𝑆2)  follows a Wishart distribution of order  3  with  10  degrees of 
+freedom 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 39 of 48 =====
+ Statistics (ST) 
+Page 39 of 48 
+Organizing Institute: IIT Kanpur 
+Q.49 Which of the following sets is/are countable? 
+  
+(A) The set of all functions from  {1, 2, 3, … , 10}  to the set of all rational numbers  
+(B) The set of all functions from the set of all natural numbers to  {0, 1}  
+(C) The set of all integer valued sequences with only finitely many non-zero terms  
+(D) The set of all integer valued sequences converging to  1  
+  
+Q.50 For a given real number  𝑎, let  𝑎+ =  𝑚𝑎𝑥{𝑎, 0}   and  𝑎− = 𝑚𝑎𝑥{−𝑎, 0} . 
+If  {𝑥𝑛}𝑛≥1  is a sequence of real numbers, then which of the following statements 
+is/are true? 
+  
+(A) If  {𝑥𝑛}𝑛≥1  converges, then both  {𝑥𝑛
++}𝑛≥1  and   {𝑥𝑛
+−}𝑛≥1  converge  
+(B) If  {𝑥𝑛}𝑛≥1  converges to  0, then both  {𝑥𝑛
++}𝑛≥1  and   {𝑥𝑛
+−}𝑛≥1  converge to  0  
+(C) If both  {𝑥𝑛
++}𝑛≥1  and   {𝑥𝑛
+−}𝑛≥1  converge, then  {𝑥𝑛}𝑛≥1  converges  
+(D) If  {𝑥𝑛
+2}𝑛≥1  converges, then both  {𝑥𝑛
++}𝑛≥1  and   {𝑥𝑛
+−}𝑛≥1  converge  
+ 
+ 
+ 
+ 
+ 
+
+===== Page 40 of 48 =====
+ Statistics (ST) 
+Page 40 of 48 
+Organizing Institute: IIT Kanpur 
+Q.51 
+Let  𝐴  be a  3 × 3  real matrix such that  𝐴 [
+0
+1
+1
+] =  [
+4
+0
+0
+] ,  𝐴 [
+1
+0
+1
+] =  [
+0
+4
+0
+]  and  
+𝐴 [
+1
+1
+0
+] =  [
+0
+0
+4
+]. Then which of the following statements is/are true? 
+  
+(A) 
+𝐴 [
+1
+0
+0
+] =  [
+2
+2
+−2
+]  
+(B) 
+𝐴 [
+0
+1
+0
+] =  [
+2
+−2
+2
+]  
+(C) 
+𝐴 [
+1
+1
+1
+] =  [
+2
+0
+2
+]  
+(D) 
+𝐴 [
+1
+2
+3
+] =  [
+8
+4
+0
+]  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 41 of 48 =====
+ Statistics (ST) 
+Page 41 of 48 
+Organizing Institute: IIT Kanpur 
+Q.52 Let  𝑋  be a positive valued continuous random variable with finite mean.  
+If  𝑌 = [𝑋],  the largest integer less than or equal to  𝑋, then which of the 
+following statements is/are true? 
+   
+(A) 𝑃(𝑌 ≤ 𝑢) ≤ 𝑃(𝑋 ≤ 𝑢)  for all  𝑢 ≥ 0 
+(B) 𝑃(𝑌 ≥ 𝑢) ≤ 𝑃(𝑋 ≥ 𝑢)  for all  𝑢 ≥ 0 
+(C) 𝐸(𝑋) < 𝐸(𝑌)  
+(D) 𝐸(𝑋) > 𝐸(𝑌)  
+  
+Q.53 Let  𝑋  be a random variable with probability density function 
+𝑓(𝑥) = { 𝑒−𝑥          𝑖𝑓 𝑥 ≥ 0
+  0            𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒. 
+For  𝑎 < 𝑏, if  𝑈(𝑎, 𝑏)  denotes the uniform distribution over the interval  (𝑎, 𝑏), 
+then which of the following statements is/are true? 
+   
+(A) 𝑒−𝑋  follows  𝑈(−1, 0)  distribution 
+(B) 1 − 𝑒−𝑋  follows  𝑈(0, 2)  distribution 
+(C) 2𝑒−𝑋 − 1  follows  𝑈(−1, 1)  distribution 
+(D) The probability mass function of 𝑌 = [𝑋]  is  
+𝑃(𝑌 = 𝑘) = (1 − 𝑒−1)𝑒−𝑘     𝑓𝑜𝑟   𝑘 = 0, 1, 2, …, 
+where  [𝑥]  denotes the largest integer not exceeding  𝑥 
+
+===== Page 42 of 48 =====
+ Statistics (ST) 
+Page 42 of 48 
+Organizing Institute: IIT Kanpur 
+Q.54 Suppose that  𝑋  is a discrete random variable with the following probability mass 
+function 
+𝑃(𝑋 = 0) = 1
+2 (1 + 𝑒−1)
+𝑃(𝑋 = 𝑘) = 𝑒−1
+2 𝑘!   𝑓𝑜𝑟  𝑘 = 1, 2, 3, … .
+ 
+Which of the following statements is/are true? 
+   
+(A) 𝐸(𝑋) = 1 
+(B) 𝐸(𝑋) < 1 
+(C) 𝐸(𝑋 | 𝑋 > 0) < 1
+2 
+(D) 𝐸(𝑋 | 𝑋 > 0) > 1
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 43 of 48 =====
+ Statistics (ST) 
+Page 43 of 48 
+Organizing Institute: IIT Kanpur 
+Q.55 Suppose that  𝑈  and  𝑉  are two independent and identically distributed random 
+variables each having probability density function 
+𝑓(𝑥) = { 𝜆2𝑥 𝑒−𝜆𝑥         𝑖𝑓 𝑥 > 0
+  0                      𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒, 
+where  𝜆 > 0. Which of the following statements is/are true? 
+  
+(A) The distribution of  𝑈 − 𝑉  is symmetric about  0 
+(B) The distribution of  𝑈𝑉  does not depend on  𝜆 
+(C) The distribution of  
+𝑈
+𝑉  does not depend on  𝜆 
+(D) The distribution of  
+𝑈
+𝑉  is symmetric about  1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 44 of 48 =====
+ Statistics (ST) 
+Page 44 of 48 
+Organizing Institute: IIT Kanpur 
+Q.56 Let  (𝑋, 𝑌)  have joint probability mass function 
+𝑝(𝑥, 𝑦) = { 
+𝑒−2
+𝑥! (𝑦 − 𝑥)!            𝑖𝑓 𝑥 = 0, 1, 2, … , 𝑦;    𝑦 = 0, 1, 2, …
+0                      𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒.
+ 
+Then which of the following statements is/are true? 
+  
+(A) 𝐸(𝑋 | 𝑌 = 4) = 2 
+(B) The moment generating function of  𝑌  is  𝑒2(𝑒𝑣−1)  for all  𝑣 ∈ ℝ 
+(C) 𝐸(𝑋) = 2 
+(D) The joint moment generating function of  (𝑋, 𝑌)  is  𝑒−2+(1+𝑒𝑢)𝑒𝑣
+  for all  
+(𝑢, 𝑣) ∈ ℝ2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 45 of 48 =====
+ Statistics (ST) 
+Page 45 of 48 
+Organizing Institute: IIT Kanpur 
+Q.57 Let  {𝑋𝑛}𝑛≥1  be a sequence of independent and identically distributed random 
+variables with mean  0  and variance  1, all of them defined on the same 
+probability space. For  𝑛 = 1, 2, 3, … , let 
+𝑌𝑛 = 1
+𝑛 (𝑋1𝑋2 + 𝑋3𝑋4 + ⋯ + 𝑋2𝑛−1𝑋2𝑛). 
+Then which of the following statements is/are true? 
+   
+(A) {√𝑛 𝑌𝑛}𝑛≥1  converges in distribution to a standard normal random variable 
+(B) {𝑌𝑛}𝑛≥1  converges in 2nd mean to  0 
+(C) {𝑌𝑛 +
+1
+𝑛}
+𝑛≥1
+  converges in probability to  0 
+(D) {𝑋𝑛}𝑛≥1  converges almost surely to  0 
+  
+Q.58 Consider the following regression model 
+𝑦𝑡 = 𝛼0 + 𝛼1𝑡 + 𝛼2𝑡2 + 𝜖𝑡,         𝑡 = 1, 2, … ,100, 
+where  𝛼0, 𝛼1   and  𝛼2  are unknown parameters and  𝜖𝑡’s are independent and 
+identically distributed random variables each having  𝑁(𝜇, 1)  distribution with  
+𝜇 ∈ ℝ  unknown. Then which of the following statements is/are true? 
+  
+(A) There exists an unbiased estimator of  𝛼1 
+(B) There exists an unbiased estimator of  𝛼2 
+(C) There exists an unbiased estimator of  𝛼0 
+(D) There exists an unbiased estimator of  𝜇 
+
+===== Page 46 of 48 =====
+ Statistics (ST) 
+Page 46 of 48 
+Organizing Institute: IIT Kanpur 
+Q.59 Consider the orthonormal set   
+{
+  
+ 
+  
+ 
+𝑣1 =  
+[
+ 
+ 
+ 
+ 
+ 
+ 1
+√3
+− 1
+√3
+1
+√3 ]
+ 
+ 
+ 
+ 
+ 
+ 
+, 𝑣2 =  
+[
+ 
+ 
+ 
+ 
+ 
+ 1
+√6
+2
+√6
+1
+√6]
+ 
+ 
+ 
+ 
+ 
+ 
+, 𝑣3 =  
+[
+ 
+ 
+ 
+ 1
+√2
+0
+− 1
+√2]
+ 
+ 
+ 
+ 
+}
+  
+ 
+  
+ 
+ 
+with respect to the standard inner product on  ℝ3. If  𝑢 =  [
+𝑎
+𝑏
+𝑐
+]  is the vector such 
+that inner products of  𝑢  with  𝑣1, 𝑣2  and  𝑣3  are  1, 2  and  3, respectively, then  
+𝑎2 + 𝑏2 + 𝑐2  (in integer) equals  _______________ 
+  
+  
+Q.60 Consider the probability space  (Ω, 𝒢, 𝑃), where  Ω = {1, 2, 3, 4}, 
+𝒢 = {𝜙, Ω, {1}, {4}, {2, 3}, {1, 4}, {1, 2, 3}, {2, 3, 4}},  and  𝑃({1}) =
+1
+4 .  
+Let  𝑋  be the random variable defined on the above probability space as   
+𝑋(1) = 1, 𝑋(2) = 𝑋(3) = 2  and  𝑋(4) = 3. If  𝑃(𝑋 ≤ 2) =
+3
+4 , then  
+𝑃({1, 4})  (rounded off to two decimal places) equals  _______________ 
+  
+Q.61 Let  {𝑋𝑛}𝑛≥1  be a sequence of independent and identically distributed random 
+variables each having probability density function 
+𝑓(𝑥) = { 𝑒−𝑥      𝑖𝑓 𝑥 > 0
+0         𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒. 
+For  𝑛 ≥ 1, let  𝑌𝑛 = |𝑋2𝑛 − 𝑋2𝑛−1|. If  𝑌̅𝑛 =
+1
+𝑛 ∑ 𝑌𝑛
+𝑖=1 𝑖  for  𝑛 ≥ 1  and  
+{√𝑛 (𝑒−𝑌̅𝑛 − 𝑒−1)}𝑛≥1  converges in distribution to a normal random variable 
+with mean  0  and variance  𝜎2, then  𝜎2  (rounded off to two decimal places) 
+equals  _________________ 
+  
+
+===== Page 47 of 48 =====
+ Statistics (ST) 
+Page 47 of 48 
+Organizing Institute: IIT Kanpur 
+Q.62 Consider a birth-death process on the state space  {0, 1, 2, 3}. The birth rates are 
+given by  𝜆0 = 1, 𝜆1 = 1, 𝜆2 = 2  and  𝜆3 = 0.  The death rates are given by   
+𝜇0 = 0, 𝜇1 = 1, 𝜇2 = 1  and  𝜇3 = 1.  If  [𝜋0, 𝜋1, 𝜋2, 𝜋3]  is the unique 
+stationary distribution, then  𝜋0 + 2𝜋1 + 3𝜋2 + 4𝜋3  (rounded off to two 
+decimal places) equals  _______________ 
+  
+Q.63 Let  {−1, −
+1
+2 , 1,
+5
+2 , 3}  be a realization of a random sample of size  5  from a 
+population having  𝑁 (
+1
+2 , 𝜎2)  distribution, where  𝜎 > 0  is an unknown 
+parameter. Let  𝑇  be an unbiased estimator of  𝜎2  whose variance attains the 
+Cramer-Rao lower bound. Then based on the above data, the realized value of  𝑇 
+(rounded off to two decimal places) equals  _______________ 
+  
+Q.64 Let  𝑋  be a random sample of size  1  from a population with cumulative 
+distribution function  
+𝐹(𝑥) = { 
+0                                𝑖𝑓 𝑥 < 0
+1 − (1 − 𝑥)𝜃          𝑖𝑓 0 ≤ 𝑥 < 1
+1                                𝑖𝑓 𝑥 ≥ 1,
+ 
+where  𝜃 > 0  is an unknown parameter. To test  𝐻0: 𝜃 = 1  against  𝐻1: 𝜃 = 2, 
+consider using the critical region  {𝑥 ∈ ℝ ∶  𝑥 < 0.5}. If  𝛼  and  𝛽  denote the 
+level and power of the test, respectively, then  𝛼 + 𝛽   (rounded off to two 
+decimal places) equals  _______________ 
+  
+  
+ 
+ 
+ 
+ 
+
+===== Page 48 of 48 =====
+ Statistics (ST) 
+Page 48 of 48 
+Organizing Institute: IIT Kanpur 
+Q.65 Let  {0.13, 0.12, 0.78, 0.51}  be a realization of a random sample of size  4  
+from a population with cumulative distribution function  𝐹(⋅). Consider testing 
+𝐻0: 𝐹 = 𝐹0        against       𝐻1: 𝐹 ≠ 𝐹0, 
+where  
+𝐹0(𝑥) = { 
+0          𝑖𝑓 𝑥 < 0
+𝑥          𝑖𝑓 0 ≤ 𝑥 < 1
+1          𝑖𝑓 𝑥 ≥ 1.
+ 
+Let  𝐷  denote the Kolmogorov-Smirnov test statistic. If  𝑃(𝐷 > 0.669) = 0.01  
+under  𝐻0  and  
+𝜓 = { 1         𝑖𝑓 𝐻0 𝑖𝑠 𝑎𝑐𝑐𝑒𝑝𝑡𝑒𝑑 𝑎𝑡 𝑙𝑒𝑣𝑒𝑙 0.01
+ 0         𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒,  
+then based on the given data, the observed value of  𝐷 + 𝜓  (rounded off to two 
+decimal places) equals  _______________ 
+ 
+ 
+ 
+END OF QUESTION PAPER 

@@ -1,0 +1,178 @@
+===== Page 1 of 3 =====
+A 1 1/3
+A 1 1/3
+B 1 1/3
+A 1 1/3
+2 to 2 1 0
+A 2 2/3
+A 1 1/3
+C 1 1/3
+A 1 1/3
+B 1 1/3
+A 1 1/3
+6 4 MCQ ST
+7 4 MCQ ST
+8 4 MCQ ST
+4 MCQ ST
+10 4 NAT ST
+10 4 MCQ GA
+1 4 MCQ ST
+2 4 MCQ ST
+3 4 MCQ ST
+4 4 MCQ ST
+5 4 MCQ ST
+B 1 1/3
+C 1 1/3
+C 1 1/3
+B 1 1/3
+C 2 2/3
+D 2 2/3
+A 2 2/3
+C 2 2/3
+Key for Statistics (ST)
+TE 2021)
+Statistics (ST)
+n Answer
+Key/Range
+Marks
+C 1
+Negative
+Marks
+1/3
+2 4 MCQ GA
+3 4 MCQ GA
+4 4 MCQ GA
+5 4 MCQ GA
+6 4 MCQ GA
+7 4 MCQ GA
+8 4 MCQ GA
+१ MCO GA
+GATE 2019 Answer K
+Graduate Aptitude Test in Engineering (GA.
+Answer Keys and Marks for Subject/Paper:
+Q. No. Session
+Question Type
+MCQ/MSQ/NAT
+Sectio
+Name
+1 4 MCQ GA
+
+===== Page 2 of 3 =====
+B 2 2/3
+C 2 2/3
+B 2 2/3
+D 2 2/3
+B 2 2/3
+8.60 to 8.75 1 0
+0.14 to 0.18 1 0
+1.00 to 1.00 1 0
+6.31 to 6.35 1 0
+C 2 2/3
+D 2 2/3
+A 2 2/3
+29 4 MCQ ST
+30 4 MCQ ST
+31 4 MCQ ST
+32 4 MCQ ST
+33 4 MCQ ST
+22 4 NAT ST
+23 4 NAT ST
+24 4 NAT ST
+25 4 NAT ST
+26 4 MCQ ST
+27 4 MCQ ST
+28 4 MCQ ST
+0.32 to 0.35
+7 to 7
+1 0
+1 0
+0.32 to 0.35 1 0
+7 to 7 1 이
+0.50 to 0.50 1 이
+0.27 to 0.35 1 0
+50 to 50 1 0
+0 98 to 1 00 1 U
+Key for Statistics (ST)
+n Answer
+Key/Range
+Marks
+Negative
+Marks
+33.50 to 34.50 1 0
+2 to 2 1 이
+1.70 to 1.75 1 이
+14 4 NAT ST
+15 4 NAT ST
+16 4 NAT ST
+17 4 NAT ST
+18 4 NAT ST
+19 4 NAT ST
+20 4 NAT ST
+21 MAT ST
+GATE 2019 Answer k
+Q. No. Session
+Question Type
+MCQ/MSQ/NAT
+Sectio
+Name
+11 4 NAT ST
+12 4 NAT ST
+13 4 NAT ST
+
+===== Page 3 of 3 =====
+0.045 to 0.055 2 0
+0.20 to 0.22 2 0
+31.60 to 31.80 2 0
+57.00 to 57.40 2 0
+10.10 to 10.15 2 0
+72 to 72 2 0
+0.60 to 0.66 2 0
+0.20 to 0.26 2 이
+0.32 to 0.42 2 0
+143 to 143 2 0
+0.50 to 0.50 2 0
+52 4 NAT ST
+53 4 NAT ST
+54 4 NAT ST
+55 4 NAT ST
+45 4 NAT ST
+46 4 NAT ST
+47 4 NAT ST
+48 4 NAT ST
+49 4 NAT ST
+50 4 NAT ST
+51 4 NAT ST
+B 2 2/3
+C 2 2/3
+A 2 2/3
+D 2 2/3
+C 2 2/3
+D 2 2/3
+C 2 2/3
+3 to 3 7 U
+Key for Statistics (ST)
+n Answer
+Key/Range
+Marks
+Negative
+Marks
+C 2 2/3
+C 2 2/3
+B 2 2/3
+37 4 MCQ ST
+38 4 MCQ ST
+39 4 MCQ ST
+40 4 MCQ ST
+41 4 MCQ ST
+42 4 MCQ ST
+43 4 MCQ ST
+44 MAT ST
+GATE 2019 Answer
+Q. No. Session
+Question Type
+MCQ/MSQ/NAT
+Sectior
+Name
+34 4 MCQ ST
+35 4 MCQ ST
+36 4 MCQ ST

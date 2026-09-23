@@ -1,0 +1,1728 @@
+===== Page 1 of 47 =====
+                               Statistics (ST) 
+Page 1 of 47 
+Organizing Institute: IISc, Bengaluru 
+General Aptitude (GA) 
+Q.1 – Q.5 Carry ONE mark Each 
+Q.1 If ‘→’ denotes increasing order of intensity, then the meaning of the words  
+[walk → jog → sprint] is analogous to [bothered → ________ → daunted]. 
+Which one of the given options is appropriate to fill the blank? 
+  
+(A) phased 
+(B) phrased 
+(C) fazed 
+(D) fused 
+  
+Q.2 Two wizards try to create a spell using all the four elements, water, air, fire, and 
+earth. For this, they decide to mix all these elements in all possible orders. They 
+also decide to work independently. After trying all possible combination of 
+elements, they conclude that the spell does not work.  
+How many attempts does each wizard make before coming to this conclusion, 
+independently? 
+  
+(A) 24 
+(B) 48 
+(C) 16 
+(D) 12 
+
+===== Page 2 of 47 =====
+                               Statistics (ST) 
+Page 2 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.3 In an engineering college of 10,000 students, 1,500 like neither their core branches 
+nor other branches. The number of students who like their core branches is 1/4 th of 
+the number of students who like other branches. The number of students who like 
+both their core and other branches is 500. 
+The number of students who like their core branches is 
+  
+(A) 1,800 
+(B) 3,500 
+(C) 1,600 
+(D) 1,500 
+  
+Q.4 For positive non-zero real variables 𝑥 and 𝑦, if  
+ln(𝑥 + 𝑦
+2 ) = 1
+2[ln⁡(𝑥) + ln⁡(𝑦)] 
+ then, the value of  
+𝑥
+𝑦 +
+𝑦
+𝑥  is 
+  
+(A) 1 
+(B) 1/2 
+(C) 2 
+(D) 4 
+  
+
+===== Page 3 of 47 =====
+                               Statistics (ST) 
+Page 3 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.5 In the sequence 6, 9, 14, x, 30, 41, a possible value of 𝑥 is 
+  
+(A) 25 
+(B) 21 
+(C) 18 
+(D) 20 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 4 of 47 =====
+                               Statistics (ST) 
+Page 4 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.6 – Q.10 Carry TWO marks Each 
+Q.6 Sequence the following sentences in a coherent passage. 
+P: This fortuitous geological event generated a colossal amount of energy and 
+heat that resulted in the rocks rising to an average height of 4 km across the 
+contact zone.  
+Q: Thus, the geophysicists tend to think of the Himalayas as an active geological 
+event rather than as a static geological feature. 
+R: The natural process of the cooling of this massive edifice absorbed large 
+quantities of atmospheric carbon dioxide, altering the earth’s atmosphere and 
+making it better suited for life. 
+S: Many millennia ago, a breakaway chunk of bedrock from the Antarctic Plate 
+collided with the massive Eurasian Plate. 
+ 
+  
+(A) QPSR 
+(B) QSPR 
+(C) SPRQ 
+(D) SRPQ 
+  
+ 
+ 
+ 
+ 
+ 
+
+===== Page 5 of 47 =====
+                               Statistics (ST) 
+Page 5 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.7 A person sold two different items at the same price. He made 10% profit in one 
+item, and 10% loss in the other item. In selling these two items, the person made a 
+total of 
+  
+(A) 1% profit 
+(B) 2% profit 
+(C) 1% loss 
+(D) 2% loss 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 6 of 47 =====
+                               Statistics (ST) 
+Page 6 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.8 The pie charts depict the shares of various power generation technologies in the 
+total electricity generation of a country for the years 2007 and 2023.  
+ 
+The renewable sources of electricity generation consist of Hydro, Solar and Wind. 
+Assuming that the total electricity generated remains the same from 2007 to 2023, 
+what is the percentage increase in the share of the renewable sources of electricity 
+generation over this period? 
+  
+(A) 25% 
+(B) 50% 
+(C) 77.5% 
+(D) 62.5% 
+  
+ 
+ 
+ 
+Coal
+35%
+Gas
+25%
+Wind
+5%
+Hydro
+30%
+Solar
+5%
+Year 
+2007
+Coal
+20%
+Gas
+15%
+Wind
+10%
+Hydro
+35%
+Solar
+20%
+Year 
+2023
+
+===== Page 7 of 47 =====
+                               Statistics (ST) 
+Page 7 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.9 A cube is to be cut into 8 pieces of equal size and shape. Here, each cut should be 
+straight and it should not stop till it reaches the other end of the cube.  
+The minimum number of such cuts required is 
+  
+(A) 3 
+(B) 4 
+(C) 7 
+(D) 8 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 8 of 47 =====
+                               Statistics (ST) 
+Page 8 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.10 In the 4 × 4 array shown below, each cell of the first three rows has either a  
+cross (X) or a number.  
+ 
+The number in a cell represents the count of the immediate neighboring cells  
+(left, right, top, bottom, diagonals) NOT having a cross (X). Given that the last row 
+has no crosses (X), the sum of the four numbers to be filled in the last row is  
+  
+(A) 11 
+(B) 10 
+(C) 12 
+(D) 9 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 9 of 47 =====
+                               Statistics (ST) 
+Page 9 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.11 – Q.35 Carry ONE mark Each 
+Q.11 Let  𝐷  be the region bounded by the line  𝑦 = 𝑥  and the parabola  𝑦 = 4𝑥 − 𝑥2.  
+Then  ∬ 𝑥⁡𝑑𝑥⁡𝑑𝑦
+⁡
+𝐷   equals 
+  
+(A)   
+27
+4  
+(B)   
+29
+4  
+(C)   7 
+(D)   6 
+  
+Q.12 Let  {𝑎𝑛}𝑛≥1  be a sequence  of real numbers  such that  𝑎1 = √6  and   
+𝑎𝑛+1 =⁡√6 + 𝑎𝑛  for  𝑛 ≥ 1. Consider the following statements: 
+(I)     {𝑎𝑛}𝑛≥1  is an increasing sequence. 
+(II)   lim
+𝑛→∞
+𝑎𝑛 = 2. 
+Which of the above statements is/are true? 
+  
+(A)  Only (I) 
+(B)  Only (II) 
+(C)  Both (I) and (II) 
+(D)  Neither (I) nor (II) 
+
+===== Page 10 of 47 =====
+                               Statistics (ST) 
+Page 10 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.13 Let  𝐴  be a  3 × 3  real matrix and let  𝐼3  be the  3 × 3  identity matrix.  
+Which one of the following statements is NOT true? 
+  
+(A)  If the row-reduced echelon form of  𝐴  is  𝐼3,  then zero is not an eigenvalue of  𝐴 
+(B)  If zero is not an eigenvalue of  𝐴,  then the row-reduced echelon form of  𝐴  is  𝐼3 
+(C)  If  𝐴  has three distinct eigenvalues, then the row -reduced echelon form  
+ of  𝐴  is  𝐼3 
+(D)  If the system of equations  𝐴𝒙 = 𝒃  has a solution for every  3 × 1  real column 
+ vector  𝒃,  then the row-reduced echelon form of  𝐴  is  𝐼3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 11 of 47 =====
+                               Statistics (ST) 
+Page 11 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.14 Let  𝒖𝟏,𝒖𝟐,𝒖𝟑,𝒗𝟏,𝒗𝟐,𝒗𝟑  be vectors in  ℝ4.  Let  𝑈  be the span of  {𝒖𝟏,𝒖𝟐,𝒖𝟑}  
+and let  𝑉  be the span of  {𝒗𝟏,𝒗𝟐,𝒗𝟑}. 
+Consider the following statements: 
+(I)    If the dimension of  𝑈 ∩ 𝑉  is 2 and the dimension of  𝑈  is 3, then  
+        {𝒗𝟏,𝒗𝟐,𝒗𝟑}  is linearly dependent. 
+(II)  If  𝑈 + 𝑉 = {𝒖 + 𝒗⁡ ∶ 𝒖 ∈ 𝑈,𝒗 ∈ 𝑉} = ℝ4,  then either  {𝒖𝟏,𝒖𝟐,𝒖𝟑}   
+        is linearly independent or  {𝒗𝟏,𝒗𝟐,𝒗𝟑}  is linearly independent. 
+Which of the above statements is/are true?  
+  
+(A)  Only (I) 
+(B)  Only (II) 
+(C)  Both (I) and (II) 
+(D)  Neither (I) nor (II) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 12 of 47 =====
+                               Statistics (ST) 
+Page 12 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.15 Consider  ℝ2  with standard inner product. If  𝒖 = [𝑎
+𝑏]  is the vector in  ℝ2  such 
+that the inner product of  𝒖  with  [1
+2]  is  2  and with  [⁡⁡⁡4
+−2]  is  −1,  then which one 
+of the following statements is true? 
+  
+(A)  Inner product of  𝒖  with  [⁡⁡⁡1
+−1]  is  
+1
+2   
+(B)  Inner product 𝒖  with  [−1
+⁡⁡⁡1]  is  
+3
+5 
+(C)  Inner product of  𝒖  with  [⁡⁡⁡⁡2
+−⁡1
+2
+]  is  −
+6
+5 
+(D)  Inner product of  𝒖  with  [−⁡1
+2
+⁡⁡⁡⁡1]  is  
+4
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 13 of 47 =====
+                               Statistics (ST) 
+Page 13 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.16 Let  𝐴 = [𝑎1 𝑎2 𝑎3
+𝑏1 𝑏2 𝑏3
+]  be a  2 × 3  real matrix,  
+where  (𝑎1,𝑎2,𝑎3) ≠ (0,0,0)  and  (𝑏1,𝑏2,𝑏3) ≠ (0,0,0). Assume that the 
+rank of  𝐴  is 1.  Define the subspaces  𝑊 = {𝒙 = [
+𝑥1
+𝑥2
+𝑥3
+]⁡∈⁡ℝ3:𝐴𝒙 = 𝟎},   
+𝑊1 = {𝒙 = [
+𝑥1
+𝑥2
+𝑥3
+]⁡∈⁡ℝ3:𝑎1𝑥1 + 𝑎2𝑥2 + 𝑎3𝑥3 = 0}  and  
+𝑊2 = {𝒙 = [
+𝑥1
+𝑥2
+𝑥3
+]⁡∈⁡ℝ3:𝑏1𝑥1 + 𝑏2𝑥2 + 𝑏3𝑥3 = 0}.   
+Consider the following statements: 
+(I)     𝑊 = 𝑊1 ∩ 𝑊2  
+(II)   𝑊1 = 𝑊2 
+Which of the above statements is/are true? 
+  
+(A)  Only (I) 
+(B)  Only (II) 
+(C)  Both (I) and (II) 
+(D)  Neither (I) nor (II) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 14 of 47 =====
+                               Statistics (ST) 
+Page 14 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.17 Let  𝑋  be a random variable taking only two values,  1  and  2.  Let  𝑀𝑋(⋅)  be the 
+moment generating function of  𝑋.  If the expectation of  𝑋  is  10
+7 ,   then the fourth 
+derivative of  𝑀𝑋(⋅)  evaluated at  0  equals  
+  
+(A)   
+52
+7    
+(B)   
+67
+7  
+(C)   
+48
+7  
+(D)   
+60
+7  
+  
+Q.18 Two fair dice , one having red and another having blue colour, are tossed 
+independently once. Let  𝐴  be the event that the die having red colour will show  5  
+or  6.  Let  𝐵  be the event that the sum of the outcomes will be  7  and let  𝐶  be 
+the event that the sum of the outcomes will be  8.  Then which one of the following 
+statements is true? 
+  
+(A)   𝐴  and  𝐵  are independent as well as 𝐴  and  𝐶  are independent 
+(B)   𝐴  and  𝐵  are independent, but  𝐴  and  𝐶  are not independent 
+(C)   𝐴  and  𝐶  are independent, but 𝐴  and  𝐵  are not independent 
+(D)   Neither 𝐴  and  𝐵  are independent, nor 𝐴  and  𝐶  are independent 
+  
+
+===== Page 15 of 47 =====
+                               Statistics (ST) 
+Page 15 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.19 Let  𝑋  be a random variable with probability density function   
+  𝑓(𝑥) = {
+Γ(𝛼+𝛽)
+Γ(𝛼)Γ(𝛽)𝑥𝛼−1(1 − 𝑥)𝛽−1⁡⁡⁡if⁡⁡0 < 𝑥 < 1
+0⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡otherwise,
+ 
+where  𝛼 > 0,𝛽 > 0. If  𝐸(𝑋) =
+1
+3  and  𝐸(𝑋2) =
+1
+6 ,  then  𝛼 + 3⁡𝛽  equals  
+  
+(A)   7 
+(B)   5 
+(C)   4 
+(D)   8 
+  
+Q.20 Let  𝑋  and  𝑌  be two random variables with cumulative distribution functions  
+𝐹𝑋(⋅)  and  𝐹𝑌(⋅),  respectively. Then which one of the following statements is 
+NOT true? 
+  
+(A) There exist  𝑋  and  𝑌  such that  𝐹𝑋(𝑢) = 𝐹𝑌(𝑢)  for all  𝑢 ∈ ℝ,  and   
+𝑃(𝑋 ≠ 𝑌) > 0 
+(B) There exist  𝑋  and  𝑌  such that  𝐹𝑋(𝑢) = 𝐹𝑌(𝑢)  for all  𝑢 ∈ ℝ,  and  
+𝑃(𝑋 = 𝑌) = 0 
+(C) If  𝑋  and  𝑌  are independent then  𝑋2  and  𝑌2  are also independent 
+(D) If  𝑋2  and  𝑌2  are independent then  𝑋  and  𝑌  are also independent 
+  
+
+===== Page 16 of 47 =====
+                               Statistics (ST) 
+Page 16 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.21 Let  {𝐹𝑛}𝑛≥1  be a sequence of cumulative distribution functions given by  
+𝐹𝑛(𝑥) =
+{
+ 
+ 
+  0⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡if⁡⁡𝑥 < −𝑛⁡
+⁡
+𝑥 + 𝑛
+2𝑛 ⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡if − 𝑛 ≤ 𝑥 < 𝑛
+⁡
+⁡⁡⁡⁡⁡⁡⁡⁡1⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡if⁡𝑥 ≥ 𝑛.⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡
+ 
+Which one of the following statements is true? 
+  
+(A) 𝐹𝑛(𝑥)  converges for all  𝑥 ∈ ℝ  and the limiting function is a cumulative 
+distribution function 
+(B) 𝐹𝑛(𝑥)  converges for all  𝑥 ∈ ℝ,  but the limiting function is not a cumulative 
+distribution function 
+(C) 𝐹𝑛(𝑥)  does not converge for any  𝑥 ∈ ℝ   
+(D) There exist  𝑥,𝑦 ∈ ℝ  such that  𝐹𝑛(𝑥)  converges but 𝐹𝑛(𝑦) does not converge 
+  
+Q.22 Let  {𝑊(𝑡)}𝑡≥0  be a standard Brownian motion. Which one of the following 
+statements is NOT true? 
+  
+(A)   𝐸[𝑊(7)] = 0 
+(B)   𝐸[𝑊(5)𝑊(9)] = 7 
+(C)   2𝑊(1)  is normally distributed with mean  0  and variance  4 
+(D)   𝐸[𝑊(5)⁡|⁡𝑊(3) = 3] = 3 
+
+===== Page 17 of 47 =====
+                               Statistics (ST) 
+Page 17 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.23 Let  𝑋1,𝑋2,𝑋3  be three independent and identically distributed binomial random 
+variables with number of trials  𝑛 = 100  and success probability  𝑝⁡(0 < 𝑝 < 1), 
+which is an unknown parameter . Let  𝑇1 = (𝑋1 + 𝑋2,⁡𝑋3)  and   
+𝑇2 = 𝑋1 + 𝑋2 + 𝑋3. Consider the following statements: 
+(I)    The distribution of  𝑇2  given  𝑇1 = 𝑡1  is independent of  𝑝. 
+(II)   The distribution of  𝑇1  given  𝑇2 = 𝑡2  is independent of  𝑝. 
+Which of the above statements is/are true? 
+  
+(A)  Only (I) 
+(B)  Only (II) 
+(C)  Both (I) and (II) 
+(D)  Neither (I) nor (II) 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 18 of 47 =====
+                               Statistics (ST) 
+Page 18 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.24 Let  𝑋1,𝑋2,…,𝑋𝑛  be a random sample of size  𝑛⁡(≥ 2)  from a population having 
+probability density function  
+𝑓(𝑥;𝜃) =
+{  
+  𝜃(2𝑥)𝜃−1⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡if⁡⁡0 < 𝑥 ≤ 1
+2⁡
+𝜃(2 − 2𝑥)𝜃−1⁡⁡⁡⁡⁡⁡if⁡1
+2 < 𝑥 ≤ 1
+⁡⁡0⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡otherwise,⁡⁡⁡⁡⁡⁡⁡
+ 
+where  𝜃 > 0  is an unknown parameter. Then which one of the following is a 
+maximum likelihood estimator of  𝜃? 
+  
+(A)  𝑛 [⁡∑ loge2𝑋𝑖 +⁡{𝑖:⁡𝑋𝑖≤1
+2} ⁡∑ loge(2 − 2𝑋𝑖){𝑖:⁡𝑋𝑖>1
+2} ]
+−1
+ 
+(B)  −⁡𝑛 [⁡∑ loge2𝑋𝑖 +⁡{𝑖:⁡𝑋𝑖≤1
+2} ⁡∑ loge(2 − 2𝑋𝑖){𝑖:⁡𝑋𝑖>1
+2} ]
+−1
+ 
+(C)  𝑛[⁡∑ loge 2𝑋𝑖 +⁡{1≤𝑖≤𝑛} ⁡∑ loge(2 − 2𝑋𝑖){1≤𝑖≤𝑛} ]
+−1
+ 
+(D)  −⁡𝑛[⁡∑ loge2𝑋𝑖 +⁡{1≤𝑖≤𝑛} ⁡∑ log𝑒(2 − 2𝑋𝑖){1≤𝑖≤𝑛} ]
+−1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 19 of 47 =====
+                               Statistics (ST) 
+Page 19 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.25 In a testing of hypothesis problem, which one of the following statements is true? 
+  
+(A) The probability of the Type -I error cannot be higher than the probability of the 
+Type-II error 
+(B) Type-II error occurs if the test accepts the null hypothesis when the null hypothesis 
+is actually false 
+(C) Type-I error occurs if the test rejects the null hypothesis when the null hypothesis 
+is actually false 
+(D) The sum of the probability of the Type -I error and the probability of the Type -II 
+error should be  1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 20 of 47 =====
+                               Statistics (ST) 
+Page 20 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.26 A random sample of size  40  is drawn from a population having four distinct 
+categories as  𝑖 = 1,2,3,4.  The data are given as  
+ 
+ 
+ 
+Let  𝜃𝑖  be the probability  that a n observation  comes from the  𝑖-th category ,   
+𝑖 = 1,2,3,4. If the chi -square goodness -of-fit test is used to test  
+ 𝐻0:𝜃𝑖 =
+1
+4,𝑖 = 1,2,3,4  against  𝐻1:𝜃𝑖 ≠
+1
+4, for some  𝑖 = 1,2,3,4, then 
+which one of the following statements is true? 
+Category 1 2 3 4 
+Observed Frequency 5 8 12 15 
+  
+(A) Under  𝐻0, the test statistic follows central chi-square distribution with  3  degrees 
+of freedom and the observed value of the test statistic is  5.8 
+(B) Under  𝐻0, the test statistic follows central chi-square distribution with  3  degrees 
+of freedom and the observed value of the test statistic is  1.4 
+(C) Under  𝐻0, the test statistic follows central chi-square distribution with  4  degrees 
+of freedom and the observed value of the test statistic is  5.8 
+(D) Under  𝐻0, the test statistic follows central chi-square distribution with  4  degrees 
+of freedom and the observed value of the test statistic is  1.4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 21 of 47 =====
+                               Statistics (ST) 
+Page 21 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.27 Let  𝑋1,𝑋2,… ,𝑋𝑛  be a random sample of size  𝑛⁡(≥ 11)  from a population with 
+continuous and strictly increasing cumulative distribution function  𝐹(⋅)  with an 
+unknown median  𝑀. To test  𝐻0:⁡𝑀 = 10  against  𝐻1:𝑀 > 10 at level  𝛼, let 
+the statistic  𝑇  denote the number of observations larger than  10. Let  𝑡0  be the 
+observed value of the test statistic  𝑇. Consider the test which rejects  𝐻0  if  𝑇 ≥ 𝑐.  
+Then the  𝑝-value of the test is 
+  
+(A) 
+∑ 𝑛!
+𝑖!(𝑛 − 𝑖)!⁡(0.5)𝑛
+𝑛
+𝑖=𝑡0
+ 
+(B) 
+∑ 𝑛!
+𝑖!(𝑛 − 𝑖)!⁡(0.5)𝑛
+𝑛
+𝑖=10
+ 
+(C) 
+∑ 𝑛!
+𝑖!(𝑛 − 𝑖)!⁡(0.5)𝑛
+10
+𝑖=0
+ 
+(D) 
+∑ 𝑛!
+𝑖!(𝑛 − 𝑖)!⁡(0.5)𝑛
+𝑡0
+𝑖=0
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 22 of 47 =====
+                               Statistics (ST) 
+Page 22 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.28 Consider the simple linear regression model 
+𝑦𝑖 = 𝛽0 + 𝛽1𝑥𝑖 + 𝜖𝑖,⁡⁡⁡𝑖 = 1,2,…,𝑛, 
+where  𝛽0  and  𝛽1  are unknown parameters,  𝜖𝑖’s are uncorrelated random errors 
+with mean  0  and finite variance  𝜎2 > 0. Let  𝑦̅ =⁡
+1
+𝑛⁡∑ 𝑦𝑖
+𝑛
+𝑖=1   and  𝛽1̂  be the 
+least squares estimator of  𝛽1. Then which one of the following statements is true? 
+  
+(A) The covariance between  𝑦̅  and  ⁡𝛽1̂⁡ is less than 0 
+(B) The covariance between  𝑦̅  and  ⁡𝛽1̂⁡ is greater than 0 
+(C) The covariance between  𝑦̅  and  ⁡𝛽1̂⁡ is equal to 0 
+(D) The covariance between  𝑦̅  and  ⁡𝛽1̂⁡ does not exist 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 23 of 47 =====
+                               Statistics (ST) 
+Page 23 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.29 Consider the simple linear regression model 
+𝑦𝑖 = 𝛽0 + 𝛽1𝑥𝑖 + 𝜖𝑖,⁡⁡⁡𝑖 = 1,2,…,𝑛⁡⁡⁡⁡⁡(𝑛 ≥ 3), 
+where  𝛽0  and  𝛽1  are unknown parameters,  𝜖𝑖’s are uncorrelated random errors 
+with mean  0  and finite variance  𝜎2 > 0. Let  𝑦̅ =⁡
+1
+𝑛⁡∑ 𝑦𝑖
+𝑛
+𝑖=1   and   
+𝑦̂𝑖 = 𝛽̂0 + 𝛽̂1𝑥𝑖, 𝑖 = 1,2,…,𝑛, where  𝛽̂0  and  𝛽̂1  represent least squares 
+estimators of  𝛽0  and  𝛽1, respectively . Let  𝑇1 =⁡
+1
+𝑛−2⁡∑ (𝑦𝑖 − 𝑦̂𝑖)𝑛
+𝑖=1
+2  and   
+𝑇2 =⁡∑ (𝑦̂𝑖 − 𝑦̅)𝑛
+𝑖=1
+2. Then which one of the following statements is true? 
+  
+(A)  Both 𝑇1  and  𝑇2  are unbiased estimators of  𝜎2 
+(B)  𝑇1  is an unbiased estimator of  𝜎2, but  𝑇2  is not an unbiased estimator of  𝜎2 
+(C)  𝑇1  is not an unbiased estimator of  𝜎2, but  𝑇2  is an unbiased estimator of  𝜎2 
+(D)  Neither 𝑇1  nor  𝑇2  is an unbiased estimator of  𝜎2 
+  
+Q.30 Consider the power series  ∑ 𝑎𝑛𝑥𝑛∞
+𝑛=0 ,  where 𝑎2𝑛+1 =
+1
+22𝑛+1⁡  and 
+  𝑎2𝑛 =
+1
+32𝑛  for  𝑛 = 0,1,2,… . The radius of convergence of the  
+power series equals __________ (in integer). 
+  
+Q.31 Let  𝑋  be a random variable having Poisson distribution with mean  𝜆 > 0  such 
+that 𝑃(𝑋 = 4) = 2⁡𝑃(𝑋 = 5). If  𝑝𝑘 = 𝑃(𝑋 = 𝑘), 𝑘 = 0,1,2,…,  and  
+ 𝑝𝛼 =⁡max
+𝑘
+⁡𝑝𝑘, then  𝛼  equals __________ (in integer). 
+ 
+ 
+ 
+
+===== Page 24 of 47 =====
+                               Statistics (ST) 
+Page 24 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.32 Let  𝑋1,𝑋2,𝑋3  be independent and identically distributed random variables with 
+common probability density function  
+⁡⁡𝑓(𝑥) = {2𝑥⁡⁡⁡if⁡⁡0 < 𝑥 < 1
+0⁡⁡⁡⁡⁡otherwise.  
+Then  𝑃(min
+⁡
+{𝑋1, 𝑋2, 𝑋3} ≥ 𝐸(𝑋1))  equals __________ (rounded off to two 
+decimal places). 
+  
+Q.33 Let  (𝑋,𝑌)  have a bivariate normal distribution with  𝐸(𝑋) = 𝐸(𝑌) = 0.  
+Denote the conditional variance of  𝑋  given  𝑌 = 1  by  𝑉𝑎𝑟(𝑋|𝑌 = 1)  and the 
+conditional variance of  𝑌  given  𝑋 = 2  by  𝑉𝑎𝑟(𝑌|𝑋 = 2).  
+If  
+𝐸(𝑌|𝑋=2)
+𝐸(𝑋|𝑌=1) = 8  then  
+𝑉𝑎𝑟(𝑌|𝑋=2)
+𝑉𝑎𝑟(𝑋|𝑌=1)  equals __________ (in integer).   
+  
+Q.34 Let  𝑋  be a random sample of size one from a population having  𝑁(0,𝜎2)  
+distribution, where  𝜎 > 0⁡  is an unknown parameter. Let  (⋅)  denote the 
+cumulative distribution function of a standard normal random variable and let  𝜒𝜈,𝛼
+2   
+denote the  (1 − 𝛼)-th quantile of the central chi -square distribution with   
+𝜈  degrees of freedom. It is given that  (1.96) = 0.975, (1.64) = 0.95,
+𝜒1,0.05
+2 = 3.841, 𝜒2,0.05
+2 = 5.991.  To test   𝐻0:𝜎2 = 1  against 𝐻1:𝜎2 = 2, 
+using the Neyman-Pearson most powerful test of size  0.05, the critical region is 
+given by  𝜆(𝑋) > 𝑐,  where  𝑐 ≥ 0  is a constant and  𝜆(𝑥) =⁡
+𝑓(𝑥;⁡𝜎2=2)
+𝑓(𝑥;⁡𝜎2=1),  where  
+𝑓(𝑥;𝜎2)  is the probability density function of a  𝑁(0,𝜎2)  distribution. Then the 
+value of  𝑐  equals __________ (rounded off to two decimal places). 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 25 of 47 =====
+                               Statistics (ST) 
+Page 25 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.35 Consider the linear regression model 
+𝑦𝑖 = 𝛽1𝑥𝑖 + 𝜖𝑖,⁡⁡⁡𝑖 = 1,2,…,𝑛, 
+where  𝛽1  is an unknown parameter,  𝜖𝑖’s are uncorrelated random errors with  
+mean 0 and finite variance  𝜎2 > 0. The five data points   (𝑥1,𝑦1) = (2,5),⁡   
+⁡(𝑥2,𝑦2) = (1,6),(𝑥3,𝑦3) = (3,4), (𝑥4,𝑦4) = (2,3)  and  ⁡(𝑥5,𝑦5) = (4,6)  yield 
+the least squares estimate  of  𝛽1  to be equal to __________  (rounded off to two 
+decimal places). 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 26 of 47 =====
+                               Statistics (ST) 
+Page 26 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.36 – Q.65 Carry TWO marks Each 
+Q.36 Consider the function  𝑓:ℝ2 → ℝ  defined by   
+𝑓(𝑥,𝑦) = 108⁡𝑥𝑦 − 2𝑥2𝑦 − 2𝑥𝑦2. 
+Which one of the following statements is NOT true? 
+  
+(A)   𝑓  has four critical points 
+ (B)   𝑓  has a local minimum at  (0,0) 
+(C)   𝑓  has a local maximum at  (18,18) 
+(D)   𝑓  has two or more saddle points 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 27 of 47 =====
+                               Statistics (ST) 
+Page 27 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.37 Consider the function  𝑓:ℝ2 → ℝ  defined by   
+𝑓(𝑥,𝑦) = {
+𝑥3 − 𝑦3
+𝑥2 + 𝑦2 ⁡⁡⁡if⁡⁡(𝑥,𝑦) ≠ (0,0)
+0⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡otherwise.
+ 
+If  𝑓𝑥  denotes the partial derivative of  𝑓  with respect to  𝑥  and  𝑓𝑦  denotes the 
+partial derivative of  𝑓  with respect to  𝑦,  then which one of the following 
+statements is NOT true? 
+  
+(A)   𝑓  is continuous at  (0,0)   
+(B)   𝑓𝑥(0,0) ≠ 𝑓𝑦(0,0) 
+(C)   𝑓𝑥  is continuous at  (0,0)   
+(D)   𝑓𝑦  is not continuous at  (0,0)   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+===== Page 28 of 47 =====
+                               Statistics (ST) 
+Page 28 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.38 Let  𝑋  be a random variable with probability density function  
+𝑓(𝑥) = {⁡
+3
+8(𝑥 + 1)2⁡⁡⁡if⁡ − 1 < 𝑥 < 1
+0⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡otherwise.
+ 
+If  𝑌 = 1 − 𝑋2,  then  𝑃 (𝑌 ≤
+3
+4⁡)  equals  
+  
+(A)   
+19
+32 
+ (B)   
+9
+16 
+(C)   
+15
+32 
+(D)   
+5
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 29 of 47 =====
+                               Statistics (ST) 
+Page 29 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.39 Let  𝑋  be a random variable with probability density function  
+𝑓(𝑥) =
+{  
+  
+𝑐1
+√𝑥 ⁡⁡⁡⁡⁡⁡if⁡⁡0 < 𝑥 ≤ 1⁡
+𝑐2
+𝑥2 ⁡⁡⁡⁡⁡⁡if⁡⁡1 < 𝑥 < ∞
+⁡⁡0⁡⁡⁡⁡⁡⁡⁡⁡⁡otherwise,⁡⁡⁡⁡⁡⁡⁡
+ 
+where  𝑐1  and  𝑐2  are appropriate real constants. If  𝑃 (𝑋 ∈ [
+1
+4⁡,4]) =
+5
+8 , then 
+consider the following statements: 
+(I)     𝑃(𝑋 ∈ [3,5]) =
+1
+12   
+(II)   Both  𝑋  as well as  
+1
+𝑋  do not have finite expectations. 
+ Which of the above statements is/are true? 
+  
+(A)  Only (I) 
+(B)  Only (II) 
+(C)  Both (I) and (II) 
+(D)  Neither (I) nor (II) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 30 of 47 =====
+                               Statistics (ST) 
+Page 30 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.40 At a single-staff checkout counter of a supermarket store, the time taken in minutes 
+to complete the service of a customer is a random variable having probability 
+density function given by  
+𝑓(𝑥) = {
+1
+10𝑒−⁡ 𝑥
+10⁡⁡⁡if⁡⁡𝑥 ≥ 0
+0⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡otherwise.
+ 
+When you arrive at the counter, you observe that there is already one person in 
+service. You are also informed that the person has been in service for  5  minutes. 
+Assuming that the service times of different customers are independent of each 
+other, the probability that your total waiting time (which is the sum of your waiting 
+time in queue and service time) is more than  15  minutes equals 
+   
+(A) 
+ 
+5
+2𝑒−⁡3
+2 
+ (B) 
+ 
+3
+2𝑒−⁡3
+2 
+(C) 
+ 
+3
+2𝑒−⁡5
+2 
+(D) 
+ 
+5
+2𝑒−⁡5
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 31 of 47 =====
+                               Statistics (ST) 
+Page 31 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.41 Let  𝑋  be a random variable having discrete uniform distribution on  
+{1,3,5,7,…, 99}. Then  𝐸(𝑋⁡|⁡𝑋⁡is⁡not⁡a⁡multiple⁡of⁡15)  equals  
+  
+(A)  
+2365
+47  
+ (B)  
+2365
+50  
+(C)  50 
+(D)  47 
+  
+Q.42 Let  𝑋1,𝑋2,… ,𝑋𝑛  be independent and identically distributed random variables 
+having  𝑁(𝜇, 𝜎2)  distribution, where 𝜇 ∈ ℝ  and 𝜎 > 0. Consider the following 
+statements: 
+ (I)    If  √5
+𝜎⁡(2𝑛+1)⁡∑ 𝑖⁡(𝑋𝑖 − 𝜇)𝑛
+𝑖=1   has  𝑁(0,1)  distribution, then  𝑛 = 2. 
+(II)   𝐸 ((−log𝑒 ((
+𝑋1−𝜇
+𝜎 )⁡))
+3
+) = 6, where  (⋅)  denotes the cumulative  
+         distribution function of  𝑁(0,1)  random variable. 
+ Which of the above statements is/are true?  
+  
+(A)  Only (I) 
+ (B)  Only (II) 
+(C)  Both (I) and (II) 
+(D)  Neither (I) nor (II) 
+
+===== Page 32 of 47 =====
+                               Statistics (ST) 
+Page 32 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.43 Let  {𝑋𝑛}𝑛≥1  be a sequence of independent and identically distributed random 
+variables having probability density function 
+𝑓(𝑥) = {𝑒−(𝑥−𝜃)⁡⁡⁡if⁡⁡𝑥 ≥ 𝜃
+0⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡otherwise, 
+where  𝜃 > 0. Consider the following statements: 
+ (I)     
+1
+𝑛⁡∑ 𝑋𝑖
+𝑛
+𝑖=1   converges in probability to  
+𝜃+1
+2 , as  𝑛 → ∞. 
+(II)   ⁡lim
+𝑛→∞
+𝐸(min
+⁡
+{𝑋1,𝑋2,…,𝑋𝑛}) = 𝜃. 
+ Which of the above statements is/are true?  
+  
+(A)  Only (I) 
+ (B)  Only (II) 
+(C)  Both (I) and (II) 
+(D)  Neither (I) nor (II) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 33 of 47 =====
+                               Statistics (ST) 
+Page 33 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.44 Let  {𝑋𝑛}𝑛≥1  be a sequence of independent random variables such that  𝑋𝑛  has 
+Poisson distribution with mean  𝜆𝑛, where  𝜆𝑛 = 𝜆 +
+1
+2𝑛⁡,𝑛 ≥ 1,  and  𝜆 > 0  
+is an unknown parameter. Which one of the following statements is true? 
+  
+(A)   
+1
+𝑛 ∑ 𝑋𝑖
+𝑛
+𝑖=1   is an unbiased estimator of  𝜆  
+(B)   
+1
+𝑛 ∑ 𝑋𝑖
+𝑛
+𝑖=1   is a consistent estimator of  𝜆 
+(C)   ∑ 𝑋𝑖
+𝑛
+𝑖=1   is a consistent estimator of  𝜆 
+(D)   
+1
+𝑛2 ∑ 𝑋𝑖
+𝑛
+𝑖=1   is an unbiased estimator of  𝜆 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 34 of 47 =====
+                               Statistics (ST) 
+Page 34 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.45 Let  𝑿𝟏,𝑿𝟐,…,𝑿𝟐𝟓  be a random sample of size  25  from a population having  
+𝑁3(𝝁,Σ)  distribution, where  𝝁  and non-singular  Σ  are unknown parameters.  
+Let  𝑆 =
+1
+24
+∑ (𝑿𝑗 − 𝑿̅)(𝑿𝑗 − 𝑿̅)
+𝑇25
+𝑗=1 ,  where  𝑿⁡̅ =
+1
+25
+∑ 𝑿𝑗
+25
+𝑗=1 ,  and 
+  𝐵 =⁡[ 1 2 3
+−1 0 1].  Then which one of the following statements is true?  
+  
+(A) 24⁡𝐵𝑆𝐵𝑇  follows a Wishart distribution of order  3  with  24  degrees of freedom 
+(B) 24⁡𝐵𝑆𝐵𝑇  follows a Wishart distribution of order  2  with  25  degrees of freedom 
+(C) 24⁡𝐵𝑆𝐵𝑇  follows a Wishart distribution of order  2  with  24  degrees of freedom 
+(D) 24⁡𝐵𝑆𝐵𝑇  follows a Wishart distribution of order  3  with  25  degrees of freedom 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 35 of 47 =====
+                               Statistics (ST) 
+Page 35 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.46 Consider the simple linear regression model  
+𝑦𝑖 = 𝛽0 + 𝛽1𝑥𝑖 +⁡𝜖𝑖,⁡⁡⁡⁡𝑖 = 1, 2,… , 𝑛, 
+where  𝛽0,  𝛽1  are unknown parameters,  𝜖𝑖’s  are uncorrelated random errors 
+with mean  0  and finite variance  𝜎2 > 0. Let  𝛽̂𝑖  be the least squares estimator 
+of  𝛽𝑖,𝑖 = 0,1.  Consider the following statements:  
+(I)     A  95%  joint confidence region for  (𝛽0,𝛽1)  is the region bounded by an 
+         ellipse.  
+(II)   The expression for covariance between  𝛽̂0  and  𝛽̂1  does not involve  𝜎2.  
+Which of the above statements is/are true? 
+  
+(A)  Only (I) 
+(B)  Only (II) 
+(C)  Both (I) and (II) 
+(D)  Neither (I) nor (II) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 36 of 47 =====
+                               Statistics (ST) 
+Page 36 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.47 If  𝑓:[−2,2] → ℝ  is a continuous function, then which of the following statements 
+is/are true? 
+  
+(A)  𝐹:[0,2] → ℝ  defined by  𝐹(𝑥) = ∫ 𝑓(𝑡)⁡𝑑𝑡⁡
+𝑥
+0   is differentiable on  (0,2)   
+(B)  For any  𝑥1,𝑥2,…,𝑥10 ∈ [−2,2]  there exists a point  𝑥0 ∈ [−2,2]  such that  
+𝑓(𝑥0) = 1
+10⁡(𝑓(𝑥1) + 𝑓(𝑥2) + ⋯+ 𝑓(𝑥10)) 
+(C)  𝑓  is bounded on  [−2,2] 
+(D)  If 𝑓  is differentiable at  0  and  𝑓(0) = 0,  then  
+lim
+𝑥→0
+⁡⁡1
+𝑥⁡(𝑓(𝑥) + 𝑓(𝑥
+2) + ⋯+ 𝑓( 𝑥
+10)) = 10⁡𝑓′(0), 
+where  𝑓′(0)  is the derivative of  𝑓  at  0 
+  
+Q.48 Let  𝐴  be an 𝑛 × 𝑛⁡  real matrix. Which of the following statements is/are true? 
+  
+(A) If  𝐴  is a symmetric matrix such that  𝐴 + 𝜖⁡𝐼𝑛  is positive semi-definite for every  
+𝜖 > 0,  where  𝐼𝑛  is the  𝑛 × 𝑛  identity matrix, then  𝐴  is positive semi-definite 
+(B) If  𝑛  is odd, then  𝐴 − 𝐴𝑇  is not invertible   
+(C) If  𝐴  is a symmetric matrix such that the singular values of  𝐴  are all strictly 
+positive, then  𝐴  is positive definite  
+(D) If  1  is the only singular value of  𝐴,  then  𝐴  is orthogonal  
+  
+
+===== Page 37 of 47 =====
+                               Statistics (ST) 
+Page 37 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.49 Which of the following statements is/are true? 
+  
+(A) If  𝐴  is a  3 × 3⁡  real matrix with  3  distinct eigenvalues, then  𝐴  is diagonalizable  
+(B) If  𝐴  is a  3 × 3⁡  real matrix such that   𝐴2  is diagonalizable, then  𝐴  is 
+diagonalizable 
+(C) 
+For real numbers  𝑎,𝑏,𝑐,  if  [
+0 𝑎 𝑏
+0 0 𝑐
+0 0 0
+] is diagonalizable, then  𝑎 = 𝑏 = 𝑐 = 0   
+(D) 
+For real numbers  𝑎,𝑏,𝑐,𝑑,𝑒,𝑓,⁡  if  𝐴 = [
+𝑎 𝑏 𝑐
+0 𝑑 𝑒
+0 0 𝑓
+]  is diagonalizable,  
+then  𝐴𝐴𝑇 = 𝐴𝑇𝐴 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 38 of 47 =====
+                               Statistics (ST) 
+Page 38 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.50 Let  Ω = {1,2,3,…}  and  ℋ  be the collection of all subsets of  Ω.  Let  𝑃  be a 
+probability measure on  ℋ  such that   𝑃({𝑘}) =
+1
+2𝑘⁡,𝑘 ≥ 1.  Further, let   
+𝑋:Ω → ℝ  be defined by  𝑋(𝜔) = 𝜔  for all  𝜔 ∈ Ω.  Then which of the following 
+statements is/are true? 
+  
+(A)  There exists  𝑘 ∈ Ω  such that  𝑃(𝑋 = 𝑘) < 10−6 
+(B)   lim
+𝑛→∞
+𝑃 (𝑋 ≥ 4 +
+1
+𝑛) =
+1
+16 
+(C)   lim
+𝑛→∞
+𝑃 (4 +
+1
+𝑛2 ≤ 𝑋 < 5 −
+1
+𝑛) =
+1
+16 
+(D)  If  𝑥𝑛 = 3 +
+(−1)𝑛
+𝑛 ,𝑛 ≥ 1,  then  lim
+𝑛→∞
+𝑃(𝑋 ≤ 𝑥𝑛) =
+7
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 39 of 47 =====
+                               Statistics (ST) 
+Page 39 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.51 Let  (𝑋, 𝑌)  be a random vector having joint probability density function given by 
+𝑓𝑋,𝑌(𝑥,𝑦) = {
+3
+4⁡⁡⁡if⁡𝑥2 ≤ 𝑦 < 1⁡and⁡ − 1 ≤ 𝑥 ≤ 1
+0⁡⁡⁡⁡otherwise.
+ 
+Which of the following statements is/are true? 
+  
+(A)  𝑋  has the same distribution as  −𝑋 
+(B)  𝐸(𝑌⁡|⁡𝑋 = 0) =
+1
+2 
+(C) The correlation coefficient between  𝑋  and  𝑌  is 0 
+(D)  𝑋  and  𝑌  are independent  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 40 of 47 =====
+                               Statistics (ST) 
+Page 40 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.52 Let  {𝑋𝑛}𝑛≥1  be a sequence of independent random variables such that the 
+probability density function of  𝑋𝑛  is given by  
+𝑓𝑛(𝑥) = {
+1
+𝜆𝑛
+𝑒
+−⁡ 𝑥
+𝜆𝑛⁡⁡⁡if⁡⁡𝑥 ≥ 0
+0⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡otherwise,
+ 
+where  𝜆𝑛 = 10 − ∑ 5
+2𝑖−1
+𝑛
+𝑖=1  .  Which of the following statements is/are true? 
+  
+(A)   {𝑋𝑛}𝑛≥1  converges in distribution to the zero random variable 
+(B)   {𝑋𝑛}𝑛≥1  converges in probability to the zero random variable 
+(C)   {𝑋𝑛}𝑛≥1  converges in distribution to a random variable having Poisson  
+  distribution with mean  10 
+(D)   {𝑋𝑛}𝑛≥1  converges in probability to a random variable having Poisson  
+  distribution with mean  10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 41 of 47 =====
+                               Statistics (ST) 
+Page 41 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.53 Let  {𝑋𝑛}𝑛≥1  be a time homogeneous discrete time Markov chain with state space  
+{0,1,2}  and transition probability matrix  
+[
+ 
+ 
+ 
+ 
+1
+2
+1
+2 0
+1
+2
+1
+2 0
+1
+3
+1
+3
+1
+3]
+ 
+ 
+ 
+ 
+.  Which of the following 
+statements is/are true? 
+  
+(A)   0  and  1  are recurrent states  
+(B)   2  is a transient state  
+(C)   Markov chain has a unique stationary distribution 
+(D)   Markov chain is irreducible 
+  
+Q.54 Let  𝑋1,𝑋2,… ,𝑋𝑛  be a random sample of size  𝑛⁡(≥ 2)  from a population having 
+Poisson distribution with mean  𝜆, where  𝜆 > 0  is an unknown parameter.    
+If  𝑇1 = 𝑋̅⁡⁡and⁡⁡𝑇2 = √
+1
+𝑛−1∑ (𝑋𝑖 − 𝑋̅)2𝑛
+𝑖=1 , where  𝑋̅ =
+1
+𝑛 ∑ 𝑋𝑖
+𝑛
+𝑖=1 ,  then 
+which of the following statements is/are true? 
+  
+(A)   𝑇1  is an unbiased estimator of  𝜆 
+(B)   𝑇2  is an unbiased estimator of  √𝜆 
+(C)   𝑇2
+2  is an unbiased estimator of  𝜆 
+(D)   Both  𝑇1  and  𝑇2  are estimators of  𝜆  as well as  𝜆2 
+
+===== Page 42 of 47 =====
+                               Statistics (ST) 
+Page 42 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.55 Let  𝑋1,𝑋2,𝑋3  be a random sample of size  3  from a population having Bernoulli 
+distribution with parameter  𝑝, where  𝑝 ∈ (0,1)  is unknown.  
+Define  𝑇1(𝑋𝑖,𝑋𝑗,𝑋𝑘) = 𝑋𝑖 − 𝑋𝑗(1 − 𝑋𝑘),𝑇2(𝑋𝑖,𝑋𝑗,𝑋𝑘) =
+1
+2(𝑋𝑖𝑋𝑗 + 𝑋𝑗𝑋𝑘), 
+for 𝑖,𝑗,𝑘 = 1,2,3;𝑖 ≠ 𝑗 ≠ 𝑘. Let  𝑥1,𝑥2,𝑥3 denote realizations from the random 
+sample. Then which of the following statements is/are true? 
+  
+(A) 𝑇1(𝑋1,𝑋2,𝑋3)  has the same distribution as  𝑇1(𝑋2,𝑋3,𝑋1),  but  
+𝑇1(𝑥1,𝑥2,𝑥3) ≠⁡𝑇1(𝑥2,𝑥3,𝑥1)  for some realization  𝑥1,𝑥2,𝑥3 
+(B) 𝑇2(𝑋1,𝑋2,𝑋3)  and  𝑇2(𝑋3,𝑋2,𝑋1)  are both unbiased estimators for  𝑝2  
+(C) 𝑇1(𝑋1,𝑋2,𝑋3)  and  𝑇1(𝑋2,𝑋3,𝑋1)  are both unbiased estimators for  𝑝2  and  
+𝑇1(𝑥1,𝑥2,𝑥3) =⁡𝑇1(𝑥2,𝑥3,𝑥1)  for all realizations  𝑥1,𝑥2,𝑥3 
+(D) 𝑇2(𝑥1,𝑥2,𝑥3) = 𝑇2(𝑥3,𝑥2,𝑥1)  for all realizations  𝑥1,𝑥2,𝑥3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 43 of 47 =====
+                               Statistics (ST) 
+Page 43 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.56 Let  𝑋1,𝑋2,… ,𝑋𝑛  be a random sample of size  𝑛⁡(≥ 2)  from a population having 
+probability density function 
+𝑓(𝑥;𝜆) = {
+1
+𝜆 𝑒−⁡𝑥
+𝜆⁡⁡⁡⁡⁡⁡if⁡⁡𝑥 ≥ 0
+⁡
+0⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡otherwise,
+ 
+where  𝜆 > 0  is an unknown parameter. Let  𝑇1 =⁡∑ 𝑋𝑖
+𝑛
+𝑖=1   and   
+𝑇2 = (∑ 𝑋𝑖)𝑛
+𝑖=1
+−1. For any positive integer   𝜈  and any  𝛼 ∈ (0,1), let  𝜒𝜈;𝛼
+2   
+denote the   (1 − 𝛼)-th  quantile of the central chi -square distribution with   𝜈  
+degrees of freedom. Consider testing  𝐻0:𝜆 = 𝜆0  against  𝐻1:𝜆 > 𝜆0. Then which 
+of the following tests is/are uniformly most powerful test at level  𝛼? 
+  
+(A) 𝐻0  is rejected if  
+2
+𝜆0
+𝑇1 > 𝜒2𝑛,𝛼
+2  
+(B) 𝐻0  is rejected if  
+2
+𝜆0
+𝑇1 > 𝜒2𝑛,1−𝛼
+2  
+(C) 𝐻0  is rejected if  
+𝜆0
+2 𝑇2 > 𝜒2𝑛,𝛼
+2  
+(D) 𝐻0  is rejected if  
+𝜆0
+2 𝑇2 > 𝜒2𝑛,1−𝛼
+2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 44 of 47 =====
+                               Statistics (ST) 
+Page 44 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.57 Let  {1,6,5,3}  and  {11,7,15,4}  be realizations of two independent random 
+samples of size  4  from two separate populations having cumulative distribution 
+functions  𝐹(⋅)  and  𝐺(⋅), respectively, and probability density functions  𝑓(⋅)  and  
+𝑔(⋅), respectively.  To test   𝐻0:𝐹(𝑡) = 𝐺(𝑡)  for all  𝑡, against   
+𝐻1:𝐹(𝑡) ≥ 𝐺(𝑡)  with strict inequality for some   𝑡, let  𝑈𝑀𝑊  denote the  
+Mann-Whitney  𝑈-test statistic. Let , under   𝐻0,  𝑃(𝑈𝑀𝑊 > 12) ≤ 0.10,  
+ 𝑃(𝑈𝑀𝑊 > 14) ≤ 0.05,⁡⁡⁡𝑃(𝑈𝑀𝑊 > 15) ≤ 0.025⁡⁡ and 𝑃(𝑈𝑀𝑊 > 16) ≤ 0.01. 
+Then, based on the given data, which of the following statements is/are true? 
+  
+(A)  𝐻0 is rejected at level  0.10 
+(B)  𝐻0 is rejected at level  0.05 
+(C)  𝐻0 is rejected at level  0.025 
+(D)  𝐻0 is rejected at level  0.01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== Page 45 of 47 =====
+                               Statistics (ST) 
+Page 45 of 47 
+Organizing Institute: IISc, Bengaluru 
+ 
+Q.58 
+Let  (𝑋1,𝑋2,𝑋3)  have  𝑁3(𝝁,Σ)  distribution with  𝝁 =⁡[
+2
+−3
+1
+]  and   
+Σ =⁡[
+25 −2 4
+−2 4 1
+4 1 9
+]. For which of the following vectors  𝒂,  𝑋2  and   
+𝑋2 −⁡𝒂𝑇 [𝑋1
+𝑋2
+]  are independent? 
+  
+(A)  𝒂 =⁡[0
+1] 
+(B)  𝒂 =⁡[−1
+−1] 
+(C)  𝒂 =⁡[0
+2] 
+(D)  𝒂 =⁡[2
+2] 
+  
+Q.59 Let  𝐴  be a  2 × 2  real matrix, such that trace of  𝐴  is  5  and determinant of   
+𝐴  is  6.  If the characteristic polynomial of  (𝐴 + 𝐼2)−1  is  𝑥2 − 𝑏𝑥 + 𝑐,  where  
+𝐼2  is the  2 × 2  identity matrix, then  𝑏
+𝑐  equals __________ (in integer). 
+  
+Q.60 Let  {𝑋𝑛}𝑛≥1  be a time homogeneous discrete time Markov chain with state space  
+{0,1,2}  and transition probability matrix  
+[
+ 
+ 
+ 
+ 0
+1
+2
+1
+2
+1
+2
+1
+4
+1
+4
+1
+2
+1
+4
+1
+4]
+ 
+ 
+ 
+ 
+.   
+If  𝑃(𝑋0 = 0) = 𝑃(𝑋0 = 1) =
+1
+4 , then  32⁡𝐸(𝑋2)  equals __________  
+(in integer). 
+
+===== Page 46 of 47 =====
+                               Statistics (ST) 
+Page 46 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.61 Let  (𝑋,𝑌)  be a random vector having joint moment generating function given by  
+⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡⁡𝑀𝑋,𝑌(𝑢,𝑣) =
+𝑒
+𝑢2
+2
+(1−2𝑣)3 ,−∞ < 𝑢 < ∞,−∞ < 𝑣 <
+1
+2 . 
+Then  𝐸 (
+6𝑋2
+𝑌 )  equals __________ (rounded off to two decimal places). 
+  
+Q.62 Let  {𝑁(𝑡)}𝑡≥0  be a Poisson process with rate  𝜆,  where  𝜆 > 0  is an unknown 
+parameter. Staring from the origin, an intercity road has  𝑁(𝑡)  number of potholes 
+up to a distance of  𝑡  kilometers. Starting from the origin, potholes are found at the 
+following distances (in kilometers) 
+⁡⁡⁡⁡⁡⁡⁡⁡⁡0.9,1.3, 1.8,2.7,3.4,4.1,4.7,5.5,6.2,6.8,7.4,8.1,8.9,9.2,9.7.    
+Based on the above data, the method of moment estimate of  𝜆  equals __________ 
+(rounded off to two decimal places). 
+  
+Q.63 Let  𝑋1,𝑋2,𝑋3,𝑋4  be a random sample of size  4  from a population having uniform 
+distribution over the interval  (0,𝜃),  where  𝜃 > 0  is an unknown parameter.  
+Let 𝑋(4) = max{𝑋1,𝑋2,𝑋3,𝑋4}. To test  𝐻0:𝜃 = 1  against  𝐻1:𝜃 = 0.1, 
+consider the critical region that rejects  𝐻0  if  𝑋(4) < 0.3. Let  𝑝  be the probability 
+of the Type-I error. Then  100⁡𝑝  equals ___________ (rounded off to two decimal 
+places). 
+ 
+Q.64 Let a random sample of size  4  from a normal population with unknown mean  𝜇  
+and variance  1  yield the sample mean  of 0.16. Let  Φ(⋅)  be the cumulative 
+distribution function of the standard normal random variable. It is given that  
+ Φ(2.28) = 0.989,Φ(1.96) = 0.975,Φ(1.64) = 0.95. If the likelihood ratio 
+test of size  0.05  is used to test 𝐻0:𝜇 = 0  against  𝐻1:𝜇 ≠ 0, then the power of 
+the test at the sample mean equals __________ ( rounded off to t hree decimal 
+places). 
+
+===== Page 47 of 47 =====
+                               Statistics (ST) 
+Page 47 of 47 
+Organizing Institute: IISc, Bengaluru 
+Q.65 Consider the multiple linear regression model 
+𝑦𝑖 = 𝛽0 + 𝛽1𝑥1𝑖 + 𝛽2𝑥2𝑖 + 𝜖𝑖,⁡⁡⁡𝑖 = 1,2,…,25, 
+where  𝛽0,𝛽1  and  𝛽2  are unknown parameters,  𝜖𝑖’s are uncorrelated random 
+errors with mean  0 and finite variance 𝜎2 > 0. Let 𝐹𝛼,𝑚,𝑛 be such that  
+𝑃(𝑌 > 𝐹𝛼,𝑚,𝑛) = 𝛼,  where  𝑌  is a random variable having an  𝐹-distribution with  
+𝑚  and  𝑛  degrees of freedom.  Suppose that testing  
+𝐻0:𝛽1 = 𝛽2 = 0  against 𝐻1: At least one of ⁡𝛽1,𝛽2 is not 0 
+involves computing  𝐹0 = ⁡11⁡
+𝑅2
+1−𝑅2⁡ and rejecting  𝐻0  if the computed value  𝐹0  
+exceeds  𝐹𝛼,2,22. Given that  𝐹0.025,2,22 = 4.38, ⁡𝐹0.05,2,22 = 3.44, the smallest 
+value of  𝑅2  that would lead to rejection of  𝐻0  for  𝛼 = 0.05  equals 
+__________(rounded off to two decimal places).  
+ 

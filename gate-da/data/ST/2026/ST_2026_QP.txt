@@ -1,0 +1,1638 @@
+===== Page 1 of 50 =====
+Statistics (ST) 
+General Aptitude (GA)
+Q.1 – Q.5 Carry ONE mark Each 
+Q.1 The antonym of the word protagonist is ________. 
+  
+(A) agnostic 
+(B) antagonist 
+(C) arsonist 
+(D) anarchist 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 1 of 50
+
+
+===== Page 2 of 50 =====
+Statistics (ST) 
+Q.2 The figure shows two 4-tile patterns.  
+                   
+Either one or both of the patterns can be used any number of times and in any 
+orientation to construct a new pattern. Which one of the options below cannot be 
+constructed by using only these two 4-tile patterns assuming there are no overlaps 
+among them? 
+                       
+(A) 
+ 
+(B) 
+ 
+(C) 
+ 
+(D) 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 2 of 50
+
+===== Page 3 of 50 =====
+Statistics (ST) 
+Q.3 Consider a knock-out women’s badminton singles tournament where there are no 
+ties. The loser in each game is eliminated from the tournament.  Every player 
+plays until she is defeated or remains the last undefeated player. The last 
+undefeated player is declared the winner of the tournament. If there are 64 players 
+in the beginning of the tournament, how many games should be played in total to 
+declare the winner of the tournament? 
+  
+(A) 127 
+(B) 64 
+(C) 63 
+(D) 32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 3 of 50
+
+===== Page 4 of 50 =====
+Statistics (ST) 
+Q.4 A student needs to enroll for a minimum of 60 credits. A student cannot enroll for 
+more than 70 credits. The credits are divided amongst project and three distinct 
+sets of courses namely, core courses, specialization courses, and elective courses.  
+It is compulsory for a student to enroll for exactly 15 credits of core courses and 
+exactly 20 credits of project. In addition, a student has to enroll for a minimum of 
+10 credits of specialization courses. The maximum credits of elective courses that 
+a student can enroll for is ______ 
+  
+(A) 10 
+(B) 15 
+(C) 20 
+(D) 25 
+  
+Q.5  ‘When the teacher is in the room, all students stand silently.’ 
+If the above statement is true, which one of the following statements is not 
+necessarily true?   
+  
+(A) If any student is not standing silently, then the teacher is not in the room.  
+(B) When the teacher is in the room, all students are silent. 
+(C) If all students are standing, then the teacher is in the room. 
+(D) When the teacher is in the room, all students are standing. 
+  
+ 
+Organizing Institute: IIT Guwahati
+Page 4 of 50
+
+===== Page 5 of 50 =====
+Statistics (ST) 
+Q.6 – Q.10 Carry TWO marks Each 
+Q.6 Combinatorics deals with problems involving counting. For example, “How many 
+distinct arrangements of N distinct objects in M spaces on a circle are possible?” 
+is a typical problem in combinatorics. This kind of counting is sometimes used in 
+the modeling of several physical phenomena. Often, in such models, the different 
+combinatorial possibilities are assigned probability values. Assigning probabilities 
+enables the computation of the average values of physical quantities. 
+Consider the following statements: 
+P: Combinatorics is always invoked in the modeling of physical phenomena. 
+Q: Modeling some physical phenomena involves assigning probabilities to 
+combinatorial possibilities in order to compute average values of physical 
+quantities. 
+Based on the passage above, what can be inferred about statements P and Q? 
+  
+(A) P is False and Q is False 
+(B) P is False and Q is True 
+(C) P is True and Q is False 
+(D) P is True and Q is True 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 5 of 50
+
+===== Page 6 of 50 =====
+Statistics (ST) 
+Q.7 In Panel I of the figure below, the front view and top view of a structure are 
+shown. Which one of the 3D structures shown in Panel II possesses the views 
+shown in Panel I?  
+ 
+  
+(A) (i) 
+(B) (ii) 
+(C) (iii) 
+(D) (iv) 
+  
+ 
+  
+Organizing Institute: IIT Guwahati
+Page 6 of 50
+
+===== Page 7 of 50 =====
+Statistics (ST) 
+Q.8 For positive real numbers 𝑆 and 𝐾, the function 𝐻𝐾(𝑆)  is defined as: 
+𝐻𝐾(𝑆) = max(𝑆 − 𝐾, 0).  The max function is defined as: 
+max(𝑎, 𝑏) = {𝑎, when 𝑎 > 𝑏
+𝑏, when 𝑎 ≤ 𝑏 
+The graph below shows the plot of a function 𝑁(𝑆) versus 𝑆.  
+𝑁(𝑆) can be expressed as _____.  
+ 
+  
+(A) 𝐻10(𝑆) − 𝐻20(𝑆) 
+(B) 𝐻10(𝑆) − 2𝐻20(𝑆) 
+(C) −𝐻10(𝑆) + 𝐻20(𝑆) 
+(D) 𝐻15(𝑆) − 𝐻20(𝑆) 
+  
+  
+Organizing Institute: IIT Guwahati
+Page 7 of 50
+
+===== Page 8 of 50 =====
+Statistics (ST) 
+Q.9 In the 2020 summer Olympics’ Javelin throw finals, Neeraj Chopra exhibited a 
+spectacular performance to win the gold medal. The silver medal was won by 
+Jakub Vadlejch and the bronze medal was won by Vitezlav Vesely. There were 
+six rounds of throws with each athlete having one throw per round. The best of  
+all the throws of each athlete is considered for the medal. Following were the 
+observations about the throws: 
+i. The first and second rounds were dominated by Neeraj Chopra with a gold 
+medal performance in his second throw, while the other two athletes did 
+not have any medal winning throws in these rounds. 
+ 
+ii. The throws in the last round by both Jakub Vadlejch and Vitezlav Vesely 
+were fouls and were not considered for scoring. 
+ 
+iii. After four rounds, Vitezlav Vesely was in the second position and could 
+not improve upon his best throw in the succeeding rounds. 
+ 
+iv. In the fourth round, the throw by Jakub Vadlejch was the best in that 
+round. 
+In which round did Vitezlav Vesely have his best throw? 
+  
+(A) Third 
+(B) Fourth 
+(C) Fifth 
+(D) Sixth 
+  
+ 
+  
+Organizing Institute: IIT Guwahati
+Page 8 of 50
+
+===== Page 9 of 50 =====
+Statistics (ST) 
+Q.10 An unbiased six-faced dice whose faces are marked with numbers 1, 2, 3, 4, 5,  
+and 6 is rolled twice in succession and the number on the top face is recorded  
+each time. The probability that the number appearing in the second roll is an 
+integer multiple of the number appearing in the first roll is __________ 
+  
+(A) 1
+6 
+(B) 5
+18 
+(C) 7
+18 
+(D) 5
+6 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 9 of 50
+
+===== Page 10 of 50 =====
+Statistics (ST) 
+ 
+Q.11 – Q.35 Carry ONE mark Each 
+Q.11 Consider the polynomial 
+𝑝(𝑡) = 𝑡(𝑡 − 1)(𝑡 − 2) 
+and define  
+𝐹(𝑥) = ∫ 1
+𝑝(𝑡) 𝑑𝑡,         𝑥 ∈ [ 1
+2 , 1).         
+𝑥
+1
+2
+ 
+Which of the following statements is correct? 
+  
+(A) 𝐹 is strictly decreasing 
+(B) 𝐹 is strictly increasing 
+(C) lim
+𝑥→1
+𝐹(𝑥) exists 
+(D) 𝐹′ (
+3
+4) = 1  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 10 of 50
+
+===== Page 11 of 50 =====
+Statistics (ST) 
+ 
+Q.12 Let  𝑓: (−1, 1) → ℝ  be a differentiable function. Consider the following 
+statements: 
+(I) Suppose 𝑓(0) ≥ 0, and 𝑓′(𝑥) > 0 whenever 𝑓(𝑥) = 0, for any 𝑥 ≥ 0. 
+Then 𝑓(𝑥) > 0, for any 𝑥 > 0. 
+(II) Suppose 𝑓(0) ≤ 0, and 𝑓′(𝑥) > 0 whenever 𝑓(𝑥) = 0, for any 𝑥 ≤ 0.  
+Then 𝑓(𝑥) < 0, for any 𝑥 < 0. 
+Which of the following statements is correct? 
+  
+(A) Only statement (I) is correct 
+(B) Only statement (II) is correct  
+(C) Both statements (I) and (II) are correct 
+(D) Neither statement (I) nor statement (II) is correct 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 11 of 50
+
+===== Page 12 of 50 =====
+Statistics (ST) 
+ 
+Q.13 Consider the following two subspaces of ℝ4 
+𝑊1 = {(𝑥1, 𝑥2, 𝑥3, 𝑥4) ∶  𝑥1 + 𝑥2 + 𝑥3 + 𝑥4 = 0} 
+𝑊2 = {(𝑥1, 𝑥2, 𝑥3, 𝑥4) ∶ 𝑥1 + 2𝑥2 + 3𝑥3 + 4𝑥4 = 0}. 
+Which of the following statements is correct? 
+  
+(A) dim(𝑊1 ∩ 𝑊2) = 0  
+(B) dim(𝑊1 ∩ 𝑊2) = 1  
+(C) dim(𝑊1 ∩ 𝑊2) = 2   
+(D) dim(𝑊1 ∩ 𝑊2) = 3   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 12 of 50
+
+===== Page 13 of 50 =====
+Statistics (ST) 
+ 
+Q.14 Let 𝑋 and 𝑌 be two independent discrete random variables such that the moment 
+generating functions of 𝑋 and 𝑋 + 𝑌 are given by  
+𝑀𝑋(𝑡) = 1 + 2𝑒−𝑡 + 3𝑒2𝑡
+6  ,   𝑡 ∈ ℝ, 
+and 
+𝑀𝑋+𝑌(𝑡) = 2 + 𝑒𝑡 + 3𝑒3𝑡
+6  ,   𝑡 ∈ ℝ, 
+respectively.  Then which of the following statements is correct? 
+  
+(A) 𝑃(𝑋𝑌 = 0) =
+1
+6  
+(B) 𝑃(𝑋𝑌 = 2) =
+1
+6  
+(C) 𝐸(𝑋) = 0  
+(D) Var(𝑌) = 1  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 13 of 50
+
+===== Page 14 of 50 =====
+Statistics (ST) 
+ 
+Q.15 Let 𝑋 and 𝑌 be identically distributed random variables with variance 𝜎2 ∈ (0, ∞). 
+Then the correlation coefficient between 𝑋 and 𝑌 is   
+  
+(A) 1 −
+𝐸(𝑋−𝑌)2
+2 𝜎2   
+(B) 1 −
+2 𝐸(𝑋−𝑌)2
+𝜎2   
+(C) 1 −
+𝐸(𝑋−𝑌)2
+𝜎2   
+(D) 1 −
+𝐸(𝑋+𝑌)2
+𝜎2   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 14 of 50
+
+===== Page 15 of 50 =====
+Statistics (ST) 
+ 
+Q.16 Let 𝑋 and 𝑌 be independent and identically distributed normal random variables. If 
+𝑃(𝑋 + 2𝑌 ≤ 3) = 𝑃(2𝑋 − 𝑌 ≥ 4), 
+then 𝐸(𝑋) is     
+  
+(A) 7
+3  
+(B) 7
+4  
+(C) 3
+7  
+(D) 4
+7  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 15 of 50
+
+===== Page 16 of 50 =====
+Statistics (ST) 
+ 
+Q.17 Let 𝑋 be a random variable with the following probability density function 
+𝑓(𝑥) = {4𝑥2 𝑒−2𝑥         if 𝑥 > 0            
+0                       otherwise.    
+If 𝑌 = ln 𝑋, then which of the following statements is correct? 
+  
+(A) 𝐸(𝑌) is not finite 
+(B) 𝐸(𝑌) = ln
+3
+2   
+(C) 𝐸(𝑌) > ln
+3
+2   
+(D) 𝐸(𝑌) < ln
+3
+2   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 16 of 50
+
+===== Page 17 of 50 =====
+Statistics (ST) 
+ 
+Q.18 Let {𝑋𝑛: 𝑛 ≥ 0} be a homogeneous Markov chain with state space 𝑆 = {1, 2, … , 7} 
+and transition probability matrix 
+𝑃 =
+(
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1
+3 0 2
+3 0 0 0 0
+0 1
+3 0 1
+3 0 1
+3 0
+1
+2 0 1
+2 0 0 0 0
+0 1
+2 0 1
+4 0 1
+4 0
+1
+2 0 0 0 1
+4
+1
+4 0
+0 2
+3 0 1
+6 0 1
+6 0
+1
+3
+1
+3 0 0 0 0 1
+3
+  
+)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. 
+Then which of the following statements is correct? 
+  
+(A) 2 is a transient state 
+(B) 3 is a transient state 
+(C) 4 is a transient state 
+(D) 5 is a transient state 
+  
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 17 of 50
+
+===== Page 18 of 50 =====
+Statistics (ST) 
+ 
+Q.19 Let 𝑋1, 𝑋2 be a random sample from the following probability density function  
+𝑓𝛼(𝑥) = {𝛼𝑥𝛼−1𝑒−𝑥𝛼
+         if 𝑥 > 0            
+0                         otherwise,       
+where 𝛼 ∈ (0, ∞) is an unknown parameter. Let 
+𝑋(1) = min{𝑋1,  𝑋2}    and      𝑋(2) = max{𝑋1,  𝑋2}. 
+Then which of the following statements is correct? 
+  
+(A) (𝑋1 + 𝑋2,  𝑋(1)) is a minimal sufficient statistic  
+(B) (𝑋1,  𝑋(2)) is a minimal sufficient statistic 
+(C) (𝑋1 − 𝑋2, 𝑋(1)) is a sufficient statistic but not a minimal sufficient statistic 
+(D) (𝑋1 − 𝑋2, 𝑋(2)) is a complete sufficient statistic 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 18 of 50
+
+===== Page 19 of 50 =====
+Statistics (ST) 
+ 
+Q.20 Let 𝑋1 and 𝑋2 be independent and identically distributed random variables 
+following normal distribution with mean 𝜃 ∈ (−∞, ∞) and variance 1. Then which 
+of the following estimators of their expected value s attains the Cramer-Rao lower 
+bound?  
+  
+(A) 𝑋1 + 𝑋2  
+(B) 𝑋12+𝑋22+5
+2   
+(C) (𝑋1 + 𝑋2)2  
+(D) 2𝑋1 − 𝑋2  
+  
+Q.21 For testing a null hypothesis 𝐻0 against an alternative hypothesis 𝐻1 at level of 
+significance 𝛼 ∈ (0, 1), which of the following statements is correct?  
+  
+(A) A uniformly most powerful test always exists 
+(B) If a uniformly most powerful test exists then its size is 𝛼 
+(C) If a uniformly most powerful unbiased test exists then it is necessarily a uniformly 
+most powerful test 
+(D) If a uniformly most powerful test exists then it is necessarily an unbiased test 
+  
+Organizing Institute: IIT Guwahati
+Page 19 of 50
+
+===== Page 20 of 50 =====
+Statistics (ST) 
+ 
+Q.22 Let (𝑋1, 𝑌1), (𝑋2, 𝑌2), … , (𝑋𝑛, 𝑌𝑛), 𝑛 ≥ 2, be a random sample from a continuous 
+bivariate distribution with joint distribution function 𝐹𝑋,𝑌. Further, 𝐹𝑋 and 𝐹𝑌 are 
+the marginal distribution functions of 𝑋 and 𝑌, respectively. If 
+𝐹𝑋,𝑌(𝑥, 𝑦) = 𝐹𝑋(𝑥)𝐹𝑌(𝑦),   ∀ (𝑥, 𝑦), 
+then, for any two independent pairs (𝑋𝑖, 𝑌𝑖) and (𝑋𝑗, 𝑌𝑗), 
+𝑃[(𝑋𝑖 − 𝑋𝑗)(𝑌𝑖 − 𝑌𝑗) > 0]  
+equals  
+  
+(A) 1
+4  
+(B) 1
+2  
+(C) 3
+4  
+(D) 3
+8   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 20 of 50
+
+===== Page 21 of 50 =====
+Statistics (ST) 
+ 
+Q.23 For a random sample 𝑋1, … , 𝑋𝑛, 𝑛 ≥ 2, from a population with distribution 
+function 𝐹𝑋, let 𝑍𝑛(𝑥) be the proportion of sample values less than or equal to 𝑥, 
+𝑥 ∈ ℝ. Which of the following statements is/are true? 
+  
+(A) 𝐸(𝑍𝑛(𝑥)) = 𝐹𝑋(𝑥)  
+ (B) Var(𝑍𝑛(𝑥)) =
+𝐹𝑋(𝑥)(1−𝐹𝑋(𝑥))
+𝑛2   
+(C) Cov(𝑍𝑛(𝑥), 𝑍𝑛(𝑦)) = 0, for all 𝑥 ≠ 𝑦 
+(D) 𝑍𝑛(𝑥) is a consistent estimator of 𝐹𝑋(𝑥) 
+  
+Q.24 The value of 
+lim
+𝑛→∞
+𝑛 ∫ 𝑒𝑡2−1 𝑑𝑡
+1+ 1
+2𝑛
+1− 1
+2𝑛
+ 
+equals __________ (answer in integer). 
+Q.25 Consider the system of linear equations 
+𝑥 + 𝑦 + 𝑧 = 1 
+2𝑥 + 𝑦 + 3𝑧 = 6 
+3𝑥 + 2𝑦 + 𝑘𝑧 = 𝑘 + 1 
+If the above system has no solution , then the value of 𝑘 equals _____________ 
+(answer in integer). 
+ 
+Organizing Institute: IIT Guwahati
+Page 21 of 50
+
+===== Page 22 of 50 =====
+Statistics (ST) 
+ 
+Q.26 Consider the subspace 
+𝑈 = {(𝑥1, 𝑥2, 𝑥3, 𝑥4) ∈ ℝ4 ∶  𝑥1 + 𝑥2 + 𝑥4 = 0,  𝑥3 = 0}.  
+Let 𝑈⊥  be its orthogonal complement. The value of dim(𝑈⊥)  equals __________ 
+(answer in integer). 
+Q.27 Let 𝑋 be a random variable such that 
+𝑃(𝑋 = 𝑖) = 2𝑃(𝑋 = 𝑖 − 1),   𝑖 = 2, 3, … , 𝑛,   𝑛 ≥ 7, 
+and ∑ 𝑃(𝑋 = 𝑖) = 1.𝑛
+𝑖=1  Then (2𝑛 − 1)𝑃(𝑋 = 7) equals ________ (answer in 
+integer). 
+Q.28 Let 𝑋 and 𝑌 be two continuous random variables having the following joint 
+probability density function  
+𝑓(𝑥, 𝑦) = {𝑥 + 𝑦        if 0 < 𝑥 < 1,   0 < 𝑦 < 1            
+0                          otherwise.                           
+Then 72 (Var(𝑋) + Var(𝑌)) equals _____________ (answer in integer).  
+Q.29 Let 𝑋1, 𝑋2 and 𝑋3 be three independent random variables such that 𝑋𝑘 (𝑘 = 1, 2, 3) 
+has the following probability density function  
+𝑓𝑘(𝑥) = {𝑘 𝑒−𝑘𝑥         if 𝑥 > 0            
+0                 otherwise.       
+Let 𝑌 = min{𝑋1,  𝑋2,  𝑋3}. Then the value of 𝐸(3𝑌2 − 𝑌) equals ____________ 
+(answer in integer). 
+Q.30 Let 𝑋 be a continuous random variable having distribution function 𝐹. If 
+𝑌 = −3 ln 𝐹(𝑋), 
+then 𝐸(𝑌)  equals _______________ (answer in integer). 
+Organizing Institute: IIT Guwahati
+Page 22 of 50
+
+===== Page 23 of 50 =====
+Statistics (ST) 
+ 
+Q.31 Let {𝑊(𝑡) ∶  𝑡 ≥ 0} be a standard Brownian motion, with 𝑊(0) = 0. Define 
+𝑍1 = 𝑊(1) + 𝑊(2)     and     𝑍2 = 𝑊(2) + 𝑊(3). 
+ Let 𝜌 be the correlation coefficient between 𝑍1 and 𝑍2. Then the value of 10𝜌 is 
+__________ (round off to two decimal places). 
+Q.32 Let 𝑥1, 𝑥2, … , 𝑥𝑛 (𝑛 ≥ 2) be the observed values of a random sample from the 
+following probability density function  
+𝑓(𝑥) = {
+𝜆𝛼
+Γ(𝛼) 𝑥𝛼−1𝑒−𝜆𝑥         if 𝑥 > 0            
+0                         otherwise,
+ 
+where 𝛼 ∈ (0, ∞) and 𝜆 ∈ (0, ∞) are unknown parameters. If  
+𝑥1 + 𝑥2 + ⋯ + 𝑥𝑛
+𝑛 = 2     and    𝑥1
+2 + 𝑥2
+2 + ⋯ + 𝑥𝑛
+2
+𝑛 = 5, 
+then the method of moments estimate of 𝛼 equals ________ (answer in integer). 
+Q.33 Let 𝑋1, 𝑋2, … , 𝑋10 be a random sample from the following probability density 
+function 
+𝑓(𝑥) = {2 (𝑥 − 𝜇)𝑒−(𝑥−𝜇)2
+         if 𝑥 > 𝜇            
+0                                    otherwise,        
+where 𝜇 ∈ (−∞, ∞) is an unknown parameter. It is given that the observed value 
+of min{𝑋1, 𝑋2, … , 𝑋10} is 1. Using the pivot min{𝑋1, 𝑋2, … , 𝑋10} − 𝜇, suppose a 
+95% confidence interval of 𝜇 is of the form (𝑐, 1), then 𝑐 equals ______________ 
+(rounded off to two decimal places). 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 23 of 50
+
+===== Page 24 of 50 =====
+Statistics (ST) 
+ 
+ 
+Q.34 Let 𝑋 be a single observation from a distribution having the probability density 
+function  
+𝑓𝜃(𝑥) = {1           if  𝜃 < 𝑥 < 𝜃 + 1     
+0                otherwise,             
+where 𝜃 ∈ (−∞, ∞). For testing 𝐻0: 𝜃 ≤ 0 against 𝐻1: 𝜃 > 1, let 𝛽 be the power 
+of the uniformly most powerful test of level 0.05. Then 225 𝛽 equals __________ 
+(answer in integer).    
+ 
+Q.35 Let (𝑋1, 𝑋2, 𝑋3)𝑇 follow a trivariate normal distribution with mean vector 𝜇 and 
+covariance matrix Σ given by  
+𝜇 = (
+ 1 
+ 1 
+ 1 
+)     and    Σ = (
+2 1 1
+1 2 1
+1 1 2
+). 
+Then Var(𝑋1| 𝑋2 = 1, 𝑋3 = −1)  equals ____________ (rounded off to two 
+decimal places). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 24 of 50
+
+===== Page 25 of 50 =====
+Statistics (ST) 
+ 
+Q.36 – Q.65 Carry TWO marks Each 
+Q.36 Consider the function 𝑓: ℝ2 → ℝ defined by 
+𝑓(𝑥1, 𝑥2) = 2𝑥1
+4 + 𝑥2
+2 + 𝑥2𝑥1
+2. 
+Which of the following statements is correct? 
+  
+(A) There are two distinct stationary points of 𝑓 
+(B) (0, 0) is a saddle point of 𝑓 
+(C) (0, 0) is a local maximum of 𝑓 
+(D) (0, 0) is a local minimum of 𝑓 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 25 of 50
+
+===== Page 26 of 50 =====
+Statistics (ST) 
+ 
+Q.37 Let 𝑥1 ∈ (0, 4) and consider the sequence {𝑥𝑛}𝑛≥1 defined iteratively by 
+𝑥𝑛+1 = 2 − (4 − 𝑥𝑛)
+1
+2,   𝑛 ≥ 1. 
+Consider the following statements: 
+(I)  {𝑥𝑛} converges to 0 . 
+(II) {
+𝑥𝑛+1
+𝑥𝑛
+ } converges to 
+1
+4 . 
+Which of the following statements is correct? 
+  
+(A) Only statement (I) is correct 
+(B) Only statement (II) is correct  
+(C) Both statements (I) and (II) are correct 
+(D) Neither statement (I) nor statement (II) is correct 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 26 of 50
+
+===== Page 27 of 50 =====
+Statistics (ST) 
+ 
+Q.38 Let 𝐴 ∈ 𝑀𝑛(ℝ) be an 𝑛 × 𝑛 real matrix, 𝑛 ≥ 2. Consider the following two 
+statements: 
+(I) If 𝜆 ∈ ℂ is an eigenvalue of 𝐴, then its complex conjugate 𝜆̅ is also an 
+eigenvalue. 
+(II) If 𝑣 = (𝑣1, 𝑣2, … , 𝑣𝑛) ∈ ℂ𝑛 is an eigenvector corresponding to eigenvalue 
+𝜆 = 𝑥 + 𝑖𝑦, 𝑦 ≠ 0, then 
+Re(𝑣) = (Re(𝑣1), … , Re(𝑣𝑛))      and     Im(𝑣) = (Im(𝑣1), … , Im(𝑣𝑛))   
+are linearly independent vectors over ℝ.  
+Which of the following statements is correct? 
+  
+(A) Only statement (I) is correct 
+(B) Only statement (II) is correct  
+(C) Both statements (I) and (II) are correct 
+(D) Neither statement (I) nor statement (II) is correct 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 27 of 50
+
+===== Page 28 of 50 =====
+Statistics (ST) 
+ 
+Q.39 Consider the system of equations 
+𝑥 + 2𝑦 − 𝑧 = 𝑎 
+𝑥 + 𝑦 + 3𝑧 = 𝑏 
+2𝑥 + 3𝑦 + 2𝑧 = 𝑐 
+Consider the following statements: 
+(I) For every (𝑎, 𝑏, 𝑐) ∈ ℝ3, the above system has a solution. 
+(II) For (𝑎, 𝑏, 𝑐) = (0, 0, 0), the solution set is given by 
+{(−7𝑡,   4𝑡,   𝑡) ∶ 𝑡 ∈ ℝ}. 
+Which of the following statements is correct? 
+  
+(A) Only statement (I) is correct 
+(B) Only statement (II) is correct  
+(C) Both statements (I) and (II) are correct 
+(D) Neither statement (I) nor statement (II) is correct 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 28 of 50
+
+===== Page 29 of 50 =====
+Statistics (ST) 
+ 
+Q.40 Let (Ω, ℱ, 𝑃) be a probability space, where for 𝐴 ⊂ Ω, 𝐴 ≠ 𝜙, 𝐴 ≠ Ω,       
+ℱ = {Ω, 𝜙, 𝐴, 𝐴𝑐}, and 𝑃(Ω) = 1, 𝑃(𝜙) = 0, 𝑃(𝐴) =
+1
+2 = 𝑃(𝐴𝑐).  Let 𝑋 and 𝑌 be 
+two random variables defined on Ω as follows: 
+𝑋(𝜔) = {1            if  𝜔 ∈ 𝐴    
+0            if 𝜔 ∈ 𝐴𝑐,    and  𝑌(𝜔) = {1           if  𝜔 ∈ 𝐴𝑐    
+0           if 𝜔 ∈ 𝐴.       
+Then which of the following statements is correct? 
+  
+(A) 𝑋 and 𝑌 have the same distribution function  
+(B) 𝑋 = 𝑌 almost everywhere 
+(C) 𝑋 and 𝑌 are independent  
+(D) 𝐸(𝑋𝑌) = 1  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 29 of 50
+
+===== Page 30 of 50 =====
+Statistics (ST) 
+ 
+Q.41 Let 𝑋 and 𝑌 be independent and identically distributed geometric random variables 
+having the following probability mass function  
+𝑃(𝑋 = 𝑥) = 𝑝(1 − 𝑝)𝑥,     𝑥 = 0, 1, 2, …, 
+where 𝑝 ∈ (0 ,1). Then which of the following statements is correct? 
+  
+(A) 𝐸(𝑋|𝑋 + 𝑌) =
+𝑋+𝑌
+2   
+(B) 𝑃(𝑋 = 𝑌) = 1  
+(C) 𝑃(𝑋 = 𝑌) =
+1−𝑝
+1+𝑝  
+(D) 𝐸(𝑋|𝑋 + 𝑌) =
+𝑋+𝑌+2
+2    
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 30 of 50
+
+===== Page 31 of 50 =====
+Statistics (ST) 
+ 
+Q.42 Let 𝑋 be a random variable with support 𝑆 = {0, 1, 2, … } and   
+𝑃(𝑋 ≥ 𝑘 + 1|𝑋 ≥ 𝑘) = 𝑝,   𝑘 ∈ 𝑆,   0 < 𝑝 < 1 .  
+ Then which of the following statements is correct? 
+  
+(A) 𝑃(𝑋 ≥ 𝑘 + 𝑚|𝑋 ≥ 𝑘) = 𝑃(𝑋 ≥ 𝑚), for all 𝑚, 𝑘 ∈ 𝑆  
+(B) 𝐸(𝑋) > Var(𝑋)  
+(C) 𝑃(𝑋 ≤ 𝑥) = 1 − 𝑝𝑥, for all 𝑥 ∈ 𝑆   
+(D) 𝑃(𝑋 ≤ 𝑘 + 𝑚|𝑋 ≥ 𝑘) = 1 − 𝑝𝑚, for all 𝑘, 𝑚 ∈ 𝑆  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 31 of 50
+
+===== Page 32 of 50 =====
+Statistics (ST) 
+ 
+Q.43 Let 𝑋1, 𝑋2, 𝑋3 be a random sample from a distribution having probability mass 
+function  
+𝑓𝜃(𝑥) = {
+𝜃                   if 𝑥 = 1                   
+1 − 𝜃             if 𝑥 = 2                     
+0,                   otherwise,             
+ 
+where 𝜃 ∈ Θ = (0, 1). Let 𝑋 = (𝑋1, 𝑋2, 𝑋3). Then which of the following is NOT 
+a sufficient statistic for 𝜃?  
+  
+(A) 𝑇1(𝑋) = (𝑋1 − 𝑋2, 𝑋1 + 𝑋2,  𝑋1 + 𝑋3)  
+(B) 𝑇2(𝑋) = (𝑋1 + 𝑋2, 𝑋1 − 𝑋3, 𝑋2 + 𝑋3)  
+(C) 𝑇3(𝑋) = (𝑋1 − 𝑋2, 𝑋2 − 𝑋3, 𝑋3)  
+(D) 𝑇4(𝑋) = (𝑋1 + 𝑋2, 𝑋3)  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 32 of 50
+
+===== Page 33 of 50 =====
+Statistics (ST) 
+ 
+Q.44 Let 𝑋1, 𝑋2, … , 𝑋𝑛 (𝑛 ≥ 2) be a random sample from the probability density function 
+𝑓(𝑥). Consider the following hypotheses:  
+𝐻0: 𝑓(𝑥) = 1
+√2 𝜋 𝑒−𝑥2
+2 ;   −∞ < 𝑥 < ∞
+𝐻1: 𝑓(𝑥) = 1
+2 𝑒−|𝑥|;   −∞ < 𝑥 < ∞ .     
+ 
+For testing 𝐻0 against 𝐻1, let 𝑅 denote the critical region based on likelihood ratio 
+test having level 0.05. Then, for some constant 𝑐, the region 𝑅 is  
+  
+(A) {(𝑥1, 𝑥2, … , 𝑥𝑛) ∶  ∑ (𝑥𝑖 − 1)2 > 𝑐𝑛
+𝑖=1 }  
+(B) {(𝑥1, 𝑥2, … , 𝑥𝑛) ∶  ∑ (𝑥𝑖 − 1)2 < 𝑐𝑛
+𝑖=1 }  
+(C) {(𝑥1, 𝑥2, … , 𝑥𝑛) ∶  ∑ (|𝑥𝑖| − 1)2 > 𝑐𝑛
+𝑖=1 }  
+(D) {(𝑥1, 𝑥2, … , 𝑥𝑛) ∶  ∑ (|𝑥𝑖| − 1)2 < 𝑐𝑛
+𝑖=1 }  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 33 of 50
+
+===== Page 34 of 50 =====
+Statistics (ST) 
+ 
+Q.45 Let 𝑋1, 𝑋2, … , 𝑋𝑛 (𝑛 > 1) be a random sample from the following probability 
+density function  
+𝑓𝛽(𝑥) = {𝛽𝑒−𝑥 (1 − 𝑒−𝑥)𝛽−1         if 𝑥 > 0            
+0                                    otherwise,        
+where 𝛽 > 0 is an unknown parameter. For testing the following hypotheses,  
+𝐻0: 𝛽 = 1     against      𝐻1: 𝛽 > 1, 
+at level 𝛼 ∈ (0, 1), which of the following statements is correct? 
+  
+(A) The uniformly most powerful test does not exist  
+(B) For some constant 𝑎, the critical region of the uniformly most powerful test will 
+be of the form 𝐶 = {(𝑥1, 𝑥2, … , 𝑥𝑛): ∑ 𝑥𝑖 > 𝑎𝑛
+𝑖=1 }   
+(C) For some constant 𝑎, the critical region of the uniformly most powerful test will 
+be of the form 𝐶 = {(𝑥1, 𝑥2, … , 𝑥𝑛): ∑ ln(1 − 𝑒−𝑥𝑖) > 𝑎𝑛
+𝑖=1 }   
+(D) For some constant 𝑎, the critical region of the uniformly most powerful test will 
+be of the form 𝐶 = {(𝑥1, 𝑥2, … , 𝑥𝑛): ∑ ln(1 − 𝑒−𝑥𝑖) < 𝑎𝑛
+𝑖=1 }  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 34 of 50
+
+===== Page 35 of 50 =====
+Statistics (ST) 
+ 
+Q.46 Let 𝑋1, 𝑋2, … , 𝑋5 be random observations from a continuous distribution. Let 𝜃𝑝 be 
+𝑝-th population quantile. Consider the following hypotheses     
+𝐻0: 𝜃1
+2
+= 2.5     against      𝐻1: 𝜃1
+2
+> 2.5. 
+Let 𝑋(𝑟) denote the 𝑟-th order statistic of the given observations. Then which of the 
+following is a critical region of a level 0.05 test? 
+  
+(A) 𝑋(1) > 2.5  
+(B)  𝑋(2) > 2.5 
+(C)  𝑋(3) > 2.5 
+(D)  𝑋(4) > 2.5 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 35 of 50
+
+===== Page 36 of 50 =====
+Statistics (ST) 
+ 
+Q.47 Suppose that 𝑋 and 𝑌 are independent and identically distributed 𝑁𝑝(𝜇, Σ) random 
+vectors, where 𝜇 ∈ ℝ𝑝 and Σ is a positive definite matrix. Let 𝜒𝑚
+2  denote chi-square 
+distribution with 𝑚-degrees of freedom. Then which of the following statements is 
+correct?   
+  
+(A) 1
+2 (𝑋 − 𝑌)𝑇Σ−1(𝑋 − 𝑌) follows 𝜒𝑝
+2 
+(B)  2 (𝑋 − 𝑌)𝑇Σ (𝑋 − 𝑌) follows 𝜒𝑝
+2 
+(C)  
+1
+2 (𝑋 − 𝑌)𝑇Σ−1(𝑋 − 𝑌) follows 𝜒2𝑝
+2  
+(D)  2 (𝑋 − 𝑌)𝑇Σ (𝑋 − 𝑌) follows 𝜒2𝑝
+2  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 36 of 50
+
+===== Page 37 of 50 =====
+Statistics (ST) 
+ 
+Q.48 Consider the multiple linear regression model 
+𝑌𝑖 = 𝛽0 + 𝛽1𝑥𝑖1 + 𝛽2𝑥𝑖2 + 𝛽3𝑥𝑖3 + 𝜖𝑖,   𝑖 = 1, 2, … , 31, 
+where 𝜖𝑖 are independent and identically distributed 𝑁(0, 1) variables. The 𝐹-test 
+for testing significance of regression rejects the null hypothesis 𝐻0 ∶  𝛽1 = 𝛽2 =
+𝛽3 = 0 against the alternative 𝐻𝐴 ∶ at least one 𝛽𝑗 is not equal to 0, 𝑗 = 1, 2, 3,  
+at 5% level of significance. It is given that 
+𝐹0.05; 3,   27 = 2.96,   𝐹0.05; 3,   30 = 2.92,    𝐹0.025; 3,   27 = 4.01,  𝐹0.025;  3,   30 = 3.91, 
+where, for a random variable 𝐹 following central 𝐹-distribution with (𝑚, 𝑛) 
+degrees of freedom,  𝑃(𝐹 > 𝐹𝛼; 𝑚,𝑛) = 𝛼, 𝛼 ∈ (0, 1). Then the value of 𝑅2 cannot 
+be equal to  
+  
+(A) 0.50  
+(B) 0.80  
+(C)  0.30 
+(D)  0.20 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 37 of 50
+
+===== Page 38 of 50 =====
+Statistics (ST) 
+ 
+Q.49 Consider the function 𝑓: ℝ2 → ℝ defined by 
+𝑓(𝑥, 𝑦) = {
+𝑥3 + 𝑦3
+√𝑥2 + 2𝑦2
+               (𝑥, 𝑦) ≠ 0        
+0                                   (𝑥, 𝑦) = 0.       
+ 
+Which of the following statements is/are correct? 
+  
+(A) 𝑓 is continuous at (0, 0) 
+(B) Partial derivatives 𝑓𝑥 and 𝑓𝑦 exist at (0, 0) and 𝑓𝑥(0, 0) = 0, 𝑓𝑦(0, 0) = 0 
+(C) 𝑓 is not differentiable at (0, 0) 
+(D) 𝑓 is differentiable 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 38 of 50
+
+===== Page 39 of 50 =====
+Statistics (ST) 
+ 
+Q.50 Consider the matrix  
+𝐴 = (
+𝜆1 1 0
+0 𝜆2 1
+0 0 𝜆3
+) ,          𝜆1,  𝜆2,  𝜆3 ∈ ℝ. 
+Which of the following statements is/are correct? 
+  
+(A) 𝐴 is never diagonalizable 
+(B) 𝐴 is diagonalizable if and only if 𝜆1,  𝜆2,  𝜆3 are distinct 
+(C) The dimension of eigenspaces corresponding to each 𝜆𝑖 is 1, 𝑖 = 1, 2, 3 
+(D) For any 𝐴, there exist real numbers 𝛼 and 𝛽 such that 𝐴2 + 𝛼𝐴 + 𝛽𝐼3 = 0  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 39 of 50
+
+===== Page 40 of 50 =====
+Statistics (ST) 
+ 
+Q.51 Consider the real symmetric matrix 𝐴 = (𝑎𝑖𝑗) given by 
+𝐴 = (
+3 1 1
+1 0 2
+1 2 0
+). 
+Consider the set 
+𝑆 = {𝑥 = (𝑥1, 𝑥2, 𝑥3) ∈ ℝ3 ∶  ∑ ∑ 𝑎𝑖𝑗𝑥𝑖𝑥𝑗 = 1
+3
+𝑖=1
+3
+𝑗=1
+ }. 
+Which of the following statements is/are correct? 
+  
+(A) 𝑆 is empty set 
+(B) Any line 𝐿 in ℝ3 has at most two points from 𝑆 
+(C) 𝑆 is bounded 
+(D) 𝑆 is unbounded 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 40 of 50
+
+===== Page 41 of 50 =====
+Statistics (ST) 
+ 
+Q.52  Let 𝑋 be a discrete random variable with support 𝑆 = {1,2,3, … } such that 
+𝐸(𝑋2) < ∞. Let 𝐹 be the distribution function of 𝑋. Then which of the following 
+statements is/are correct? 
+  
+(A) 𝐸(𝑋) = ∑ (1 − 𝐹(𝑛 − 1))∞
+𝑛=1   
+(B) 𝐹(𝑋) has discrete uniform distribution    
+(C) There exists at least one such random variable 𝑋 such that 𝑋 and 
+1
+𝑋 have the same 
+distribution 
+(D)  𝐸(𝑋2) = ∑ (2𝑛 − 1)(1 − 𝐹(𝑛 − 1))∞
+𝑛=1  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 41 of 50
+
+===== Page 42 of 50 =====
+Statistics (ST) 
+ 
+Q.53 Let {𝑋𝑛}𝑛≥1 be a sequence of  random variables having the following probability 
+mass function  
+𝑃(𝑋𝑛 = 𝑥) = 1
+5𝑛 (1 − 1
+5𝑛)
+𝑥
+,     𝑥 = 0, 1, 2, … ;  𝑛 ∈ ℕ. 
+Define 𝑍𝑛 =
+𝑋𝑛
+𝑛  , 𝑛 ∈ ℕ, and let 𝑉 be a random variable. If 𝑍𝑛  
+𝑑
+→  𝑉, as 𝑛 → ∞,   
+then which of the following statements is/are correct? 
+  
+(A) 𝑉 has normal distribution with mean 5 and variance 25 
+(B) 𝑉 has chi-square distribution with 5 degrees of freedom   
+(C)  𝑉 has exponential distribution with mean 5 
+(D) e− 𝑉
+5  has uniform distribution over (0, 1) 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 42 of 50
+
+===== Page 43 of 50 =====
+Statistics (ST) 
+ 
+Q.54 Let {𝑋𝑘}𝑘≥1 be a sequence of independent random variables such that 
+𝑋2𝑘−1 ∼ Bin(1, 𝜃),   and     𝑋2𝑘 ∼ Bin(1, 1 − 𝜃),   𝑘 = 1,2,3, …,   
+where 𝜃 ∈ (0, 1). Let {𝑌𝑘}𝑘≥1 be another sequence of independent and identically 
+distributed random variables such that 𝑌𝑘 ∼ Poisson(𝜆), 𝜆 > 0. Define, for 𝑛 ∈ ℕ, 
+𝑆2𝑛 = ∑(𝑋2𝑘−1 − 𝑋2𝑘 + 1 − 2𝜃)
+𝑛
+𝑘=1
+,    𝑊𝑛 = ∑ 𝑌𝑘
+2
+𝑛
+𝑘=1
+     and   𝜎2𝑛
+2 = 2𝑛𝜃(1 − 𝜃). 
+Then which of the following statements is/are correct? 
+  
+(A) 𝑛 𝑆2𝑛
+𝜎2𝑛𝑊𝑛
+ 
+𝑑
+→  𝑁(0, 1), as 𝑛 → ∞  
+(B) 𝑛 𝑆2𝑛
+𝜎2𝑛𝑊𝑛
+ 
+𝑑
+→  𝑁 (0,   
+1
+𝜆2(1+𝜆)2) , as 𝑛 → ∞  
+(C)  
+𝑛 𝑆2𝑛+𝜎2𝑛𝑊𝑛
+𝑛 𝜎2𝑛
+ 
+𝑑
+→  𝑁(𝜆(1 + 𝜆), 1), as 𝑛 → ∞ 
+(D) 𝑛 𝑆2𝑛+𝜎2𝑛𝑊𝑛
+𝑛 𝜎2𝑛
+ 
+𝑑
+→  𝑁 (0,   
+1
+𝜆2(1+𝜆)2) , as 𝑛 → ∞  
+  
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 43 of 50
+
+===== Page 44 of 50 =====
+Statistics (ST) 
+ 
+Q.55 Let {𝑁(𝑡); 𝑡 ≥ 0} be a homogeneous Poisson process with rate 3, and let 𝑇1 denote 
+the first arrival time. Then which of the following statements is/are correct? 
+  
+(A) 𝐸(𝑇1) = 3  
+(B) 𝐸(𝑇1) =
+1
+3  
+(C)  𝐸(𝑇1|𝑁(2) = 4) =
+6
+5 
+(D) 𝐸(𝑇1|𝑁(3) = 4) =
+3
+5  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 44 of 50
+
+===== Page 45 of 50 =====
+Statistics (ST) 
+ 
+Q.56 Let 𝑋1, 𝑋2, … , 𝑋𝑛 (𝑛 ≥ 2) be a random sample from the following probability 
+density function 
+𝑓(𝑥) = 1
+2 𝑒−|𝑥−𝜇| ,   − ∞ < 𝑥 < ∞, 
+where 𝜇 ∈ (−∞, ∞) is an unknown parameter. Let  𝑋̅ =
+1
+𝑛 ∑ 𝑋𝑖
+𝑛
+𝑖=1  and 𝜇̂ denote the 
+maximum likelihood estimator of 𝜇, whenever it exists. Then which of the following 
+statements is/are correct? 
+  
+(A) 𝜇̂ will always exist and  𝜇̂ = 𝑋̅ 
+(B) 𝜇̂ may not always exist 
+(C)  𝜇̂ always exists but it may not be unique   
+(D) 𝜇̂ is a consistent estimator of 𝜇 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 45 of 50
+
+===== Page 46 of 50 =====
+Statistics (ST) 
+ 
+Q.57 Let 𝑋 be a single observation from a distribution having a probability density 
+function 𝑓𝜃, 𝜃 ∈ Θ. For testing 𝐻0 ∶ 𝜃 = 1  against  𝐻1 ∶ 𝜃 ≠ 1, under which of the 
+following options a uniformly most powerful test of level 0.05 exists?    
+  
+(A) 
+𝑓𝜃(𝑥) = {
+1
+𝜃                if 0 < 𝑥 < 𝜃    
+0                otherwise      
+;  Θ = (0, ∞)   
+(B) 𝑓𝜃(𝑥) = {𝑒− (𝑥−𝜃)      if 𝑥 > 𝜃   
+0             otherwise    ;  Θ = (−∞, ∞)   
+(C) 
+ 𝑓𝜃(𝑥) = {
+1
+𝜃 𝑒− 𝑥
+𝜃        if 𝑥 > 0            
+0                otherwise       
+;  Θ = (0, ∞)  
+(D) 
+𝑓𝜃(𝑥) = {
+1
+𝜃 𝑒− 𝑥−1
+𝜃         if 𝑥 > 1           
+0                otherwise         
+;  Θ = (0, ∞)   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 46 of 50
+
+===== Page 47 of 50 =====
+Statistics (ST) 
+ 
+Q.58 Suppose that 𝑋 = (𝑋1, … , 𝑋𝑝)
+𝑇
+follows 𝑁𝑝(𝜇, Σ), where 𝜇 ∈ ℝ𝑝 and Σ is a positive 
+definite matrix. Let 𝐴 be a 𝑝 × 𝑝 matrix such that 𝐴𝑇𝐴 = 𝐼𝑝.  
+Let 𝑌 = (𝑌1, … , 𝑌𝑝)
+𝑇
+= 𝐴𝑋. Then which of the following statements is/are correct? 
+  
+(A) 𝑌 follows 𝑁𝑝(𝐴𝜇,  𝐴𝑇Σ𝐴) 
+(B) 𝑌 follows 𝑁𝑝(𝐴𝜇, 𝐴Σ𝐴𝑇) 
+(C) Var(∑ 𝑌𝑖
+𝑝
+𝑖=1 ) = Var(∑ 𝑋𝑖
+𝑝
+𝑖=1 )  
+(D) ∑ Var(𝑌𝑖)𝑝
+𝑖=1 = ∑ Var(𝑋𝑖)𝑝
+𝑖=1   
+  
+Q.59 Suppose that 𝑋 = (𝑋1, … , 𝑋𝑝)
+𝑇
+ follows 𝑁𝑝(0, Σ), where Σ is a positive definite 
+matrix. Then which of the following statements is/are correct? 
+  
+(A) 𝑋1, … , 𝑋𝑝  are always independent normal random variables  
+(B) 𝑋1, … , 𝑋𝑝  are normal random variables 
+(C) 𝑋1
+2 + ⋯ + 𝑋𝑝
+2 always follows a chi-square distribution    
+(D) Any linear combination of 𝑋1, … , 𝑋𝑝 is a normal random variable 
+  
+Organizing Institute: IIT Guwahati
+Page 47 of 50
+
+===== Page 48 of 50 =====
+Statistics (ST) 
+ 
+Q.60 Let 𝑌 = (𝑌1, 𝑌2, 𝑌3)𝑇 ∼ 𝑁3(0, 𝐼3), where 𝐼3 denotes the identity matrix of order 3. 
+Let  
+𝐴 =
+(
+ 
+ 
+ 
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3)
+ 
+ 
+ 
+     and   𝐵 = 𝐼3 − 𝐴. 
+Let 𝜒1
+2 denote chi-square distribution with 1 degree of freedom. Then which of the 
+following statements is/are correct? 
+  
+(A) 𝑌𝑇𝐴𝑌 ∼ 𝜒1
+2  
+(B) 𝑌𝑇𝐵𝑌 ∼ 𝜒1
+2  
+(C) 𝑌𝑇𝐴𝑌 and 𝑌1 − 2𝑌2 + 𝑌3 are independently distributed  
+(D) 𝑌𝑇𝐴𝑌 and 𝑌1 + 2𝑌2 + 𝑌3 are independently distributed 
+  
+   
+Q.61 
+Let 𝐷 = {(𝑥, 𝑦) ∈ ℝ2: 0 < 𝑥2 + 𝑦2 ≤ 1}. For 𝛼 ≥ 0, consider the integral 
+𝐼𝛼 = ∬ 1
+(𝑥2 + 𝑦2)𝛼 𝑑𝑥 𝑑𝑦.
+2
+𝐷
+ 
+Let  
+𝑁0 = sup{𝛼 ≥ 0 ∶ 𝐼𝛼 < ∞}. 
+Then the value of 𝑁0 equals _______________ (answer in integer). 
+Organizing Institute: IIT Guwahati
+Page 48 of 50
+
+===== Page 49 of 50 =====
+Statistics (ST) 
+ 
+Q.62 Let 𝑋 follow 𝑁(3, 1). Then the value of 𝐸(𝑋4(𝑋 − 3)) equals ______________ 
+(answer in integer).    
+Q.63 Let 𝑈1, 𝑈2, 𝑈3 be three independent exponential random variables such that 𝑈𝑘 has 
+the following probability density function  
+𝑓𝑘(𝑥) = {𝑘 𝑒−𝑘𝑥         if 𝑥 > 0            
+0                 otherwise,       𝑘 = 1, 2, 3. 
+Let 
+𝑋 = min{𝑈1, 𝑈3}       and       𝑌 = min{𝑈2, 𝑈3} . 
+Then 𝑃(𝑋 = 𝑌) equals ______________ (rounded off to two decimal places). 
+Q.64 Let 𝑋1, 𝑋2 be a random sample from a distribution having the population density 
+function   
+𝑓(𝑥) = {
+1
+𝜃         if 0 < 𝑥 < 𝜃  
+0          otherwise,   
+ 
+where 𝜃 ∈ (0, ∞).  Let  𝑋(2) = max{𝑋1, 𝑋2}  and 
+𝜓(𝜃) = 𝑃𝜃(𝑋1 + 𝑋2 < 1),   𝜃 > 0. 
+Let 𝛿(𝑋(2)) be an unbiased estimator of 𝜓(𝜃) that depends on observations 𝑋1 and 
+𝑋2 only through 𝑋(2). If 𝛿(𝑡) is a continuous function on (0, ∞), then the value of 
+18 𝛿 (
+3
+4) equals ______________ (answer in integer).    
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 49 of 50
+
+===== Page 50 of 50 =====
+Statistics (ST) 
+ 
+Q.65 Let 𝑋 be a single observation from a distribution having probability density 
+function  
+𝑓𝜃(𝑥) = {
+2𝑥
+𝜃2         if 0 < 𝑥 < 𝜃  
+0          otherwise,   
+ 
+where 𝜃 ∈ (0, ∞).  For testing 𝐻0: 𝜃 ≤ 1  against  𝐻1: 𝜃 > 1, at level of 
+significance 0.05, let 𝛽1 be the size of the uniformly most powerful test and 𝛽2 be 
+the power of the uniformly most powerful test at 𝜃 = 2. Then 10 𝛽1 + 40 𝛽2 equals 
+______________ (answer in integer).    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 50 of 50
