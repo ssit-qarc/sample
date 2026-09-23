@@ -49,11 +49,6 @@ def question_numbers(text):
     return sorted({int(n) for n in re.findall(r"Q\.\s*(\d{1,2})\b", text) if 0 < int(n) <= 90})
 
 
-def key_rows(text):
-    # Key tables start each row with the question number, e.g. "29 8 NAT DA 8.90 to 9.10 1".
-    return sorted({int(m) for m in re.findall(r"^\s*(\d{1,2})\s+\S", text, re.M) if 0 < int(m) <= 90})
-
-
 def main():
     sources = read_sources()
     rows = []
@@ -86,10 +81,15 @@ def main():
             text = text_for(pdf, reader)
             row["pages"] = len(reader.pages)
             row["text_chars"] = len(text.strip())
-            nums = question_numbers(text) if row["kind"] == "QP" else key_rows(text)
+            # Key layouts vary too much across years to count rows reliably,
+            # so question numbers are only reported for papers.
+            nums = question_numbers(text) if row["kind"] == "QP" else []
             if nums:
                 row["questions"] = f"{len(nums)} ({nums[0]}-{nums[-1]})"
-            if row["text_chars"] < 500 or row["text_chars"] / max(row["pages"], 1) < 150:
+            # In this dataset, papers with a real text layer have 500+ characters a
+            # page and keys 390+. Below these limits the questions or answers are images.
+            per_page = row["text_chars"] / max(row["pages"], 1)
+            if per_page < (400 if row["kind"] == "QP" else 200):
                 row["problem"] = "mostly scanned images, little extractable text"
         except Exception as e:  # keep going; the manifest records the failure
             row["problem"] = f"unreadable: {e.__class__.__name__}"
@@ -119,7 +119,7 @@ def main():
         "",
     ]
     for paper in sorted(by_paper):
-        lines += [f"## {paper}", "", "| File | Pages | Text chars | Questions found | Key status | Source | Problem |",
+        lines += [f"## {paper}", "", "| File | Pages | Text chars | Question numbers found | Key status | Source | Problem |",
                   "|---|---|---|---|---|---|---|"]
         for r in by_paper[paper]:
             src = f"[link]({r['source_url']})" if r["source_url"] else ""

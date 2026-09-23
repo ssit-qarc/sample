@@ -1,0 +1,648 @@
+GATE 2015           SET-1                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS-1 1/11 
+Q. 1 – Q. 25 carry one mark each. 
+Q.1  
+If () 1gx x = − and () 1
+xhx x= −
+, then (() )
+( ( ))
+ghx
+hgx
+is:  
+(A) ()
+()
+hx
+gx
+ (B) 1
+x
+−  (C)  ()
+()
+gx
+hx
+ (D)  2(1 )
+x
+x−
+ 
+ 
+ 
+Q.2  lim𝑥𝑥→∞  𝑥𝑥1/𝑥𝑥   is 
+(A) ∞ (B) 0 (C)  1 (D)  Not defined 
+ 
+ 
+ 
+Q.3   Match the following: 
+ 
+(P) Prim’s algorithm for minimum spanning tree (i)   Backtracking 
+(Q) Floyd-Warshall algorithm for all pairs shortest paths (ii)  Greedy method 
+(R) Mergesort (iii) Dynamic programming 
+(S) Hamiltonian circuit (iv) Divide and conquer 
+  
+(A) P-iii, Q-ii, R-iv, S-i (B) P-i, Q-ii, R-iv, S-iii 
+(C) P-ii, Q-iii, R-iv, S-i (D) P-ii, Q-i, R-iii, S-iv 
+ 
+ 
+ 
+Q.4  Which one of  the following is the recurrence  equation for the worst case time complexity of the 
+Quicksort algorithm for sorting 𝑛𝑛 ( ≥ 2) numbers? In the recurrence equations given in the options 
+below, 𝑐𝑐 is a constant.  
+(A) 𝑇𝑇(𝑛𝑛)  =  2 𝑇𝑇(𝑛𝑛/2) +  𝑐𝑐𝑛𝑛 
+(B) 𝑇𝑇(𝑛𝑛)  =  𝑇𝑇(𝑛𝑛 − 1) +  𝑇𝑇(1) +  𝑐𝑐𝑛𝑛 
+(C) 𝑇𝑇(𝑛𝑛)  =  2𝑇𝑇(𝑛𝑛 − 1) +  𝑐𝑐𝑛𝑛 
+(D) 𝑇𝑇(𝑛𝑛)  =  𝑇𝑇(𝑛𝑛/2) +  𝑐𝑐𝑛𝑛 
+ 
+ 
+ 
+Q.5  The height of a tree is the length of the longest root-to-leaf path in it.  The maximum and minimum 
+number of nodes in a binary tree of height 5 are 
+(A) 63 and 6, respectively (B) 64 and 5, respectively 
+(C) 32 and 6, respectively (D) 31 and 5, respectively 
+ 
+ 
+Q.6  Match the following: 
+ 
+(P) Condition coverage (i)    Black-box testing                
+(Q) Equivalence class partitioning (ii)   System testing                          
+(R) Volume testing (iii)  White-box testing                
+(S) Alpha testing (iv)  Performance testing             
+ 
+(A) P-ii, Q-iii, R-i, S-iv (B) P-iii, Q-iv, R-ii, S- i 
+(C) P-iii, Q-i, R-iv, S-ii (D) P-iii, Q-i, R-ii, S-iv 
+ 
+
+GATE 2015           SET-1                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS-1 2/11 
+Q.7  Which of the following is/are correct inorder traversal sequence(s) of binary search tree(s)? 
+I. 3, 5, 7, 8, 15, 19, 25 
+II. 5, 8, 9, 12, 10, 15, 25 
+III. 2, 7, 10, 8, 14, 16, 20 
+IV. 4, 6, 7, 9 18, 20, 25 
+(A) I and IV only (B) II and III only (C)  II and IV only (D)  II only 
+ 
+ 
+ 
+Q.8  Which one of the following is TRUE at any valid state in shift-reduce parsing?  
+(A) Viable prefixes appear only at the bottom of the stack and not inside 
+(B) Viable prefixes appear only at the top of the stack and not inside 
+(C) The stack contains only a set of viable prefixes 
+(D) The stack never contains viable prefixes 
+ 
+ 
+ 
+Q.9  Which one of the following is NOT equivalent to p ↔ q? 
+(A) (┐p ˅ q) ˄ (p ˅ ┐q) (B) (┐p ˅ q) ˄ (q → p) 
+(C) (┐p ˄ q) ˅ (p ˄ ┐q) (D) (┐p ˄ ┐q) ˅ (p ˄ q) 
+ 
+ 
+ 
+Q.10  For a set 𝐴𝐴, the power set of 𝐴𝐴 is denoted by 2𝐴𝐴. If 𝐴𝐴 = {5, {6}, {7}}, which of the following options 
+are TRUE?  
+I. ∅ ∈ 2𝐴𝐴 II. ∅ ⊆ 2𝐴𝐴 III. {5, {6}} ∈ 2𝐴𝐴 IV. {5, {6}} ⊆ 2𝐴𝐴 
+ 
+(A) I and III only (B) II and III only 
+(C) I, II and III only (D) I, II and IV only 
+ 
+ 
+ 
+Q.11  Consider a 4 -bit Johnson counter with an  initial value of 0000. The counting sequence of this 
+counter is 
+(A) 0, 1, 3, 7, 15, 14, 12, 8, 0 (B) 0, 1, 3, 5, 7, 9, 11, 13, 15, 0 
+(C) 0, 2, 4, 6, 8, 10, 12, 14, 0 (D) 0, 8, 12, 14, 15, 7, 3, 1, 0 
+ 
+ 
+ 
+Q.12  For computers based on three-address instruction formats, each address field can be used to specify 
+which of the following: 
+(S1)     A memory operand 
+(S2)     A processor register 
+(S3)     An implied accumulator register 
+(A) Either S1 or S2 
+(B) Either S2 or S3 
+(C) Only S2 and S3   
+(D) All of S1, S2 and S3 
+ 
+
+GATE 2015           SET-1                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS-1 3/11 
+Q.13  Suppose two hosts use a TCP connection to transfer a large file. Which of the following statements 
+is/are FALSE with respect to the TCP connection?  
+ 
+I. If the sequence number of a segment is m , then the sequence number of the subsequent 
+segment is always m+1. 
+II. If the estimated round trip time at any given point of time is t  sec, the v alue of the 
+retransmission timeout is always set to greater than or equal to t sec.  
+III. The size of the advertised window never changes during the course of the TCP connection. 
+IV. The number of unacknowledged bytes at the sender is al ways less than or equal to the 
+advertised window.  
+(A) III only (B) I and III only (C)  I and IV only (D)  II and IV only 
+ 
+ 
+ 
+Q.14  Suppose that everyone in a group of N people wants to communicate secretly with  the N-1 others 
+using symmetric key cryptographic system. The communication between any two persons should 
+not be decodable by the others in the group. The number of keys requir ed in the system as a whole 
+to satisfy the confidentiality requirement is 
+(A) 2N (B) N(N-1) (C)  N(N-1)/2 (D)  (N-1)2 
+ 
+ 
+Q.15  Which of the following statements is/are FALSE? 
+I. XML overcomes the limitations in HTML to support a structured way of organizing 
+content. 
+II. XML specification is not case sensitive while HTML specification is case sensitive.  
+III. XML supports user defined tags while HTML uses pre-defined tags. 
+IV. XML tags need not be closed while HTML tags must be closed.  
+(A) II only (B) I only (C)  II and IV only (D)  III and IV only 
+ 
+ 
+Q.16  Which one of the following fields of an IP header is NOT modified by a typical IP router?   
+(A) Checksum (B) Source address 
+(C) Time to Live (TTL) (D) Length 
+ 
+ 
+Q.17  In one of the pairs of protocols given below, both the protocols can use multiple TCP connections 
+between the same client and the server. Which one is that?  
+(A) HTTP, FTP (B) HTTP, TELNET (C)  FTP, SMTP (D)  HTTP, SMTP 
+ 
+ 
+Q.18  For any two languages L1 and L2 such that L1 is context-free and L2 is recursively enumerable but 
+not recursive, which of the following is/are necessarily true? 
+I. 𝐿𝐿�1 (complement of L1) is recursive 
+II. 𝐿𝐿�2 (complement of L2) is recursive 
+III. 𝐿𝐿�1 is context-free 
+IV. 𝐿𝐿�1 ∪ L2 is recursively enumerable 
+(A) I only (B) III only (C)  III and IV only (D)  I and IV only 
+ 
+ 
+Q.19  Consider a system with byte-addressable memory, 32-bit logical addresses, 4 kilobyte page size and 
+page table entries of 4 bytes each. The size of the page table in the system  in megabytes is 
+________ .  
+ 
+
+GATE 2015           SET-1                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS-1 4/11 
+Q.20  The following two functions P1 and P2 that share a variable B with an initial value of 2 execute 
+concurrently. 
+ 
+P1( ) {                                                         P2( ) { 
+       C = B – 1;                                                D = 2 * B; 
+       B = 2 * C;                                                  B = D - 1; 
+}                                                                        } 
+ 
+The number of distinct values that B can possibly take after the execution is______________. 
+ 
+ 
+Q.21  SELECT operation in SQL is equivalent to  
+(A) the selection operation in relational algebra 
+(B) the selection operation in relational algebra, except that SELECT in SQL retains duplicates 
+(C) the projection operation in relational algebra 
+(D) the projection operation in relational algebra, except that SELECT in SQL retains duplicates 
+ 
+ 
+Q.22  A file is organized so that the ordering of data records is the same as or close to the ordering of data 
+entries in some index. Then that index is called  
+(A) Dense (B) Sparse (C)  Clustered (D)  Unclustered 
+ 
+ 
+Q.23   In the LU decomposition of the matrix 22
+49
+
+
+, if the diagonal elements of U are both 1, then the 
+lower diagonal entry 22l  of L  is________. 
+ 
+Q.24  The output of the following C program is__________. 
+ 
+void f1(int a, int b) { 
+      int c; 
+      c=a; a=b; b=c; 
+} 
+void f2(int *a, int *b) { 
+      int c; 
+      c=*a; *a=*b; *b=c; 
+} 
+int main(){ 
+      int a=4, b=5, c=6; 
+      f1(a,b); 
+      f2(&b, &c); 
+      printf(“%d”,c-a-b); 
+ } 
+ 
+ 
+Q.25  What are the worst-case complexities of insertion and deletion of a key in a binary search tree? 
+(A) (log )nθ for both insertion and deletion 
+(B) ()nθ for both insertion and deletion 
+(C) ()nθ for insertion and (log )nθ for deletion 
+(D) (log )nθ for insertion and ()nθ for deletion 
+ 
+
+GATE 2015           SET-1                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS-1 5/11 
+Q. 26 – Q. 55 carry two marks each. 
+ 
+Q.26  Suppose that the stop-and-wait protocol is used on a link with a bit rate of 64 kilobits per second  
+and 20 milliseconds propagation delay. Assume that the transmission time for the 
+acknowledgement and the processing time at nodes are negligible. Then the minimum frame size in 
+bytes to achieve a link utilization of at least 50% is______________. 
+ 
+ 
+Q.27  Consider a max heap, represented by the array:  40, 30, 20, 10, 15, 16, 17, 8, 4. 
+ 
+Array Index 1 2 3 4 5 6 7 8 9 
+Value 40 30 20 10 15 16 17 8 4 
+ 
+Now consider that a value 35 is inserted into this heap. After insertion, the new heap is 
+(A) 40, 30, 20, 10, 15, 16, 17, 8, 4, 35 (B) 40, 35, 20, 10, 30, 16, 17, 8, 4, 15 
+(C) 40, 30, 20, 10, 35, 16, 17, 8, 4, 15 (D) 40, 35, 20, 10, 15, 16, 17, 8, 4, 30    
+ 
+ 
+Q.28  Consider the following C program segment. 
+ 
+while(first <= last)  
+{ 
+      if (array[middle] < search) 
+         first = middle + 1;     
+      else if (array[middle] == search)   
+   found = TRUE; 
+       else last = middle - 1; 
+      middle = (first + last)/2; 
+} 
+ if (first > last)  notPresent = TRUE; 
+ 
+The cyclomatic complexity of the program segment is ________. 
+ 
+ 
+Q.29  Consider a LAN with four nodes 𝑆𝑆1, 𝑆𝑆2, 𝑆𝑆3 and 𝑆𝑆4. Time is divided into fixed-size slots, and a node 
+can begin its transmission only at the beginning of a slot. A collision is said to have occurred if 
+more than one node transmit in the same slot. The probabilities of generation of a frame in a time 
+slot by 𝑆𝑆1, 𝑆𝑆2, 𝑆𝑆3 and 𝑆𝑆4 are 0.1, 0.2, 0.3 and 0.4, respectively. The probability of sending a frame in 
+the first slot without any collision by any of these four stations is _____________. 
+ 
+ 
+Q.30  The binary operator ≠ is defined by the following truth table. 
+ 
+p q p ≠ q 
+0 0 0 
+0 1 1 
+1 0 1 
+1 1 0 
+ 
+Which one of the following is true about the binary operator ≠? 
+(A) Both commutative and associative (B) Commutative but not associative 
+(C) Not commutative but associative (D) Neither commutative nor associative 
+ 
+
+GATE 2015           SET-1                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS-1 6/11 
+Q.31  99
+1
+1
+( 1)x xx= +∑  = ____________. 
+ 
+ 
+Q.32  Suppose ℒ = {𝑝𝑝, 𝑞𝑞, 𝑟𝑟, 𝑠𝑠, 𝑡𝑡} is a lattice represented by the following Hasse diagram:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For any 𝑥𝑥, 𝑦𝑦 ∈ ℒ, not necessarily distinct, 𝑥𝑥 ∨ 𝑦𝑦 and 𝑥𝑥 ∧ 𝑦𝑦 are join and meet of 𝑥𝑥 , 𝑦𝑦, respectively. 
+Let ℒ3 = {(𝑥𝑥, 𝑦𝑦, 𝑧𝑧): 𝑥𝑥, 𝑦𝑦 , 𝑧𝑧 ∈ ℒ} be the set of all ordered triplets of the element s of ℒ. Let 𝑝𝑝𝑟𝑟  be the 
+probability that an e lement (𝑥𝑥, 𝑦𝑦, 𝑧𝑧) ∈ ℒ3 chosen equiprobably satisfies 𝑥𝑥 ∨ (𝑦𝑦 ∧ 𝑧𝑧) = (𝑥𝑥 ∨ 𝑦𝑦) ∧
+(𝑥𝑥 ∨ 𝑧𝑧). Then 
+(A) 𝑝𝑝𝑟𝑟 = 0 
+(B) 𝑝𝑝𝑟𝑟 = 1 
+(C) 0 < 𝑝𝑝𝑟𝑟 ≤
+1
+5 
+(D) 
+1
+5 < 𝑝𝑝𝑟𝑟 < 1 
+ 
+ 
+ 
+Q.33  Consider the operations  
+ 
+𝑓𝑓(𝑋𝑋, 𝑌𝑌, 𝑍𝑍) =  𝑋𝑋′ 𝑌𝑌𝑍𝑍 + 𝑋𝑋𝑌𝑌′ + 𝑌𝑌′𝑍𝑍′  and   𝑔𝑔(𝑋𝑋, 𝑌𝑌, 𝑍𝑍) = 𝑋𝑋′ 𝑌𝑌𝑍𝑍 + 𝑋𝑋′ 𝑌𝑌𝑍𝑍′ + 𝑋𝑋𝑌𝑌. 
+ 
+Which one of the following is correct? 
+(A) Both {𝑓𝑓} and {𝑔𝑔} are functionally complete 
+(B) Only {𝑓𝑓} is functionally complete 
+(C) Only {𝑔𝑔} is functionally complete 
+(D) Neither {𝑓𝑓} nor {𝑔𝑔} is functionally complete 
+  
+ 
+ 
+Q.34  Let G be a connected planar graph with 10 vertices. If the n umber of edges on each face is three ,   
+then the number of edges in G is ___________. 
+ 
+ 
+Q.35  Let na  represent the number of bit strings of length n containing two consecutive 1s. What is the 
+recurrence relation for na ? 
+(A) 2
+21 2n
+nnaa −
+−− ++  (B) 2
+21 22 n
+nnaa −
+−− ++   
+(C) 2
+2122 n
+nnaa −
+−− ++  (D) 2
+21222 n
+nnaa −
+−− ++  
+ 
+𝑝𝑝 
+𝑞𝑞 
+𝑡𝑡 
+𝑟𝑟 𝑠𝑠 
+
+GATE 2015           SET-1                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS-1 7/11 
+Q.36  A variable x is said to be live at a statement  Si in a program if the following three conditions hold 
+simultaneously: 
+i. There exists a statement Sj that uses x  
+ii.  There is a path from Si to Sj in the flow graph corresponding to the program 
+iii.  The path has no intervening assignment to x including at Si and Sj  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The variables which are live both at the statement in basic block 2 and at the statement in  basic 
+block 3 of the above control flow graph are 
+(A) p, s, u (B) r, s, u (C) r, u (D)  q, v 
+ 
+ 
+ 
+Q.37  The least number of temporary variables required to create  a three-address code in static single 
+assignment form for the expression  q + r / 3 + s – t * 5 + u * v /w  is  _______________. 
+ 
+ 
+ 
+Q.38   Consider an Entity- Relationship (ER) model in which entity sets E 1 and E2 are connected by an 
+m : n  relationship R12. E1 and E3 are connected by a 1 : n (1 on the side of E1 and n on the side of 
+E3) relationship R13.  
+ 
+E1 has two single-valued attributes a11 and a12 of which a11 is the key attribute. E2 has two single-
+valued attributes a21 and a22 of which a21 is the key attribute. E3 has two single-valued attributes a31 
+and a32 of which a31 is the key attribute.  The relationships do not have any attributes. 
+ 
+If a relational model is derived from the above ER model, then the minimum number of relations 
+that would be generated if all the relations are in 3NF is _______. 
+ 
+ 
+ 
+Q.39    
+  
+ 
+ 
+ 
+Consider the DFAs M and N given above. The number of states in a minimal DFA that accepts the 
+language L(M) ∩ L(N) is____________________ 
+ 
+ 
+ 
+ 
+ 
+  p = q + r 
+  s = p + q 
+  u = s * v 
+ 
+ 
+ v = r + u  q = s * u 
+ q = v + r 
+1 
+2 3 
+4 
+b a 
+b 
+a 
+N: 
+a b 
+a 
+b 
+M: 
+
+GATE 2015           SET-1                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS-1 8/11 
+Q.40  Consider the NPDA 〈Q = {𝑞𝑞𝑜𝑜 , 𝑞𝑞1, 𝑞𝑞2}, ∑ = {0,1}, Γ = {0,1, ⊥}, 𝛿𝛿, 𝑞𝑞0 , ⊥, F = {𝑞𝑞2}〉, where (as 
+per usual convention) Q is the set of states, ∑ is the input alphabet, Γ is the stack alphabet, 𝛿𝛿 is the 
+state transition function, q0 is the initial state, ⊥ is the initial stack symbol, and F is the set of 
+accepting states. The state transition is as follows: 
+ 
+ 
+ 
+Which one of the following  sequences must follow the string 101100 so that the overall string is 
+accepted by the automaton?   
+ 
+(A) 10110 (B) 10010 (C) 01010  (D) 01001 
+ 
+ 
+Q.41  Let G = (V, E) be a simple undirected graph , and s be a particular vertex in it called the source.   
+For xV∈ , let ()dx denote the shortest distance in G from s to x . A breadth first search (BFS) is 
+performed starting at s . Let T  be the resultant BFS tree. If (u,v)  is an edge of G that is not in T , 
+then which one of the following CANNOT be the value of () ()du dv− ?   
+(A)  -1 (B)  0 (C)  1 (D)  2 
+ 
+ 
+Q.42  Consider a uniprocessor system executing  three tasks T1, T2 and T3, each of which is composed of 
+an infinite sequence of jobs (or instances) which arrive periodically at intervals of 3, 7 and 20 
+milliseconds, respectively. The priority of each t ask is the inverse of its period, and the available 
+tasks are scheduled in order of priority, with the highest priority task scheduled first . Each instance 
+of T1, T2 and T3 requires an execution time of 1, 2 and 4 milliseconds, respectively. Given that all 
+tasks initially arrive at the beginning of  the 1st millisecond and task preemptions are allowed, the 
+first instance of T3 completes its execution at the end of _____________ milliseconds. 
+ 
+ 
+Q.43  A positive edge -triggered D flip -flop is connected to a positive edge -triggered JK flip -flop as 
+follows. The Q output of the D flip-flop is connected to both the J and K inputs of the JK flip- flop, 
+while the Q output of the JK flip -flop is connected to the  input of the D flip -flop. Initially, the 
+output of the D flip -flop is set to logic one and the output of the JK flip- flop is cleared. Which one 
+of the following is the bit sequence (including the initial state) generated at the Q output of the JK 
+flip-flop when the flip-flops are connected to a free-running common clock? Assume that J = K = 1 
+is the toggle mode and J  = K = 0 is the state -holding mode of the JK flip- flop. Both the flip- flops 
+have non-zero propagation delays.   
+(A) 0110110…  (B) 0100100…  
+(C) 011101110…  (D) 011001100…  
+ 
+ 
+Q.44  Consider a disk pack with a seek time of 4 milliseconds and rotational speed of 10000 rotations per 
+minute (RPM). It has 600 sectors per track and each sector can store 512 bytes of data. Consider a 
+file stored in the disk. The file contains 2000 sectors. Assume that every sector access necessitates a 
+seek, and the average rotational latency for accessing each sector is half of the time for one 
+complete rotation. The total time (in milliseconds) needed to read the entire file is ____________.  
+
+
+GATE 2015           SET-1                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS-1 9/11 
+ 
+Q.45  Consider a non -pipelined processor with a clock rate  of 2.5 gigahertz  and average cycles  per 
+instruction of four. The same processor is upgraded to a pipeline d processor with five  stages; but 
+due to the internal pipeline delay, the  clock speed is reduced to 2 gigahertz . Assume that there are 
+no stalls in the pipeline. The speed up achieved in this pipelined processor is_________. 
+ 
+Q.46  Suppose the following disk request sequence (track numbers) for a disk with 100 tracks  is given: 
+45, 20, 90, 10, 50, 60, 80, 25, 70. Assume that the initial position of the R/W head is on track 50. 
+The additional distance that will be traversed by the R/W head when the Shortest Seek Time First 
+(SSTF) algorithm is used compared to the SCAN (Elevator) algorithm  (assuming that SCAN 
+algorithm moves towards 100 when it starts execution)  is____________ tracks.   
+ 
+ 
+Q.47  Consider a main memor y with five page frames and the following sequence of page references: 3, 
+8, 2, 3, 9, 1, 6, 3, 8, 9, 3, 6, 2, 1, 3. Which one of the following is true  with respect to page 
+replacement policies First In First Out (FIFO) and Least Recently Used (LRU)? 
+(A)  Both incur the same number of page faults 
+(B)  FIFO incurs 2 more page faults than LRU 
+(C)  LRU incurs 2 more page faults than FIFO 
+(D)  FIFO incurs 1 more page faults than LRU 
+ 
+ 
+Q.48  
+ 
+2/
+2
+1/
+cos(1 / )x dx
+x
+π
+π
+∫ =__________________. 
+ 
+ 
+Q.49  Consider the following 2 × 2 matrix A where two elements are unknown and are marked by a and 
+b. The eigenvalues of this matrix are -1 and 7.  What are the values of a and b?  
+ 
+
+
+
+
+
+= abA 41
+. 
+(A) a = 6, b = 4 
+(B) a = 4, b = 6 
+(C) a = 3, b = 5 
+(D) a = 5, b =3 
+ 
+ 
+Q.50  An algorithm performs ( )
+1/2
+log N find operations, N insert operations, ( )
+1/2
+log N delete 
+operations, and ( )
+1/2
+log N decrease-key operations on a set of data items with keys drawn from a 
+linearly ordered set. For a delete operation, a pointer is  provided to the record that must be deleted. 
+For the decrease-key operation, a pointer is provided to the record that has its key decreased. Which 
+one of the following data structures is the most suited for the algorithm to use, if the goal is to 
+achieve the best total asymptotic complexity considering all the operations?  
+(A)  Unsorted array (B)  Min-heap 
+(C)  Sorted array (D)  Sorted doubly linked list 
+ 
+
+GATE 2015           SET-1                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS-1 10/11 
+Q.51  Consider the following relations: 
+ 
+Student Performance 
+Roll_No Student_Name 
+1 Raj 
+2 Rohit 
+3 Raj 
+ 
+Roll_No Course Marks 
+1 Math 80 
+1 English 70 
+2 Math 75 
+3 English 80 
+2 Physics 65 
+3 Math 80 
+ 
+ 
+Consider the following SQL query. 
+ 
+SELECT S.Student_Name, sum(P.Marks) 
+FROM Student S, Performance P 
+WHERE S.Roll_No = P.Roll_No 
+GROUP BY S.Student_Name  
+ 
+The number of rows that will be returned by the SQL query is _____________. 
+ 
+ 
+Q.52  What is the output of the following C code? Assume that the address of x is 2000 (in decimal) and 
+an integer requires four bytes of memory. 
+ 
+int main () { 
+         unsigned int x[4][3] =  
+          {{1,2,3},{4,5,6},{7,8,9},{10,11,12}}; 
+         printf(“%u, %u, %u”, x+3, *(x+3), *(x+2)+3); 
+} 
+ 
+(A)  2036, 2036, 2036  (B)  2012, 4, 2204 (C)  2036, 10, 10 (D)  2012, 4, 6 
+ 
+ 
+ 
+Q.53  The graph shown below has 8 edges with distinct integer edge weights. The minimum spanning tree 
+(MST) is of weight 3 6 and contains the edges: {(A,  C), (B, C), (B, E), (E, F), (D, F)}. The edge 
+weights of only those edges which are in the MST are given  in the figure shown below. T he 
+minimum possible sum of weights of all 8 edges of this graph is ___________. 
+ 
+ 
+ 
+ 
+ 
+
+
+GATE 2015           SET-1                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS-1 11/11 
+Q.54  Consider the following C function. 
+ 
+int fun1(int n){ 
+ int i,j,k,p,q=0; 
+ for (i=1; i<n; ++i) { 
+  p=0; 
+  for (j=n; j>1; j=j/2) 
+   ++p; 
+  for (k=1; k<p; k=k*2) 
+   ++q; 
+ } 
+ return q; 
+} 
+ 
+Which one of the following most closely approximates the return value of the function fun1? 
+(A) 3n  (B) 2(log )nn  (C)  lognn  (D)  log(log )nn  
+ 
+ 
+ 
+Q.55  Consider the following pseudo code, where x and y are positive integers. 
+ 
+begin 
+  q := 0 
+  r := x 
+  while 𝑟𝑟 ≥ 𝑦𝑦 do 
+    begin 
+       r := r – y 
+       q := q + 1 
+    end 
+end 
+ 
+The post condition that needs to be satisfied after the program terminates is 
+ 
+(A)  {𝑟𝑟 = 𝑞𝑞𝑥𝑥 + 𝑦𝑦  ˄  𝑟𝑟 < 𝑦𝑦} (B)  { 𝑥𝑥 = 𝑞𝑞𝑦𝑦 + 𝑟𝑟   ˄   𝑟𝑟 < 𝑦𝑦} 
+(C)  { 𝑦𝑦 = 𝑞𝑞𝑥𝑥 + 𝑟𝑟  ˄  0 < 𝑟𝑟 < 𝑦𝑦} (D)  { 𝑞𝑞 + 1 < 𝑟𝑟 − 𝑦𝑦   ˄   𝑦𝑦 > 0} 
+ 
+ 
+END OF THE QUESTION PAPER 
+ 
+ 

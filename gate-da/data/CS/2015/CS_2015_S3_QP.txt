@@ -1,0 +1,794 @@
+GATE 2015           SET-3                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS 1/14 
+Q. 1 – Q. 25 carry one mark each.    
+ 
+Q.1  Consider the following C program segment. 
+ 
+#include <stdio.h> 
+ 
+int main() 
+{ 
+ char s1[7] = "1234", *p; 
+ p = s1 + 2; 
+ *p = ‘0’; 
+ printf("%s", s1); 
+} 
+ 
+What will be printed by the program? 
+(A) 12 (B) 120400 (C)  1204 (D) 1034 
+ 
+ 
+Q.2  Suppose 𝑈𝑈 is the power set of the set 𝑆𝑆 = {1,2,3,4,5,6}. For any 𝑇𝑇 ∈ 𝑈𝑈, let |𝑇𝑇| denote the number 
+of elements in 𝑇𝑇 and 𝑇𝑇′ denote the complement of 𝑇𝑇. For any 𝑇𝑇, 𝑅𝑅 ∈ 𝑈𝑈, let 𝑇𝑇 ∖ 𝑅𝑅 be the set of all 
+elements in 𝑇𝑇 which are not in 𝑅𝑅. Which one of the following is true? 
+(A)  ∀𝑋𝑋 ∈ 𝑈𝑈 (|𝑋𝑋| = |𝑋𝑋′ |) 
+(B)  ∃𝑋𝑋 ∈ 𝑈𝑈  ∃𝑌𝑌 ∈ 𝑈𝑈 (|𝑋𝑋| = 5, |𝑌𝑌| = 5 and 𝑋𝑋 ∩ 𝑌𝑌 = ∅) 
+(C)  ∀𝑋𝑋 ∈ 𝑈𝑈  ∀𝑌𝑌 ∈ 𝑈𝑈 (|𝑋𝑋| = 2, |𝑌𝑌| = 3 and 𝑋𝑋 ∖ 𝑌𝑌 = ∅) 
+(D)  ∀𝑋𝑋 ∈ 𝑈𝑈 ∀𝑌𝑌 ∈ 𝑈𝑈 (𝑋𝑋 ∖ 𝑌𝑌 = 𝑌𝑌′ ∖ 𝑋𝑋′ ) 
+ 
+ 
+Q.3  Consider the relation 𝑋𝑋(𝑃𝑃, 𝑄𝑄, 𝑅𝑅, 𝑆𝑆, 𝑇𝑇, 𝑈𝑈) with the following set of functional dependencies 
+ 
+𝐹𝐹 =  { 
+              {𝑃𝑃, 𝑅𝑅} → {𝑆𝑆, 𝑇𝑇}, 
+              {𝑃𝑃, 𝑆𝑆, 𝑈𝑈} → {𝑄𝑄, 𝑅𝑅} 
+          } 
+ 
+Which of the following is the trivial functional dependency in 𝐹𝐹+, where 𝐹𝐹+ is closure of F  ?  
+(A) {𝑃𝑃, 𝑅𝑅} → {𝑆𝑆, 𝑇𝑇} (B) {𝑃𝑃, 𝑅𝑅} → {𝑅𝑅, 𝑇𝑇} (C) {𝑃𝑃, 𝑆𝑆} → {𝑆𝑆}  (D) {𝑃𝑃, 𝑆𝑆, 𝑈𝑈} →  {𝑄𝑄}  
+ 
+ 
+Q.4  The maximum number of processes that can be in Ready state for a computer system with 𝑛𝑛 CPUs 
+is  
+(A) 𝑛𝑛 (B) 𝑛𝑛2 (C) 2𝑛𝑛  (D) Independent of 𝑛𝑛 
+ 
+ 
+Q.5  Among simple LR (SLR) , canonical LR, and look-ahead LR (LALR), which of the following pairs 
+identify the method that is very easy to implement and the method that is the most powerful , in that 
+order?  
+(A)  SLR, LALR 
+(B)  Canonical LR, LALR 
+(C)  SLR, canonical LR  
+(D)  LALR, canonical LR 
+ 
+
+GATE 2015           SET-3                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS 2/14 
+Q.6  Let # be a binary operator defined as 
+ 
+𝑋𝑋 # 𝑌𝑌 = 𝑋𝑋′ + 𝑌𝑌′  where 𝑋𝑋 and 𝑌𝑌 are Boolean variables. 
+ 
+Consider the following two statements. 
+ 
+(S1)     (𝑃𝑃 # 𝑄𝑄)#𝑅𝑅 = 𝑃𝑃#(𝑄𝑄 # 𝑅𝑅)   
+(S2)      𝑄𝑄#𝑅𝑅 = 𝑅𝑅#𝑄𝑄 
+ 
+Which of the following is/are true for the Boolean variables 𝑃𝑃, 𝑄𝑄 and 𝑅𝑅? 
+ 
+(A)  Only S1 is true 
+(B)  Only S2 is true 
+(C)  Both S1 and S2 are true 
+(D)  Neither S1 nor S2 are true 
+ 
+ 
+Q.7  Consider a software project with the following information domain characteristics for calculation of 
+function point metric. 
+ 
+Number of external inputs (I) = 30 
+Number of external outputs (O) = 60 
+Number of external inquiries (E) = 23 
+Number of files (F) = 08 
+Number of external interfaces (N) = 02 
+ 
+It is given  that the complexity weighting factors for I, O , E, F and N are 4, 5, 4, 10 and 7, 
+respectively. It is also given that, out of fourteen value adjustment factors that influence the 
+development effort, four factors are not applicable, each of the other four factors have value 3, and 
+each of the remaining  factors have value 4. The computed value of function point metric is 
+_____________. 
+ 
+ 
+Q.8  In a web server, ten WebPages are stored with the URLs of the form 
+http://www.yourname.com/𝑣𝑣𝑣𝑣𝑣𝑣.html; where, 𝑣𝑣𝑣𝑣𝑣𝑣 is a different number from 1 to 10 for each 
+Webpage. Suppose, the client stores the W ebpage with 𝑣𝑣𝑣𝑣𝑣𝑣  = 1 (say W1) in local machine, edits 
+and then tests. Rest of the WebPages remains on the web server. W1 contains several relative URLs 
+of the form “ 𝑣𝑣𝑣𝑣𝑣𝑣.html” referring to the other WebPages. Which one of the following statements 
+needs to be added in W1, so that all the relative URLs in W1 refer to the appropriate WebPages on 
+the web server? 
+ 
+(A) <a href: “http://www.yourname.com/”, href: “...𝑣𝑣𝑣𝑣𝑣𝑣.html”> 
+(B) <base href: “http://www.yourname.com/”> 
+(C) <a href: “http://www.yourname.com/”> 
+(D) <base href: “http://www.yourname.com/”, range:“… 𝑣𝑣𝑣𝑣𝑣𝑣.html”> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+GATE 2015           SET-3                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS 3/14 
+Q.9  Consider the following statements. 
+ 
+I. TCP connections are full duplex 
+II. TCP has no option for selective acknowledgement 
+III. TCP connections are message streams 
+(A) Only I  is correct 
+(B) Only I and III are correct 
+(C) Only II and III are correct 
+(D) All of I, II and III are correct 
+ 
+ 
+Q.10   
+Consider the equality 
+3
+0
+n
+i
+iX
+=
+=∑ and the following choices for 𝑋𝑋 
+I. Ɵ(𝑛𝑛4) 
+II. Ɵ(𝑛𝑛5) 
+III. 𝑂𝑂(𝑛𝑛5) 
+IV.  Ω(𝑛𝑛3) 
+ 
+The equality above remains correct if 𝑋𝑋 is replaced by 
+(A) Only I 
+(B) Only II  
+(C) I or III or IV but not II 
+(D) II or III or IV but not I 
+ 
+ 
+Q.11  Consider a binary tree T that has 200 leaf nodes. Then, the number of nodes in T that have exactly 
+two children are ________. 
+ 
+ 
+Q.12  Given a hash table 𝑇𝑇 with 25 slots that stores 2000 elements, the load factor 𝛼𝛼 for 𝑇𝑇 is 
+____________. 
+ 
+ 
+Q.13  
+In the given matrix 
+
+
+
+
+
+
+
+
+
+ −
+121
+010
+211
+, one of the eigenvalues is 1. The eigenvectors corresponding to 
+the eigenvalue 1 are 
+(A)  {𝛼𝛼(4,2,1)|𝛼𝛼 ≠ 0, 𝛼𝛼 ∈ ℝ} (B)  {𝛼𝛼(−4,2,1)|𝛼𝛼 ≠ 0, 𝛼𝛼 ∈ ℝ} 
+(C)  {𝛼𝛼�√2, 0,1�|𝛼𝛼 ≠ 0, 𝛼𝛼 ∈ ℝ} (D)  {𝛼𝛼�−√2, 0,1�|𝛼𝛼 ≠ 0, 𝛼𝛼 ∈ ℝ}  
+ 
+Q.14  The value of  lim𝑥𝑥→∞ (1 + 𝑥𝑥2)𝑒𝑒 −𝑥𝑥
+ is 
+ 
+(A) 0 (B) 
+2
+1  
+ 
+(C) 1 
+ 
+(D) ∞  
+ 
+ 
+Q.15  The number of 4 digit numbers having their digits in non -decreasing order (from left to right) 
+constructed by using the digits belonging to the set {1, 2, 3} is____________. 
+ 
+
+GATE 2015           SET-3                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS 4/14 
+Q.16  In a room there are only two types of people, namely Type 1 and Type 2. Type 1 people always tell 
+the truth and Type 2 people always lie. You give a fair coin to a person in that room, without 
+knowing which type he is from and tell him to toss it and hide the result from you till you ask for it. 
+Upon asking, the person replies the following  
+“The result of the toss is head if and only if I am telling the truth.” 
+ 
+Which of the following options is correct? 
+(A) The result is head 
+(B) The result is tail 
+(C) If the person is of Type 2, then the result is tail 
+(D) If the person is of Type 1, then the result is tail 
+ 
+ 
+Q.17  While inserting the elements 71, 65, 84, 69, 67, 83  in a n empty binary search tree  (BST) in the 
+sequence shown, the element in the lowest level is 
+(A) 65 (B) 67 (C) 69 (D) 83 
+ 
+ 
+Q.18  The result evaluating the postfix expression  10  5  +  60  6  /  *  8  −   is 
+ 
+(A) 284 (B) 213 (C) 142 (D) 71 
+ 
+ 
+Q.19  Consider the following relation  
+ 
+        Cinema(theater, address, capacity) 
+ 
+Which of the following options will be needed at the end of the  SQL query  
+ 
+        SELECT P1.address 
+        FROM Cinema P1 
+ 
+such that it always finds the addresses of theaters with maximum capacity? 
+         
+(A) WHERE P1.capacity >= All (select P2.capacity from Cinema P2) 
+(B) WHERE P1.capacity >= Any (select P2.capacity from Cinema P2) 
+(C) WHERE P1.capacity > All (select  max(P2.capacity) from Cinema P2) 
+(D) WHERE P1.capacity > Any (select max(P2.capacity) from Cinema P2) 
+ 
+ 
+Q.20  Consider the following array of elements. 
+ 
+              〈89, 19, 50, 17, 12, 15, 2, 5, 7, 11, 6, 9, 100〉  
+ 
+The minimum number of interchanges needed to convert it into a max-heap is 
+(A) 4 (B) 5 (C) 2 (D) 3 
+ 
+
+GATE 2015           SET-3                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS 5/14 
+Q.21  Two processes 𝑋𝑋 and 𝑌𝑌 need to access a critical section . Consider the following synchr onization 
+construct used by both the processes 
+ 
+Process 𝑋𝑋 
+ 
+/* other code for process 𝑋𝑋 */ 
+while(true) 
+{ 
+   varP = true; 
+   while(varQ == true) 
+        { 
+       /* Critical  Section  */ 
+              varP =  false; 
+         } 
+} 
+/* other code for process 𝑋𝑋 */ 
+Process 𝑌𝑌 
+ 
+/* other code for process 𝑌𝑌 */ 
+while(true) 
+{ 
+   varQ = true; 
+   while(varP == true) 
+        { 
+       /* Critical  Section  */ 
+              varQ =  false; 
+         } 
+} 
+/* other code for process 𝑌𝑌 */ 
+ 
+Here, varP and varQ are shared variables and both are initialized to false. Which one of the 
+following statements is true? 
+(A) The proposed solution prevents deadlock but fails to guarantee mutual exclusion 
+(B) The proposed solution guarantees mutual exclusion but fails to prevent deadlock 
+(C) The proposed solution guarantees mutual exclusion and  prevents deadlock 
+(D) The proposed solution fails to prevent deadlock and fails to guarantee mutual exclusion 
+ 
+ 
+Q.22  Let L be the language represented by the regular expression Σ∗0011Σ∗ where Σ = {0, 1}. What is 
+the minimum number of states in a DFA that recognizes L� (complement of L)? 
+(A) 4 (B) 5 (C) 6  (D) 8  
+ 
+ 
+Q.23  Consider a software program that is artificially seeded with 100 faults. While testing this program, 
+159 faults are detected, out of which 75 faults are from those artificially seeded faults. Assuming 
+that both real and seeded faults are of same nature and have same distribution, the estimated 
+number of undetected real faults is ____________. 
+ 
+ 
+Q.24  Consider a machine with a byte addressable main memory of 220 bytes, block size of 16 bytes and a 
+direct mapped cache having 2 12 cache lines. Let the addresses of two consecutive bytes in main 
+memory be (E201F)16 and (E2020)16. What are the tag and cache line address (in  hex) for main 
+memory address (E201F)16? 
+(A) E, 201 (B) F, 201 (C) E, E20  (D) 2, 01F  
+ 
+ 
+Q.25  Consider a CSMA/CD network that transmits data at a rate of 100 Mbps (108 bits per second) over 
+a 1 km (kilometer) cable with no repeaters. If the minimum frame size required for this network is 
+1250 bytes, what is the signal speed (km/sec) in the cable? 
+(A) 8000 (B) 10000 (C) 16000  (D) 20000  
+ 
+
+GATE 2015           SET-3                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS 6/14 
+Q. 26 – Q. 55 carry two marks each. 
+Q.26  The velocity v  (in kilometer /minute) of a motorbike which starts from rest, is given at fixed 
+intervals of time t (in minutes) as follows: 
+ 
+t 2 4 6 8 10 12 14 16 18 20 
+v 10 18 25 29 32 20 11 5 2 0 
+ 
+The approximate distance (in kilometers) rounded to two places of decimals covered in 20 minutes 
+using Simpson’s 1/3rd rule is _______________. 
+ 
+ 
+Q.27  Assume that a merges ort algorithm in the worst case takes 30 seconds for an input of size 64. 
+Which of the following most closely approximates the maximum input size of a problem that can 
+be solved in 6 minutes? 
+(A) 256 (B) 512 (C) 1024 (D) 2048 
+ 
+ 
+Q.28  Consider the following recursive C function. 
+ 
+void get(int n) 
+ {  
+      if (n<1) return; 
+      get(n-1); 
+      get(n-3); 
+      printf(“%d”, n); 
+ } 
+ 
+If get(6) function is being called in main()then how many times will the get()function be 
+invoked before returning to the main()? 
+(A) 15 (B) 25 (C) 35 (D) 45 
+ 
+ 
+Q.29  Consider a B+ tree in which the search key is 12 bytes long, block size is 1024 bytes, record pointer 
+is 10 bytes long and block pointer is 8 bytes long. The maximum number of keys that can be 
+accommodated in each non-leaf node of the tree is ____________. 
+ 
+ 
+Q.30  Given the function 𝐹𝐹 =  𝑃𝑃′ +  𝑄𝑄𝑅𝑅, where 𝐹𝐹 is a function in three Boolean variables 𝑃𝑃, 𝑄𝑄 and 𝑅𝑅 and 
+𝑃𝑃′ =  ! 𝑃𝑃 , consider the following statements. 
+ 
+(S1)  𝐹𝐹 = ∑(4, 5, 6) 
+(S2)  𝐹𝐹 = ∑(0, 1, 2, 3, 7) 
+(S3)  𝐹𝐹 = ∏(4, 5, 6)  
+(S4) 𝐹𝐹 = ∏(0, 1, 2, 3, 7) 
+ 
+Which of the following is true? 
+(A) (S1)- False, (S2)- True, (S3)- True, (S4)- False  
+(B) (S1)- True, (S2)- False, (S3)- False, (S4)- True 
+(C) (S1)- False, (S2)- False, (S3)- True, (S4)- True  
+(D) (S1)- True, (S2)- True, (S3)- False, (S4)- False  
+ 
+
+GATE 2015           SET-3                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS 7/14 
+Q.31  Language 1L is polynomial time reducible to language 2L . Language 3L is polynomial time 
+reducible to 2L , which in turn is polynomial time reducible to language 4L . Which of the 
+following is/are true? 
+ 
+I.        if 4LP∈ , then 2LP∈  
+II.      if 1LP∈ or 3LP∈ , then 2LP∈  
+III.    1LP∈ , if and only if 3LP∈  
+IV.     if 4LP∈ , then 1LP∈ and 3LP∈  
+(A)  II only (B)  III only 
+(C)  I and IV only (D)  I only 
+ 
+ 
+ 
+Q.32  Consider the following C program. 
+ 
+#include<stdio.h> 
+int f1(void); 
+int f2(void); 
+int f3(void); 
+int x = 10; 
+ 
+int main( ) 
+ {  
+   int x = 1; 
+   x += f1( ) + f2( ) + f3( ) + f2( ); 
+   printf(“%d”, x); 
+   return 0;  
+ } 
+ 
+int f1() { int x = 25; x++; return x;} 
+int f2() { static int x = 50; x++; return x;} 
+int f3() { x *= 10; return x};  
+ 
+The output of the program is ________. 
+ 
+ 
+Q.33  Consider the following C program. 
+ 
+#include<stdio.h> 
+int main( ) 
+{  
+   static int a[ ] = {10, 20, 30, 40, 50}; 
+   static int *p[ ] = {a, a+3, a+4, a+1, a+2}; 
+   int **ptr = p; 
+   ptr++; 
+   printf(“%d%d”, ptr-p,**ptr); 
+} 
+ 
+The output of the program is  ______________. 
+ 
+
+GATE 2015           SET-3                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS 8/14 
+Q.34  Which of the following languages are context-free? 
+ 
+L1 = {ambnanbm | m, n ≥ 1} 
+L2 = {ambnambn | m, n ≥ 1} 
+L3 = {ambn | m = 2n + 1 } 
+ 
+(A)  L1 and L2 only (B)  L1 and L3 only (C)  L2 and L3 only (D)  L3  only 
+ 
+ 
+ 
+Q.35  Consider the following po licies for preventing deadlock in a system with mutually exclusive 
+resources. 
+ 
+I. Processes should acquire all their resources at the beginning of execution. If any resource is 
+not available, all resources acquired so far are released 
+II. The resources are numbered uniquely, and processes are allowed to request for resources 
+only in increasing resource numbers 
+III. The resources are numbered uniquely, and processes are allowed to request for resources 
+only in decreasing resource numbers 
+IV. The resources are numbered uniquely. A process is allowed to request only for a resource 
+with resource number larger than its currently held resources 
+ 
+Which of the above policies can be used for preventing deadlock? 
+ 
+(A) Any one of I and III but not II or IV 
+(B) Any one of I, III, and IV but not II 
+(C) Any one of II and III but not I or IV 
+(D) Any one of I, II, III, and IV 
+ 
+ 
+ 
+Q.36  In the network 200.10.11.144/27, the fourth octet (in decimal) of the last IP address of the network 
+which can be assigned to a host is ____________. 
+ 
+ 
+Q.37  Consider a network connect ing two systems located 8000 kilometers  apart. The b andwidth of the 
+network is 500×10 6 bits per second . The  propagation speed of the media is 4×10 6 meters per 
+second. It is needed to design a Go -Back-𝑁𝑁 sliding window protocol for this network. T he average 
+packet size is 107 bits. The network is to be used to its full capacity. Assume that processing delays 
+at nodes are negligible. Then, the minimum size in bits of the sequence number field has to be  
+___________. 
+ 
+ 
+Q.38  Consider the following reservation table for a pipeline having three stages 𝑆𝑆1, 𝑆𝑆2 and 𝑆𝑆3. 
+ 
+                                                   𝑇𝑇𝑇𝑇𝑇𝑇𝑒𝑒 → 
+ 1 2 3 4 5 
+𝑆𝑆1 𝑋𝑋    𝑋𝑋 
+𝑆𝑆2  𝑋𝑋  𝑋𝑋  
+𝑆𝑆3   𝑋𝑋   
+ 
+The minimum average latency (MAL) is ________. 
+ 
+ 
+
+GATE 2015           SET-3                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS 9/14 
+ 
+Q.39  Consider the following code sequence having five instructions 𝐼𝐼1 to 𝐼𝐼5. Each of these instructions  
+has the following format. 
+ 
+OP  Ri, Rj, Rk 
+ 
+where operation OP is performed on contents of registers R j and R k and the result is stored in 
+register Ri.  
+ 
+𝐼𝐼1: ADD  R1, R2, R3 
+𝐼𝐼2: MUL  R7, R1, R3 
+𝐼𝐼3: SUB   R4, R1, R5 
+𝐼𝐼4: ADD  R3, R2, R4 
+𝐼𝐼5: MUL  R7, R8, R9 
+ 
+Consider the following three statements. 
+ 
+S1: There is an anti-dependence between instructions 𝐼𝐼2 and 𝐼𝐼5 
+S2: There is an anti-dependence between instructions 𝐼𝐼2 and 𝐼𝐼4 
+S3: Within an instruction pipeline an anti-dependence always creates one or more stalls 
+ 
+Which one of above statements is/are correct? 
+(A) Only S1 is true 
+(B) Only S2 is true 
+(C) Only S1 and S3 are true 
+(D) Only S2 and S3 are true 
+ 
+ 
+ 
+ 
+ 
+ 
+
+GATE 2015           SET-3                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS 10/14 
+Q.40  Consider the following two C code segments. Y and X are one and two dimensional arrays of size 𝑛𝑛 
+and 𝑛𝑛 × 𝑛𝑛 respectively, where 2 ≤ 𝑛𝑛 ≤ 10. Assume that in both code segments , elements of Y are 
+initialized to 0 and each  element X[i][j] of array X  is initialized to i+j. Further assume that 
+when stored in main memory all elements of X are in same main memory page frame. 
+ 
+Code segment 1: 
+//initialize elements of Y to 0 
+//initialize elements X[i][j] of X to i+j 
+ 
+   for(i = 0; i < n; i++) 
+       Y[i] += X[0][i]; 
+ 
+Code Segment 2: 
+//initialize elements of Y to 0 
+//initialize elements X[i][j] of X to i+j 
+ 
+     for(i = 0; i < n; i++) 
+       Y[i] += X[i][0]; 
+ 
+Which of the following statements is/are correct? 
+ 
+S1: Final contents of array Y will be same in both code segments 
+S2: Elements of array X accessed inside the for loop shown in code segment 1 are 
+      contiguous in main memory 
+S3: Elements of array X accessed inside the for loop shown in code segment 2 are  
+      contiguous in main memory 
+(A) Only S2 is correct 
+(B) Only S3 is correct 
+(C) Only S1 and S2 are correct 
+(D) Only S1 and S3 are correct 
+ 
+ 
+Q.41  Consider the following partial Schedule S involving two transactions T1 and T2. Only the read and 
+the write operations have been shown. The read operation on data item P is denoted by read(P) and 
+the write operation on data item P is denoted by write(P). 
+ 
+Time 
+instance 
+Transaction-id 
+T1 T2 
+1 read(A)  
+2 write(A)  
+3  read(C) 
+4  write(C) 
+5  read(B) 
+6  write(B) 
+7  read(A) 
+8  commit 
+9 read(B)  
+                               Schedule S 
+ 
+Suppose that the transaction T1 fails immediately after time instance 9. Which one of the following 
+statements is correct? 
+(A)  T2 must be aborted and then both T1 and T2 must be re-started to ensure transaction atomicity 
+(B)  Schedule S is non-recoverable and cannot ensure transaction atomicity 
+(C)  Only T2 must be aborted and then re-started to ensure transaction atomicity 
+(D)  Schedule S is recoverable and can ensure atomicity and nothing else needs to be done 
+
+GATE 2015           SET-3                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS 11/14 
+ 
+Q.42  If the following system has non-trivial solution, 
+ 
+,0
+0
+0
+=++
+=++
+=++
+qzpyrx
+pzryqx
+rzqypx
+ 
+ 
+then which one of the following options is TRUE? 
+(A) 0=+− rqp  or rqp −==  
+(B) 0=−+ rqp  or rqp =−=  
+(C) 0=++ rqp  or rqp ==  
+(D) 0=+− rqp  or rqp −=−=  
+ 
+ 
+ 
+Q.43  Consider the following C program: 
+ 
+#include<stdio.h> 
+int main( ) 
+{   
+    int i, j, k = 0; 
+    j = 2 * 3 / 4 + 2.0 / 5 + 8 / 5; 
+    k −= −−j; 
+    for(i = 0; i < 5; i++)  
+      { 
+         switch(i + k) 
+         { 
+            case 1: 
+            case 2: printf(“\n%d”, i+k);  
+            case 3: printf(“\n%d”, i+k); 
+            default: printf(“\n%d”, i+k);  
+         } 
+      } 
+    return 0; 
+} 
+ 
+The number of times printf statement  is executed is ____________. 
+ 
+ 
+Q.44  
+If for non-zero  x,  11( )  25af x bf xx
++= −
+ where ba≠  then ∫
+2
+1
+)( dxxf  is 
+(A) 22
+1 47b(ln 2  25) 2a
+ab
+ −+− 
+ 
+(B) 22
+1 47b(2ln 2  25) 2a
+ab
+ −−− 
+ 
+(C) 22
+1 47b(2ln 2  25) 2a
+ab
+ −+− 
+ 
+(D) 22
+1 47b(ln 2  25) 2a
+ab
+ −−− 
+ 
+
+GATE 2015           SET-3                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS 12/14 
+ 
+ 
+Q.45  Let G be a connected undirected graph of 100 vertices and 300 edges. The weight of a minimum 
+spanning tree of G is 500. When the weight of each edge of G  is increased by five, the weight of a 
+minimum spanning tree becomes ________. 
+ 
+ 
+Q.46  Two hosts are connect ed via a packet switch with 107 bits per second  links. Each link has a 
+propagation delay of 20 microseconds. The switch begins forwarding a packet 35 microseconds 
+after it receives the same. If 10000 bits of data are to be transmitted between the two hosts using a 
+packet size of 5000 bits, the time ela psed between the transmission of the first bit of data and the 
+reception of the last bit of the data in microseconds is____________. 
+ 
+ 
+Q.47  For the processes listed in the following table, which of the following scheduling schemes will give 
+the lowest average turnaround time? 
+ 
+Process Arrival Time Processing Time 
+A 0 3 
+B 1 6 
+C 4 4 
+D 6 2 
+ 
+(A) First Come First Serve 
+(B) Non-preemptive Shortest Job First 
+(C) Shortest Remaining Time 
+(D) Round Robin with Quantum value two 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+GATE 2015           SET-3                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS 13/14 
+Q.48  Consider three software items:  Program-𝑋𝑋, Control Flow Diagram of Program-𝑌𝑌 and Control Flow 
+Diagram of Program-𝑍𝑍 as shown below 
+ 
+Program-𝑿𝑿: 
+sumcal(int maxint, int value) 
+{ 
+    int result=0, i=0; 
+    if (value <0) 
+    { 
+      value = −value; 
+    } 
+    while((i<value) AND (result                     
+<= maxint)) 
+    { 
+       i=i+1; 
+      result = result + 1; 
+    } 
+    if(result <= maxint) 
+    { 
+       printf(result); 
+    } 
+    else 
+    { 
+      printf(“large”); 
+    } 
+    printf(“end of program”); 
+} 
+Control Flow Diagram of Program-𝒀𝒀:  
+ 
+Control Flow Diagram of Program-𝒁𝒁: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The values of McCabe’s Cyclomatic complexity of Program -𝑋𝑋, Program -𝑌𝑌, and Program -𝑍𝑍 
+respectively are 
+(A) 4, 4, 7 (B) 3, 4, 7 (C) 4, 4, 8 (D) 4, 3, 8 
+ 
+ 
+Q.49  Consider the equation (43)𝑥𝑥 =  (𝑦𝑦3)8 where 𝑥𝑥 and 𝑦𝑦 are unknown. The number of possible 
+solutions is ______________ 
+ 
+ 
+Q.50  Let R be a relation on the set of ordered pairs of positive integers such that  ((p,q),(r,s)) ϵ R if and 
+only if p− s = q− r. Which one of the following is true about R? 
+(A) Both reflexive and symmetric (B) Reflexive but not symmetric 
+(C) Not reflexive but symmetric (D) Neither reflexive nor symmetric 
+ 
+ 
+Control Flow Diagram of 
+Program-𝑋𝑋 
+Control Flow Diagram of 
+Program-𝑌𝑌 
+
+GATE 2015           SET-3                               COMPUTER SCIENCE - CS                                                                                                                                                               
+CS 14/14 
+Q.51  Suppose 𝑋𝑋𝑇𝑇  for 𝑇𝑇 = 1,2,3 are independent and identically d istributed random variables whose 
+probability mass functions are Pr[𝑋𝑋𝑇𝑇 = 0] = Pr[𝑋𝑋𝑇𝑇 = 1] = 1/2 for 𝑇𝑇 = 1, 2, 3. Define another 
+random variable 𝑌𝑌 = 𝑋𝑋1𝑋𝑋2 ⊕ 𝑋𝑋3, where ⊕ denotes XOR. Then 
+  Pr[𝑌𝑌 = 0|𝑋𝑋3 = 0] =_______________.  
+ 
+ 
+Q.52  The total number of prime implicants of the function 𝑓𝑓(𝑤𝑤, 𝑥𝑥, 𝑦𝑦, 𝑧𝑧) = ∑(0, 2, 4, 5, 6, 10) is _______. 
+ 
+ 
+Q.53  Suppose 𝑐𝑐 = 〈𝑐𝑐[0], … , 𝑐𝑐[𝑘𝑘 − 1]〉 is an array of length 𝑘𝑘, where all the entries are from the set {0, 1}. 
+For any positive integers 𝑣𝑣 and 𝑛𝑛, consider the following pseudocode. 
+ 
+DOSOMETHING(𝑐𝑐, 𝑣𝑣, 𝑛𝑛) 
+𝑧𝑧 ← 1 
+for 𝑇𝑇 ← 0 to 𝑘𝑘 − 1 
+    do 𝑧𝑧 ← 𝑧𝑧2 mod 𝑛𝑛 
+     if 𝑐𝑐[𝑇𝑇] = 1 
+         then 𝑧𝑧 ← (𝑧𝑧 × 𝑣𝑣) mod 𝑛𝑛 
+return 𝑧𝑧 
+ 
+If 𝑘𝑘 = 4, 𝑐𝑐 = 〈1, 0, 1, 1〉, 𝑣𝑣 = 2 and 𝑛𝑛 = 8, then the output of DOSOMETHING(𝑐𝑐, 𝑣𝑣, 𝑛𝑛) is 
+__________________. 
+ 
+ 
+Q.54  Let 𝑓𝑓(𝑛𝑛) = 𝑛𝑛 and 𝑔𝑔(𝑛𝑛) =  𝑛𝑛(1+ 𝑠𝑠𝑇𝑇𝑛𝑛  𝑛𝑛), where 𝑛𝑛 is a positive integer. Which of the following 
+statements is/are correct? 
+ 
+I. 𝑓𝑓(𝑛𝑛)  =  𝑂𝑂(𝑔𝑔(𝑛𝑛))   
+II. 𝑓𝑓(𝑛𝑛)  =  Ω(𝑔𝑔(𝑛𝑛))   
+ 
+ 
+(A)  Only I  
+(B)  Only II  
+(C)  Both I and II  
+(D)  Neither I nor II   
+ 
+ 
+Q.55  Consider the following grammar 𝐺𝐺 
+ 
+      𝑆𝑆  →      𝐹𝐹   |   𝐻𝐻 
+      𝐹𝐹  →      𝑝𝑝   |   𝑐𝑐 
+      𝐻𝐻  →      𝑑𝑑   |   𝑐𝑐 
+ 
+where 𝑆𝑆, 𝐹𝐹, and 𝐻𝐻 are non- terminal symbols, 𝑝𝑝 , 𝑑𝑑, and 𝑐𝑐  are terminal symbols. Which of the 
+following statement(s) is/are correct? 
+ 
+S1.  LL(1) can parse all strings that are generated using grammar 𝐺𝐺 
+S2.  LR(1) can parse all strings that are generated using grammar 𝐺𝐺 
+(A) Only S1 (B) Only S2 (C) Both S1 and S2 (D) Neither S1 nor S2  
+ 
+ 
+END OF THE QUESTION PAPER 
+ 

@@ -1,0 +1,643 @@
+GATE 2015                                                       SET-2                                        COMPUTER –  CS 
+CS 1/12 
+Q. 1 – Q. 25 carry one mark each. 
+Q.1  Consider the following two statements. 
+ 
+𝑆𝑆1: If a candidate is known to be corrupt, then he will not be elected 
+𝑆𝑆2: If a candidate is kind, he will be elected 
+ 
+Which one of the following statements follows from 𝑆𝑆1 and 𝑆𝑆2 as per sound inference rules of 
+logic?  
+    
+(A) If a person is known to be corrupt, he is kind 
+(B) If a person is not known to be corrupt, he is not kind 
+(C) If a person is kind, he is not known to be corrupt 
+(D) If a person is not kind, he is not known to be corrupt 
+  
+ 
+Q.2  The cardinality of the power set of { 0, 1, 2, …, 10 } is _________ . 
+ 
+ 
+Q.3  Let 𝑅𝑅 be the relation on the set of positive integers such that 𝑎𝑎𝑅𝑅𝑎𝑎 if and only if 𝑎𝑎 and 𝑎𝑎 are distinct 
+and have a common divisor other than 1. Which one of the following statements about 𝑅𝑅 is true?  
+(A) 𝑅𝑅 is symmetric and reflexive but not transitive 
+(B) 𝑅𝑅 is reflexive but not symmetric and not transitive 
+(C) 𝑅𝑅 is transitive but not reflexive and not symmetric 
+(D) 𝑅𝑅 is symmetric but not reflexive and not transitive 
+ 
+ 
+Q.4  The number of divisors of 2100  is _____ .  
+ 
+ 
+Q.5  
+ The larger of the two eigenvalues of the matrix 45
+21
+
+
+is _______. 
+ 
+Q.6  An unordered list contains n distinct elements. The number of comparisons to find an element in 
+this list that is neither maximum nor minimum is  
+(A) Ɵ(n log n) (B) Ɵ(n) (C)  Ɵ(log n) (D)  Ɵ(1) 
+ 
+ 
+ 
+Q.7  The minimum number of JK flip -flops required to construct a synchronous counter with the count 
+sequence (0,0,1,1,2,2,3,3,0,0,…) is __________ .  
+ 
+ 
+ 
+Q.8  Assume that for a certain processor, a read request takes 50 nanoseconds  on a cache miss and 5 
+nanoseconds on a cache hit. Suppose while running a program, it was observed that 80% of the 
+processor's read requests result in a cache hit . T he average read access time in nanoseconds  is 
+__________.  
+ 
+ 
+
+GATE 2015                                                       SET-2                                        COMPUTER –  CS 
+CS 2/12 
+Q.9  A computer system implements a 40 -bit virtual address, page size of 8 kilobytes, and a 128 -entry 
+translation look-aside buffer (TLB) organized into 32 sets each having four ways. Assume that the 
+TLB tag does not store any process id. The minimum length of the TLB tag in bits is _________.  
+ 
+ 
+Q.10  Consider the following statements. 
+ 
+I. The complement of every Turing decidable language is Turing decidable 
+II. There exists some language which is in NP but is not Turing decidable 
+III. If L is a language in NP, L is Turing decidable 
+ 
+Which of the above statements is/are true? 
+(A) Only II (B) Only III (C)  Only I and II (D)  Only I and III 
+ 
+ 
+Q.11  Consider the following function written in the C programming language.  
+ 
+void foo(char *a){ 
+    if ( *a && *a != ‘ ‘){ 
+        foo(a+1); 
+        putchar(*a); 
+    } 
+} 
+ 
+The output of the above function on input  “ABCD   EFGH” is 
+(A) ABCD   EFGH (B) ABCD (C)  HGFE   DCBA (D)  DCBA 
+ 
+ 
+Q.12  Consider a complete binary tree where the left and the right subtrees of the root are max-heaps. The 
+lower bound for the number of operations to convert the tree to a heap is  
+(A) Ω(log 𝑛𝑛) (B) Ω(𝑛𝑛) (C)  Ω(𝑛𝑛 log 𝑛𝑛) (D)  Ω(𝑛𝑛2) 
+ 
+ 
+Q.13  A binary tree T has 20 leaves. The number of nodes in T having two children is _______. 
+ 
+ 
+Q.14  Consider the following C function.  
+ 
+int fun(int n){ 
+ int x=1,k; 
+ if (n==1) return x; 
+ for (k=1; k<n; ++k)  
+  x = x + fun(k) * fun(n-k); 
+ return x; 
+} 
+ 
+The return value of fun(5) is ________. 
+ 
+ 
+ 
+ 
+ 
+
+GATE 2015                                                       SET-2                                        COMPUTER –  CS 
+CS 3/12 
+Q.15  A software requirements specification (SRS) document should avoid discussing which one of the 
+following? 
+(A) User interface issues 
+(B) Non-functional requirements 
+(C) Design specification 
+(D) Interfaces with third party software 
+ 
+ 
+Q.16  Consider two decision problems 𝑄𝑄1, 𝑄𝑄2 such that 𝑄𝑄1 reduces in polynomial time to 3-SAT and      
+3-SAT reduces in polynomial time to 𝑄𝑄2. Then which one of the following is consistent with the 
+above statement? 
+(A) 𝑄𝑄1 is in NP, 𝑄𝑄2 is NP hard. 
+(B) 𝑄𝑄2 is in NP, 𝑄𝑄1 is NP hard. 
+(C) Both 𝑄𝑄1 and 𝑄𝑄2 are in NP . 
+(D) Both 𝑄𝑄1 and 𝑄𝑄2 are NP hard. 
+ 
+ 
+Q.17  Match the following: 
+ 
+P.   Lexical analysis 1. Graph coloring 
+Q.  Parsing 2. DFA minimization 
+R.  Register allocation 3. Post-order traversal 
+S.  Expression evaluation 4. Production tree 
+  
+ 
+(A)    P-2, Q-3, R-1, S-4 (B)    P-2, Q-1, R-4, S-3 
+(C)    P-2, Q-4, R-1, S-3 (D)    P-2, Q-3, R-4, S-1 
+ 
+ 
+ 
+Q.18  In the context of abstract -syntax-tree (AST) and control -flow-graph (CFG), which one of the 
+following is TRUE?  
+(A)   In both AST and CFG, let node N2 be the successor of node N1. In the input program, the code 
+        corresponding to N2 is present after the code corresponding to N1 
+(B)   For any input program, neither AST nor CFG will contain a cycle 
+(C)   The maximum number of successors of a node in an AST and a CFG depends on the input  
+        program 
+(D)   Each node in AST and CFG corresponds to at most one statement in the input program 
+ 
+ 
+ 
+Q.19  Consider the basic COCOMO model where E is the effort applied in person -months, D is the 
+development time in chronological months, KLOC  is the estimated number of delivered lines of 
+code (in thousands) and 𝑎𝑎𝑎𝑎 , 𝑎𝑎𝑎𝑎 , 𝑐𝑐𝑎𝑎 , 𝑑𝑑𝑎𝑎  have their usual meanings. The basic COCOMO equations 
+are of the form  
+(A) 𝐸𝐸 = 𝑎𝑎𝑎𝑎 (𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾) exp(𝑎𝑎𝑎𝑎 ) , 𝐷𝐷 = 𝑐𝑐𝑎𝑎 (𝐸𝐸) exp(𝑑𝑑𝑎𝑎 ) 
+(B) 𝐷𝐷 = 𝑎𝑎𝑎𝑎 (𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾) exp(𝑎𝑎𝑎𝑎 ) , 𝐸𝐸 = 𝑐𝑐𝑎𝑎 (𝐷𝐷) exp(𝑑𝑑𝑎𝑎 ) 
+(C) 𝐸𝐸 = 𝑎𝑎𝑎𝑎 exp(𝑎𝑎𝑎𝑎 ) , 𝐷𝐷 = 𝑐𝑐𝑎𝑎 (𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾) exp(𝑑𝑑𝑎𝑎 ) 
+(D) 𝐸𝐸 = 𝑎𝑎𝑎𝑎 exp(𝑑𝑑𝑎𝑎 ) , 𝐷𝐷 = 𝑐𝑐𝑎𝑎 (𝐾𝐾𝐾𝐾𝐾𝐾𝐾𝐾) exp(𝑎𝑎𝑎𝑎 ) 
+  
+ 
+Q.20  A system has 6 identical resources and N processes competing for th em. Each process can request 
+atmost 2 resources. Which one of the following values of N could lead to a deadlock?   
+(A) 1  (B) 2  (C) 3   (D) 4 
+
+GATE 2015                                                       SET-2                                        COMPUTER –  CS 
+CS 4/12 
+ 
+Q.21  Consider the following transaction involving two bank accounts x and y. 
+ 
+    read(x); x := x - 50; write(x); read(y); y:= y + 50; write(y) 
+ 
+The constraint that the sum of the accounts x and y should remain constant is that of  
+(A) Atomicity (B) Consistency 
+(C) Isolation (D) Durability 
+ 
+ 
+ 
+Q.22  With reference to the B+ t ree index of order 1 shown below, the minimum number of  nodes 
+(including the Root node) that  must be fetched in order to satisfy the following query: "Get all 
+records with a search key greater than or equal to 7 and less than 15" is ____________.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q.23  Identify the correct order in which a server process must invoke the function calls accept, 
+bind, listen, and recv according to UNIX socket API.  
+(A) listen, accept, bind, recv (B) bind, listen, accept, recv 
+(C) bind, accept, listen, recv (D) accept, listen, bind, recv 
+ 
+ 
+ 
+Q.24  A link has a transmission speed of 10 6 bits/sec.  It uses data packets of size 1000 bytes each.  
+Assume that the acknowledgment has negligible transmission delay, and that its propagation delay 
+is the same as the data propagation delay.  Also assume that the processing delays at nodes are 
+negligible. The efficiency of the stop -and-wait protocol in this setup is exactly 25%.  The value of 
+the one-way propagation delay (in milliseconds) is ____________.  
+ 
+Q.25  Which one of the following statements is NOT correct about HTTP cookies? 
+(A) A cookie is a piece of code that has the potential to compromise the security of an Internet user 
+(B) A cookie gains entry to the user’s work area through an HTTP header 
+(C) A cookie has an expiry date and time 
+(D) Cookies can be used to track the browsing pattern of a user at a particular site 
+ 
+ 
+ 
+ 
+ 
+9 
+5 13 17 
+1 3 5 7 9 11 13 15
+  
+17 
+
+GATE 2015                                                       SET-2                                        COMPUTER –  CS 
+CS 5/12 
+Q. 26 – Q. 55 carry two marks each. 
+ 
+Q.26  Consider the following routing table at an IP router: 
+ 
+Network No. Net Mask Next Hop 
+128.96.170.0 255.255.254.0 Interface 0 
+128.96.168.0 255.255.254.0 Interface 1 
+128.96.166.0 255.255.254.0 R2 
+128.96.164.0 255.255.252.0 R3 
+0.0.0.0 Default R4 
+ 
+For each IP address in Group I identify the correct choice of the next hop from Group II using the 
+entries from the routing table above.   
+ 
+Group I Group II 
+i)   128.96.171.92 a)  Interface 0 
+ii)  128.96.167.151 b)  Interface 1 
+iii) 128.96.163.151 c)  R2 
+iv) 128.96.165.121 d)  R3 
+ e)  R4 
+ 
+(A) i-a, ii-c, iii-e, iv-d (B) i-a, ii-d, iii-b, iv-e 
+(C) i-b, ii-c, iii-d, iv-e (D) i-b, ii-c, iii-e, iv-d 
+ 
+ 
+ 
+Q.27  Host A sends a UDP datagram containing 8880 bytes of user data to host B over an Ethernet LAN. 
+Ethernet frames may carry data up to 1500 bytes (i.e. MTU=1500 bytes). Size of UDP header is 8 
+bytes and size of IP header is 20 bytes. There is no option field in IP header. How many total 
+number of IP fragments will be transmitted and what will be the contents of offset field in the last 
+fragment?   
+(A) 6 and 925 
+(B) 6 and 7400 
+(C) 7 and 1110 
+(D) 7 and 8880 
+ 
+ 
+ 
+Q.28  Assume that the bandwidth for a TCP connection is 1048560 bits /sec. Let α be the value of RTT in 
+milliseconds (rounded off to the nearest integer) after which the TCP window scale option is 
+needed. Let β be the maximum possible window size with window scale option. Then the values of 
+α and β are 
+(A) 63 milliseconds, 65535 x 214 
+(B) 63 milliseconds, 65535 x 216 
+(C) 500 milliseconds,  65535 x 214 
+(D) 500 milliseconds, 65535 x 216 
+ 
+ 
+ 
+ 
+
+GATE 2015                                                       SET-2                                        COMPUTER –  CS 
+CS 6/12 
+Q.29  Consider a simple checkpointing protocol and the following set of operations in the log. 
+ 
+    (start, T4); (write, T4, y, 2, 3); (start, T1); (commit, T4); (write, T1, z, 5, 7); 
+    (checkpoint); 
+    (start, T2); (write, T2, x, 1, 9); (commit, T2); (start, T3), (write, T3, z, 7, 2); 
+ 
+If a crash happens now and the system tries to recover using both undo and redo operations, what 
+are the contents of the undo list and the redo list?  
+(A) Undo: T3, T1; Redo: T2 (B) Undo: T3, T1; Redo: T2, T4 
+(C) Undo: none; Redo: T2, T4, T3, T1 (D) Undo: T3, T1, T4; Redo: T2 
+ 
+ 
+Q.30  Consider two relations R1(A,B) with the tuples (1,5), (3,7) and R2(A,C) = (1,7), (4,9). Assume that 
+R(A,B,C) is the full natural outer join of  R1 and R 2. Consider the following tuples of the form 
+(A,B,C): a = (1,5,null), b = (1,null,7), c = (3, null, 9), d = (4,7,null), e = (1,5,7),  f = (3,7,null), g = 
+(4,null,9). Which one of the following statements is correct?  
+(A) R contains a, b, e, f, g but not c, d. 
+(B) R contains all of a, b, c, d, e, f, g. 
+(C) R contains e, f, g but not a, b. 
+(D) R contains e but not f, g. 
+ 
+ 
+Q.31  Consider six memory partitions of sizes 200 KB, 400 KB, 600 KB, 500 KB, 300 KB and 250 KB , 
+where KB refers to kilobyte. These partitions need to be allotted to four processes of sizes 357 KB, 
+210 KB, 468 KB and 491 KB in that order. If the best fit  algorithm is used, which partitions are 
+NOT allotted to any process?   
+(A) 200 KB and 300 KB (B) 200 KB and 250 KB 
+(C) 250 KB and 300 KB (D) 300 KB and 400 KB 
+ 
+     
+Q.32  Consider a typical disk that rotates at 15000 rotations per minute (RPM)  and has a transfer rate of 
+50×106 bytes/sec. If the average seek time of the disk is twice the average rotational delay and the 
+controller’s transfer time is 10 times the disk transfer time, the average time (in milliseconds) to 
+read or write a 512-byte sector of the disk is _________________.   
+ 
+ 
+Q.33  A computer system implements 8 kilobyte pages and a 32 -bit physical address space. Each page 
+table entry contains a valid bit, a dirty bit, three permission bits, and the translation. If the 
+maximum size of the page table of a process is 24 megabytes, the length of the virtual address 
+supported by the system is _______________ bits.  
+ 
+
+GATE 2015                                                       SET-2                                        COMPUTER –  CS 
+CS 7/12 
+Q.34  Consider the intermediate code given below. 
+  
+(1) i = 1 
+(2) j = 1 
+(3) t1 = 5 ∗ i 
+(4) t2 = t1 + j 
+(5) t3 = 4 ∗ t2 
+(6) t4 = t3 
+(7) a[t4] = -1 
+(8) j = j + 1 
+(9) if j<=5 goto (3) 
+(10) i=i+1 
+(11) if i<5 goto (2) 
+ 
+The number of nodes and edges in the control -flow-graph constructed for the above code, 
+respectively, are  
+ 
+(A)   5 and 7 (B)   6 and 7  (C)   5 and 5   (D)  7 and 8   
+ 
+ 
+ 
+Q.35  The number of states in the minimal deterministic finite automaton corresponding to the regular 
+expression  (0 + 1)∗(10) is __________.  
+ 
+ 
+Q.36  Which of the following languages is/are regular? 
+ 
+L1: {wxwR| w, x ϵ {a, b}* and |w|, |x| > 0}, wR is the reverse of string w 
+L2: {anbm | m ≠ n and m, n ≥ 0} 
+L3: {apbqcr | p, q, r ≥ 0} 
+(A) L1 and L3 only (B)  L2 only (C)  L2 and L3 only (D)  L3 only 
+ 
+ 
+ 
+Q.37  Given below are some algorithms, and some algorithm design paradigms. 
+ 
+ 
+1. Dijkstra’s Shortest Path i. Divide and Conquer 
+2. Floyd-Warshall algorithm to compute all 
+    pairs shortest path 
+ii. Dynamic Programming 
+ 
+3. Binary search on a sorted array iii. Greedy design 
+4. Backtracking search on a graph iv. Depth-first search 
+ v. Breadth-first search 
+ 
+Match the above algorithms on the left to the corresponding design paradigm they follow. 
+(A) 1-i,   2-iii, 3-i,  4-v.   
+(B) 1-iii, 2-iii, 3-i,  4-v.  
+(C) 1-iii, 2-ii,  3-i,  4-iv.  
+(D) 1-iii, 2-ii, 3-i, 4-v. 
+ 
+ 
+
+GATE 2015                                                       SET-2                                        COMPUTER –  CS 
+CS 8/12 
+Q.38  A Young tableau is a 2D array of integers increasing from left to right and from top to bottom. Any 
+unfilled entries are marked with ∞, and hence there cannot be any en try to the right of, or below a  
+∞. The following Young tableau consists of unique entries.  
+ 
+1 2 5 14 
+3 4 6 23 
+10 12 18 25 
+31 ∞ ∞ ∞ 
+ 
+When an element is removed from a Young tableau, other elements should be moved into its place 
+so that the resulting table is still a Young tableau (unfilled entries may be filled in with a ∞).  The 
+minimum number of entries (other than 1) to be shifted, t o remove 1 from the given Young tableau 
+is ______________.  
+ 
+ 
+Q.39  Suppose you are provided with the following function declaration in the C programming language.  
+ 
+int partition(int a[], int n); 
+ 
+The function treats the first element of a[] as a pivot, and rearranges the array so that all elements 
+less than or equal to the pivot is in the left part of the array, and all elements greater than the pivot 
+is in the right part. In addition, it moves the pivot so that the pivot is the last element of the left part. 
+The return value is the number of elements in the left part. 
+ 
+The following partially given function in the C programming language is used to find the 𝑘𝑘𝑡𝑡ℎ  
+smallest element in an array a[] of size n using the partition function. We assume 𝑘𝑘 ≤ 𝑛𝑛. 
+ 
+int kth_smallest(int a[], int n, int k) 
+{  
+       int left_end = partition(a,n); 
+    
+   if ( left_end+1 == k ){ 
+       return a[left_end]; 
+   } 
+ 
+   if ( left_end+1 > k ){ 
+       return kth_smallest( _____________________ ); 
+   } else { 
+       return kth_smallest( _____________________ ); 
+   } 
+} 
+ 
+The missing argument lists are respectively 
+ 
+(A)  (a, left_end, k) and  (a+left_end+1, n-left_end-1, k-left_end-1) 
+(B)  (a, left_end, k) and  (a, n-left_end-1, k-left_end-1) 
+(C)  (a+left_end+1, n-left_end-1, k-left_end-1) and (a, left_end, k)  
+(D)  (a, n-left_end-1, k-left_end-1) and (a, left_end, k) 
+ 
+ 
+Q.40  Which one of the following hash functions on integers will distribute keys most uniformly over 10 
+buckets numbered 0 to 9 for 𝑖𝑖 ranging from 0 to 2020?  
+(A) ℎ(𝑖𝑖) =  𝑖𝑖2 mod 10 
+(B) ℎ(𝑖𝑖) =  𝑖𝑖3 mod 10 
+(C) ℎ(𝑖𝑖) = (11 ∗ 𝑖𝑖2) mod 10 
+(D) ℎ(𝑖𝑖) = (12 ∗ 𝑖𝑖) mod 10 
+
+GATE 2015                                                       SET-2                                        COMPUTER –  CS 
+CS 9/12 
+ 
+Q.41  The secant method is used to find the root of an equation f(x)  = 0. It is started from two distinct 
+estimates xa and xb for the root. It is an iterative procedure involving linear interpolation to a root. 
+The iteration stops if f(xb) is very small and then xb is the solution. The procedure is given below. 
+Observe that there is an expression which is missing and is marked by  ?. Which is the suitable 
+expression that is to be put in place of ? so that it follows all steps of the secant method? 
+ 
+     Secant 
+       Initialize: xa, xb, ε, N      // ε = convergence indicator  
+                                // N = maximum no. of iterations  
+        fb = f(xb)            
+        i = 0 
+        while (i < N and  |fb| >  ε) do     
+             i = i + 1            // update counter 
+             xt = ?               // missing expression for 
+                                  // intermediate value  
+             xa = xb              // reset xa 
+             xb = xt             //  reset xb 
+             fb = f(xb)          // function value at new xb 
+        end while 
+        if  |fb| >  ε then       // loop is terminated with i=N 
+             write “Non-convergence” 
+        else 
+              write “return xb” 
+        end if 
+ 
+(A) xb – (fb–f(xa))fb /(xb–xa) 
+(B) xa – (fa–f(xa))fa /(xb–xa) 
+(C) xb – (xb–xa)fb /(fb–f(xa)) 
+(D) xa – (xb–xa) fa /(fb–f(xa)) 
+ 
+ 
+
+GATE 2015                                                       SET-2                                        COMPUTER –  CS 
+CS 10/12 
+Q.42  Consider the C program below. 
+ 
+#include <stdio.h> 
+int *A, stkTop; 
+ 
+int stkFunc(int opcode, int val)  
+{ 
+ static int size=0, stkTop=0; 
+ 
+ switch (opcode) { 
+   case -1: size = val; break; 
+  case  0: if (stkTop < size) A[stkTop++] = val; break; 
+  default: if (stkTop) return A[--stkTop]; 
+ } 
+ return -1; 
+} 
+ 
+int main()  
+{ 
+ int B[20]; A = B; stkTop = -1; 
+ 
+ stkFunc (-1, 10); 
+ stkFunc ( 0, 5); 
+ stkFunc ( 0, 10); 
+ printf ("%d\n", stkFunc(1, 0) + stkFunc(1, 0)); 
+} 
+ 
+The value printed by the above program is __________. 
+ 
+ 
+ 
+ 
+Q.43  Consider the sequence of machine instructions given below: 
+  
+MUL R5, R0, R1 
+DIV R6, R2, R3 
+ADD R7, R5, R6 
+SUB R8, R7, R4 
+  
+In the above sequence, R0 to R8 are general purpose registers. In the instructions shown, the first 
+register stores the result of the operation performed on the second and the third register s. This 
+sequence of instructions is to be executed in a pipelined instruction processor with the following 4 
+stages: (1) Instruction Fetch and Decode (IF), (2) Operand Fetch (OF), (3) Perform Operatio n (PO) 
+and (4) Write  back the result (WB). The IF, OF and WB stages take 1 clock cycle each for any 
+instruction. The PO stage takes 1 clock cycle for ADD or SUB instruction, 3 clock cycles for MUL 
+instruction and 5 clock cycles for DIV instruction. The pip elined processor uses operand 
+forwarding from the PO stage to the OF stage. The number of clock cycles taken for the execution 
+of the above sequence of instructions is ___________. 
+ 
+ 
+
+GATE 2015                                                       SET-2                                        COMPUTER –  CS 
+CS 11/12 
+Q.44  Consider a processor with byte -addressable memory. Assume that all registers, including Program 
+Counter (PC) and  Program Status Word (PSW),  are of size 2 bytes. A stack in the main memory is 
+implemented from memory location (0100)16 and it grows upward. The stack pointer (SP) points to 
+the top element of the stack. The current value of SP is (016E) 16. The CALL instruction is of two 
+words, the first word is the op- code and the second word is the starting address of the subroutine  
+(one word = 2 bytes). The CALL instruction is implemented as follows: 
+ 
+• Store the current value of PC in the stack 
+• Store the value of  PSW register in the stack 
+• Load the starting address of the subroutine in PC 
+ 
+The content of PC just before the fetch of a CALL instruction is (5FA0) 16. After execution of the 
+CALL instruction, the value of the stack pointer is  
+(A)  (016A) 16 (B)  (016C) 16 (C)  (0170) 16 (D)  (0172) 16 
+ 
+ 
+ 
+Q.45  The number of min-terms after minimizing the following Boolean expression is _________.   
+ 
+[𝐷𝐷′ + 𝐴𝐴𝐵𝐵′ + 𝐴𝐴′ 𝐾𝐾 + 𝐴𝐴𝐾𝐾′ 𝐷𝐷 +  𝐴𝐴′𝐾𝐾′𝐷𝐷]′ 
+      
+Q.46  Let 𝑓𝑓(𝑥𝑥) = 𝑥𝑥−(1/3) and 𝐴𝐴 denote the area of the region bounded by 𝑓𝑓(𝑥𝑥) and the X-axis, when 𝑥𝑥 
+varies from −1 to 1. Which of the following statements is/are TRUE?   
+ 
+I) 𝑓𝑓 is continuous in [−1, 1] 
+II) 𝑓𝑓 is not bounded in [−1, 1] 
+III) 𝐴𝐴 is nonzero and finite 
+(A) II only (B) III only 
+(C) II and III only (D) I, II and III 
+ 
+ 
+ 
+ 
+Q.47  
+ Perform the following operations on the matrix 
+3 4 45
+7 9 105
+13 2 195
+
+
+
+
+.  
+(i)   Add the third row to the second row 
+(ii)  Subtract the third column from the first column. 
+ 
+The determinant of the resultant matrix is___________. 
+ 
+ 
+ 
+Q.48  The number of onto functions (surjective functions) from set 𝑋𝑋 = {1, 2, 3, 4} to set 𝑌𝑌 = {𝑎𝑎, 𝑎𝑎, 𝑐𝑐} is 
+__________. 
+ 
+ 
+Q.49  Let  𝑋𝑋 and 𝑌𝑌 denote the sets containing 2 and 20 distinct objects respectively and 𝐹𝐹denote the set of 
+all possible functions defined from 𝑋𝑋 to 𝑌𝑌. Let 𝑓𝑓  be randomly chosen from 𝐹𝐹. The probability of 𝑓𝑓 
+being one-to-one is ________.   
+ 
+ 
+
+GATE 2015                                                       SET-2                                        COMPUTER –  CS 
+CS 12/12 
+Q.50  Consider the alphabet ∑ = {0, 1}, the null/empty string 𝜆𝜆 and the sets of strings X 0, X1, and X 2 
+generated by the corresponding non-terminals of a regular grammar. X 0, X1, and X2  are related as 
+follows. 
+  
+X0 = 1 X1 
+X1 = 0 X1 + 1 X2 
+X2 = 0 X1 + {𝜆𝜆} 
+ 
+Which one of the following choices precisely represents the strings in X0? 
+(A) 10(0* + (10)*)1 (B) 10(0* + (10)*)*1 
+(C) 1(0 + 10)*1 (D) 10(0 + 10)*1 + 110(0 + 10)*1 
+ 
+ 
+Q.51  A graph is self-complementary if it is isomorphic to its complement.  For all self-complementary 
+graphs on 𝑛𝑛 vertices, 𝑛𝑛  is   
+ 
+(A)  A multiple of 4 
+(B)  Even 
+(C)  Odd 
+(D)  Congruent to 0 𝑚𝑚𝑚𝑚𝑑𝑑 4, or, 1 𝑚𝑚𝑚𝑚𝑑𝑑 4. 
+ 
+ 
+Q.52  In a connected graph, a bridge is an edge whose removal disconnects a graph. Which one of the 
+following statements is true?  
+(A) A tree has no bridges 
+(B) A bridge cannot be part of a simple cycle 
+(C) Every edge of a clique with size ≥ 3 is a bridge (A clique is any complete subgraph of a graph) 
+(D) A graph with bridges cannot have a cycle 
+ 
+   
+Q.53  Which one of the following well formed formulae is a tautology? 
+(A) ∀𝑥𝑥 ∃𝑦𝑦 𝑅𝑅(𝑥𝑥, 𝑦𝑦) ↔  ∃𝑦𝑦 ∀𝑥𝑥 𝑅𝑅(𝑥𝑥, 𝑦𝑦) 
+(B) (∀𝑥𝑥 [∃𝑦𝑦 𝑅𝑅(𝑥𝑥, 𝑦𝑦) → 𝑆𝑆(𝑥𝑥, 𝑦𝑦)]) →  ∀𝑥𝑥∃𝑦𝑦 𝑆𝑆(𝑥𝑥, 𝑦𝑦) 
+(C) [∀𝑥𝑥 ∃𝑦𝑦 (𝑃𝑃(𝑥𝑥, 𝑦𝑦) → 𝑅𝑅(𝑥𝑥, 𝑦𝑦)] ↔ [∀𝑥𝑥 ∃𝑦𝑦 (¬ 𝑃𝑃(𝑥𝑥, 𝑦𝑦) ∨ 𝑅𝑅(𝑥𝑥, 𝑦𝑦)] 
+(D) ∀𝑥𝑥 ∀𝑦𝑦 𝑃𝑃(𝑥𝑥, 𝑦𝑦) →   ∀𝑥𝑥 ∀𝑦𝑦 𝑃𝑃(𝑦𝑦, 𝑥𝑥) 
+ 
+ 
+Q.54  Which one of the following assertions concerning code inspection and code walkthrough is true? 
+(A) Code inspection is carried out once the code has been unit tested 
+(B) Code inspection and code walkthrough are synonyms 
+(C) Adherence to coding standards is checked during code inspection 
+(D) Code walkthrough is usually carried out by an independent test team 
+ 
+ 
+Q.55  A half adder is implemented with XOR and AND gates. A full adder is implemented with two half 
+adders and one OR gate. The propagation delay of an XOR gate is twice that of an AND/OR gate. 
+The propagation delay of an AND/OR gate is 1.2 microseconds. A 4-bit ripple-carry binary adder is 
+implemented by using four full adders. The total propagation time of this 4- bit binary adder in 
+microseconds is____________. 
+ 
+ 
+ 
+END OF THE QUESTION PAPER 
