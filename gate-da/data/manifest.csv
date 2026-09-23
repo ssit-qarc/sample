@@ -1,0 +1,3 @@
+file,paper,year,set,kind,bytes,sha256,is_pdf,pages,text_chars,questions,problem,source_url,key_status,notes
+DA/2026/DA_2026_KEY.pdf,DA,2026,,KEY,516882,f94cf2caf46e84cd06cc1591f375403b04466f8fa71e64ca87b49804d1e8dceb,True,2,1463,65 (1-65),,https://gate2026.iitg.ac.in/doc/download/2026/Keys/DA_Keys.pdf,final,official IIT Guwahati; PDF created 2026-03-07 after the Feb 25-28 challenge window
+DA/2026/DA_2026_QP.pdf,DA,2026,,QP,2116753,4adb2f713433ec93748ff96bc04891dc10d877e8e4fb5fe7797e36ba87f298f3,True,39,30322,65 (1-65),,https://gate2026.iitg.ac.in/doc/download/2026/QPs/DA.pdf,n/a,official IIT Guwahati

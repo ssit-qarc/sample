@@ -1,0 +1,1140 @@
+Data Science & Artificial Intelligence (DA) 
+General Aptitude (GA)
+Q.1 – Q.5 Carry ONE mark Each 
+Q. 1 
+ 
+Verbosity : Brevity :: Insolence :___________ 
+Choose the word that best fills the blank.  
+  
+(A) Innocence 
+(B) Respect 
+(C) Solace 
+(D) Wealth 
+  
+Q.2 The product of the digits of a three-digit number is 70. The sum of the digits of 
+this three-digit number is _____ 
+  
+(A) 12 
+(B) 14 
+(C) 16 
+(D) 18 
+  
+  
+Organizing Institute: IIT Guwahati
+Page 1 of 39
+
+Data Science & Artificial Intelligence (DA) 
+Q.3 The four pieces of a puzzle are shown in the figure below.  
+              
+Which one of the figures labelled as P, Q, R, and S can be constructed by using 
+each of the four pieces only once without overlaps?  
+ 
+P 
+ 
+R 
+ 
+Q 
+ 
+S 
+   
+(A) P 
+(B) Q 
+(C) R 
+(D) S 
+  
+Organizing Institute: IIT Guwahati
+Page 2 of 39
+Data Science & Artificial Intelligence (DA) 
+Q.4 Consider two distinct positive real numbers 𝑚, 𝑛, with 𝑚 > 𝑛.  
+Let 𝑥 = 𝑛log10(𝑚) and 𝑦 = 𝑚log10(𝑛). The relation between 𝑥 and 𝑦 is _______. 
+  
+(A) 𝑥 > 𝑦 
+(B) 𝑥 < 𝑦 
+(C) 𝑥 = 𝑦 
+(D) 𝑥 = log10(𝑦) 
+  
+ 
+Q.5 ‘If his latest movie had been a commercial success, the actor would have made 
+enough money to sponsor his next movie.’ 
+Based only on the above sentence, which one of the following statements is true? 
+  
+(A) The actor will certainly sponsor his next movie. 
+(B) His latest movie was a commercial success. 
+(C) The actor made enough money from his latest movie. 
+(D) His latest movie was not commercially successful. 
+  
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 3 of 39
+Data Science & Artificial Intelligence (DA) 
+ 
+Q.6 – Q.10 Carry TWO marks Each 
+Q.6 
+ 
+‘My friend and I parted __ the door __ the cabin that I had rented __ the night.’ 
+Choose the option with the correct sequence of words to fill the blanks. 
+  
+(A) at; of; for 
+(B) for; at; of 
+(C) of; for; in 
+(D) in; of; for 
+  
+Q.7 Five integers are picked from 0 to 20, with possible repetitions, such that their 
+mean is 12, median is 18, and they have a single mode of 20.  
+Ignoring permutations, the number of ways to pick these five integers is _____ 
+  
+(A) 0 
+(B) 1 
+(C) 2 
+(D) 3 
+  
+  
+Organizing Institute: IIT Guwahati
+Page 4 of 39
+Data Science & Artificial Intelligence (DA) 
+Q.8 Rishi and Swathi are students of Class 5. Pavan and Tanvi are students of Class 4. 
+Rishi and Pavan are boys. Swathi and Tanvi are girls. The four students played a 
+total of three games of chess. The games were played one after another. A player 
+who lost a game did not participate in any more games. It was observed that: 
+(i) the first game was the only game where two students of the same class 
+played against each other, 
+(ii) the students of Class 5 won more games than the students of Class 4, 
+and 
+(iii) the boys won two games and the girls won one game. 
+The student who did not lose any game is __________. 
+  
+(A) Pavan 
+(B) Rishi 
+(C) Swathi 
+(D) Tanvi 
+  
+ 
+ 
+  
+Organizing Institute: IIT Guwahati
+Page 5 of 39
+Data Science & Artificial Intelligence (DA) 
+Q.9 𝑃, 𝑄, 𝑅, 𝑆, 𝑋, and 𝑌 are distinct single-digit whole numbers taking values from 
+0 to 9.  
+𝑃𝑄 is a two-digit number with 𝑄 being in the units place and 𝑃 in the tens place. 
+Similarly, 𝑅𝑆 is a two-digit number.  
+It is known that 𝑃𝑄 and 𝑅𝑆 are consecutive numbers and 
+(𝑃𝑄)2 + (𝑅𝑆)2 = 𝑋𝑌𝑃, with 𝑋𝑌𝑃 being a three-digit number. 
+The value of 𝑌 is __________ 
+  
+(A) 4 
+(B) 5 
+(C) 6 
+(D) 7 
+  
+ 
+ 
+ 
+  
+Organizing Institute: IIT Guwahati
+Page 6 of 39
+Data Science & Artificial Intelligence (DA) 
+ 
+Q.10 In the given figure, 𝑃, 𝑄, and 𝑅 are three points on a circle of radius 10 cm  
+with 𝑂 as its center, 𝑃𝑄̅̅̅̅ = 𝑅𝑄̅̅̅̅, and ∠𝑃𝑄𝑅 = 45°. The figure is representative. 
+The area of the shaded region 𝑃𝑄𝑅𝑂 is ______________ cm2. 
+ 
+  
+(A) 50 
+(B) 25√2 
+(C) 50√2 
+(D) 100 
+  
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 7 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.11 – Q.35 Carry ONE mark Each 
+Q.11 For a classification problem, Principal Component Analysis (PCA) has been used 
+to reduce the dimensionality of a feature space from 100 to 10.  
+Which of the following options is true about the angle 𝜃 between the first and the 
+tenth principal components? 
+  
+(A) 𝜃 =  0°  
+(B) 𝜃 =  90°  
+(C) 90° <  𝜃  ≤  180°  
+(D) 0 <  𝜃 <  90°  
+  
+Q.12 Consider that you are training a classifier for a 10-class classification problem. 
+Each input is represented as a 512-dimensional vector. There are 1000 samples, 
+out of which first 100 will be used for testing. Let Leave-One-Out-Cross-
+Validation (LOOCV) be used for selection of the classifier model before testing.  
+Which of the following options is the correct number of validation splits that will 
+be generated?   
+   
+(A) 10 
+(B) 512 
+(C) 900 
+(D) 1000 
+  
+Organizing Institute: IIT Guwahati
+Page 8 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.13 Which of the following algorithms is NOT an example of uninformed search? 
+  
+(A) Breadth First Search 
+(B) Depth First Search 
+(C) A* Search 
+(D) Depth-limited Search 
+  
+Q.14 Which of the following statements is NOT true?  
+(The names of the predicates are intuitive.) 
+  
+(A) ∀𝑥 ∀𝑦 𝐶𝑙𝑎𝑠𝑠𝑚𝑎𝑡𝑒(𝑥, 𝑦) ⇒ 𝐶𝑙𝑎𝑠𝑠𝑚𝑎𝑡𝑒(𝑦, 𝑥)   
+(B) ∀𝑥 𝐿𝑖𝑘𝑒𝑠(𝑥, 𝐼𝑐𝑒𝑐𝑟𝑒𝑎𝑚)  ⇒  ¬∃𝑥 ¬𝐿𝑖𝑘𝑒𝑠(𝑥, 𝐼𝑐𝑒𝑐𝑟𝑒𝑎𝑚)  
+(C) “Each king is a person” is equivalent to ∀𝑥 𝐼𝑠𝐾𝑖𝑛𝑔(𝑥) ⋀  𝐼𝑠𝑃𝑒𝑟𝑠𝑜𝑛(𝑥)  
+(D) “All humans are mortal” is equivalent to ∀𝑥 𝐼𝑠𝐻𝑢𝑚𝑎𝑛(𝑥) ⇒ 𝐼𝑠𝑀𝑜𝑟𝑡𝑎𝑙(𝑥)  
+  
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 9 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.15 Consider that the quick sort algorithm is used to sort an array of n distinct 
+randomly ordered elements. In every call, the pivot is chosen as the first element 
+of the current subarray. 
+Let 𝑇(𝑛) denote the expected time to sort the array. Assume that the time to 
+partition is linear in the size of the current subarray.  
+Which of the following recurrence relations correctly represents 𝑇(𝑛) in this 
+scenario? 
+  
+(A) 𝑇(𝑛) = 𝑇(1) + 𝑇(𝑛 − 1) + 𝑂(𝑛)  
+(B) 𝑇(𝑛) = 𝑇 (
+𝑛
+4) + 𝑇 (
+3𝑛
+4 ) + 𝑂(𝑛)  
+(C) 𝑇(𝑛) = 2𝑇 (
+𝑛
+2) + 𝑂(𝑛)  
+(D) 𝑇(𝑛) =
+1
+𝑛 ∑ [𝑇(𝑘) + 𝑇(𝑛 − 𝑘 − 1)]𝑛−1
+𝑘=0 + 𝑂(𝑛)  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 10 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.16 Consider the given Python program.  
+def append_to_lst(val, lst=[]): 
+ lst.append(val) 
+ return lst 
+print(append_to_lst(1)) 
+print(append_to_lst(2)) 
+print(append_to_lst(3, [])) 
+Which of the following is the correct output of this program? 
+  
+(A)  
+[1] 
+[2] 
+[3] 
+ 
+(B)  
+[1] 
+[1, 2] 
+[3]  
+ 
+(C)  
+[1] 
+[2] 
+[1, 2, 3] 
+ 
+(D)  
+[1] 
+[1, 2] 
+[1, 3] 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 11 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.17 Let R(A,B,C,D,E) be a relational schema with functional dependency set 
+F={ABC, CDE, EA}.  
+Which of the following statements is correct?   
+  
+(A) AD, ED and CD are the only candidate keys of R. 
+(B) AD and ED are the only candidate keys of R. 
+(C) A, E and CD are the only candidate keys of R. 
+(D) A and CD are the only candidate keys of R. 
+  
+Q.18 Consider that the visualization of a 3-dimensional data cube is showing Sales 
+Quantity for each combination of the attributes Product Type, Month and Country.  
+From this, if we want to further visualize the Sales Quantity for each combination 
+of Product Type, Month and State, which of the following OLAP operations 
+should be performed? 
+  
+(A) Slicing 
+(B) Dicing 
+(C) Roll-up 
+(D) Drill-down 
+  
+Organizing Institute: IIT Guwahati
+Page 12 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.19 Let 𝑀 be a randomly chosen non-empty subset of 𝑆 = {1,2,3, … ,2026}.  
+Which of the following is the probability that the product of all the elements of 𝑀 
+is even? 
+  
+(A) 21013(21013 − 1)/22026  
+(B) 21013/22026  
+(C) 21013(21013 − 1)/(22026 − 1)  
+(D) 1/(22026 − 1)  
+  
+Q.20 Suppose that a computer program provides a non-negative and integer-valued 
+random solution to the equation 𝑛1 + 𝑛2 + 𝑛3 + 𝑛4 = 20.  
+Which of the following is the probability that all of 𝑛1, 𝑛2, 𝑛3, 𝑛4 in the provided 
+solution are positive?  
+  
+(A) (19
+3 )/(23
+3 )  
+(B) (20
+4 )/(24
+4 )  
+(C) (20
+3 )/(23
+3 )  
+(D) (19
+4 )/(24
+4 )   
+  
+Organizing Institute: IIT Guwahati
+Page 13 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.21 Let 𝑀 = (𝑐𝑜𝑠 𝜃 − 𝑠𝑖𝑛 𝜃
+𝑠𝑖𝑛 𝜃    𝑐𝑜𝑠 𝜃)   be a 2 × 2 matrix, where 𝜃 =
+2π
+5  , and 
+𝐼2 = (1 0
+0 1).    
+Which of the following options is equal to 𝑀2026 ?  
+  
+(A) 𝑀2  
+(B) 𝑀  
+(C) 𝑀−1  
+(D) 𝐼2  
+  
+Q.22 Consider a set 𝑆1 = {𝑥 = (𝑥1, 𝑥2, 𝑥3)𝑇 ∈ ℝ3 | 𝑥𝑇𝑥 ≤ 16}. Let 𝑆2 be another set 
+which is a subspace of ℝ3 with dimension two.  
+Which of the following gives the area of 𝑆1 ∩ 𝑆2? 
+  
+(A) 16𝜋  
+(B) 4𝜋  
+(C) 4𝜋2  
+(D) 16𝜋2  
+  
+Organizing Institute: IIT Guwahati
+Page 14 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.23 In the following table, the Task column lists a few tasks related to machine 
+learning. The Algorithm column lists a few algorithms.  
+Each entry “t” from the Task column is to be matched with an appropriate entry 
+“a” from the Algorithm column such that the task “t” can be solved using the 
+algorithm “a”. Denote such a match as t:a  
+Task Algorithm 
+T1 – Clustering A1 – Markov Chain Monte Carlo 
+T2 – Classification A2 – K-Medoid 
+T3 – Sampling A3 – Linear Discriminant Analysis 
+T4 – Feature Extraction A4 – Naive Bayes 
+Which of the following options is/are the correct matching(s)? 
+  
+(A) T1:A4, T2:A3, T3:A1, T4:A2 
+(B) T1:A2, T2:A4, T3:A1, T4:A3 
+(C) T1:A3, T2:A4, T3:A1, T4:A2 
+(D) T1:A4, T2:A2, T3:A1, T4:A3 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 15 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.24 Sentence 𝑋 is said to entail Sentence 𝑌 if whenever 𝑋 is 𝑇𝑅𝑈𝐸, 𝑌 also must hold 
+𝑇𝑅𝑈𝐸.  
+Which of the following statements is/are correct if 𝑋 entails 𝑌?  
+  
+(A) 𝑋 ⇒ 𝑌  
+(B) 𝑋 ⋀¬𝑌 is 𝐹𝐴𝐿𝑆𝐸 
+(C) if 𝑋 then 𝑌 
+(D) if 𝑌 then 𝑋 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 16 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.25 You are given the following Pre-order and In-order traversals of a Binary Tree T 
+with nodes E, F, G, P, Q, R, S. 
+Pre-order: P Q S E R F G 
+In-order: S Q E P F R G 
+Which of the following statements is/are true about the Binary Tree T?  
+  
+(A) Node P is the root of T 
+(B) The Post-order traversal of T is: 
+ S E Q F G R P 
+(C) Node Q has only one child 
+(D) The left subtree of node R contains the node G 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 17 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.26 Consider two relations r and s defined on the relational schemas R(A,B) and 
+S(E,C), respectively. A is the primary key of R and E is a foreign key of S 
+referencing A in R.  
+Which of the following operations will NEVER violate the foreign key 
+constraint? 
+  
+(A) Inserting records into relation r 
+(B) Deleting records from relation s 
+(C) Deleting records from relation r 
+(D) Inserting records into relation s 
+  
+Q.27 Let 𝑓(𝑥) = 𝑥3 − 3𝑥2 + 2  be a function defined on (−1, 3].   
+Which of the following statements is/are correct? 
+  
+(A) 𝑓(𝑥) has exactly two roots in [−0.9, 0]. 
+(B) 𝑓(𝑥) has a minimum at 2 only. 
+(C) 𝑓(𝑥) has maximum at 0 only. 
+(D) 𝑓(𝑥) has a root at 1. 
+  
+ 
+Organizing Institute: IIT Guwahati
+Page 18 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.28 Suppose a random variable 𝑍 follows 𝑁𝑜𝑟𝑚𝑎𝑙(𝜇 = 0, 𝜎2 = 1) distribution with 
+probability density function 𝑔(𝑧) and cumulative distribution function 𝐺(𝑧). 
+Another random variable 𝑌 follows 𝑡1 distribution with probability density 
+function ℎ(𝑦) and cumulative distribution function 𝐻(𝑦). Let 𝑐 be the positive 
+real number for which 𝑔(𝑐) = ℎ(𝑐).  
+Which of the following statements is/are correct?   
+  
+(A) 𝐺(0) = 𝐻(0)  
+(B) 𝐺(𝑐) < 𝐻(𝑐)  
+(C) 𝐺(−𝑐) < 𝐻(−𝑐)  
+(D) 𝑔(0) = ℎ(0)  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 19 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.29 Consider that for a supervised learning task, the objective function being 
+minimized is 𝑓𝑤(𝑥) = 𝑤𝑥, where 𝑥 ∈ ℝ  is the input and 𝑤 ∈ ℝ is the parameter. 
+Stochastic Gradient Descent with learning rate of 0.10 is used for parameter 
+updates.  
+Suppose that at the end of iteration 𝑖, the value of 𝑤 becomes 10.00.  
+Let 𝑥 = 10.00 be the input for iteration (𝑖 + 1).  
+The value of 𝑤 at the end of iteration (𝑖 + 1) is __________ . (Rounded off to 
+two decimal places) 
+Q.30 Consider the game tree for a two-player turn-taking minimax game as shown in 
+the figure. The value of a terminal node represents the utility of the game state if 
+the game ends there. The numbers written next to the edges denote the strategies.  
+There are two players MAX and MIN. At any particular state of the game, MAX 
+prefers to move to a state of maximum value. On the other hand, MIN prefers to 
+move to a state of minimum value.  
+Suppose MAX starts the game at the root and has three strategies: 1, 2 and 3. 
+Next, MIN plays and also has three strategies: 1, 2 and 3. The game ends there. 
+Both players always take optimal strategies throughout the game.  
+At the root, the best strategy for MAX is ___________ . (Answer in integer) 
+ 
+Q.31 Let A be a sorted array containing 1000 distinct integers. You perform a recursive 
+binary search on A to find an element y. Suppose each comparison checks whether 
+the middle element computed during the current recursive step is equal to, less 
+than, or greater than y. 
+The maximum number of comparisons that may have to be performed if y is not 
+an element of A is _______ . (Answer in integer) 
+Organizing Institute: IIT Guwahati
+Page 20 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.32 In a relational database, a B+ Tree Index is to be constructed for a relation on a 
+key field. In a B+ Tree, a Node Pointer points to a sub-tree and a Data Record 
+Pointer points to a block of database records.  
+Let, Node size = 4096 bytes, Node Pointer size = 10 bytes, Search Key Field size 
+= 11 bytes and Data Record Pointer size = 12 bytes.  
+The maximum number of Node Pointers that can be present in a non-leaf node of 
+the B+ Tree is ________ . (Answer in integer) 
+Q.33 The number of bijections 𝑓(⋅) from the set  𝑆 =  {1, 2, 3, 4} to itself such that   
+𝑓(𝑓(𝑛)) = 𝑛, for all 𝑛 ∈  𝑆, is __________ . (Answer in integer) 
+Q.34 Let 𝑋 be an exponentially distributed random variable with mean  𝜆(> 0). If 
+𝑃(𝑋 > 5) = 0.35, then the conditional probability 𝑃(𝑋 > 10|𝑋 > 5) is 
+___________ . (Rounded off to two decimal places) 
+Q.35 The value of  ∑  ∞
+𝑖=0 ∑  2−𝑖 3−𝑗∞
+𝑗=1  is ______________ . (Answer in integer) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 21 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.36 – Q.65 Carry TWO marks Each 
+Q.36 Let four points in three-dimensional space be:  
+P1: [2, 3, −1], P2: [3, 1, 1], P3: [5, −2, 3] and P4: [3, 3, 3].  
+Hierarchical Agglomerative Clustering is used to cluster the above points. If 
+Manhattan Distance is used as the distance metric during clustering, which of the 
+following options indicates the two points that will be merged first?  
+  
+(A) 𝑃1, 𝑃2  
+(B) 𝑃2, 𝑃3  
+(C) 𝑃3, 𝑃4  
+(D) 𝑃2, 𝑃4  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 22 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.37 Which of the following statements is true for Ridge Regression? 
+  
+(A) The regularizer in the objective function of Ridge Regression is used to guard 
+against scenarios where the model works well for the test data, but poorly for the 
+training data. 
+(B) The regularizer of Ridge Regression uses 𝐿1 norm. 
+(C) Ridge Regression aims to reduce the number of parameters that have negative 
+values. 
+(D) The regularizer of Ridge Regression may increase the bias of the model, but it 
+helps in reducing the variance in predictions. 
+  
+Q.38 Assume that a Creative (𝐶) person will Succeed (𝑆) if the person is also 
+Disciplined (𝐷), but will not succeed otherwise. Now, consider the following 
+statements: 
+(i) 𝐶 ⋀  𝑆 ⇔ 𝐷 
+(ii) 𝐶 ⇒ (𝑆 ⟺ 𝐷) 
+(iii) 𝐶 ⇔ ((𝐷 ⇒ 𝑆) ∨  ¬𝑆) 
+Which of the following options is correct? 
+  
+(A) Both (i) and (ii) are TRUE  
+(B) Only (ii) is TRUE 
+(C) Both (ii) and (iii) are TRUE 
+(D) Only (iii) is TRUE 
+  
+Organizing Institute: IIT Guwahati
+Page 23 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.39 A recursive function in Python is given.  
+def mystery(n): 
+ if n <= 0: 
+  return 1 
+ else: 
+  return mystery(n-1) + mystery(n-2) 
+ Now, consider the following function call: 
+ mystery(4) 
+Assume that a typical runtime stack is used to manage function calls. Each 
+function call is pushed onto the stack and removed only after it finishes execution.  
+ 
+Which of the following options denotes the total number of function calls (i.e., the 
+total number of stack activations), including the initial call, to compute 
+mystery(4)?  
+ 
+  
+(A) 5 
+(B) 9 
+(C) 15 
+(D) 17 
+  
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 24 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.40 Consider a directed graph 𝐺 = (𝑉, 𝐸), where 𝑉 is the finite set of vertices and 𝐸 is 
+the set of directed edges between the vertices. 𝐺 may contain cycles but there is no 
+self-loop. Further, 𝐺 may not be strongly connected.  
+Let 𝐺𝑅 be the graph obtained by reversing the directions of all the edges in 𝐺 
+without changing the set of vertices.  
+Assume that Breadth First Search (BFS) or Depth First Search (DFS) from any 
+given vertex 𝑣 of a graph visits only the reachable vertices from 𝑣 in that graph.   
+Which of the following statements must always be true, regardless of the structure 
+of 𝐺?  
+  
+(A) If 𝑢 is a reachable vertex in the BFS of 𝐺𝑅 from 𝑣, then 𝑢 is also a reachable 
+vertex in the DFS of 𝐺 from 𝑣. 
+(B) In 𝐺𝑅, the BFS traversal from 𝑣 will visit exactly the same set of vertices as the 
+DFS from 𝑣 in 𝐺. 
+(C) The order of vertices visited in the BFS of 𝐺𝑅 from 𝑣 is the reverse of the order of 
+vertices visited in the DFS of 𝐺 from 𝑣. 
+(D) If 𝑢 is a reachable vertex in the DFS of 𝐺 from 𝑣, then 𝑣 is also a reachable vertex 
+in the BFS of 𝐺𝑅 from 𝑢. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 25 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.41 Consider a B+ Tree where the maximum number of key values in each leaf node 
+is 2 and the maximum number of pointers in each non-leaf node is 3. Let the 
+content of the B+ Tree be as shown in the figure.  
+Which of the following options denotes the key value(s) stored in the root node 
+after inserting a key value 3 in the given B+ Tree? 
+ 
+  
+(A) 5 
+(B) 8 
+(C) 3 and 5 
+(D) 3, 5 and 8 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 26 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.42 Consider the given relations 𝑋, 𝑌 and 𝑍. The relation 𝑋 has three columns 𝑃, 𝑄 
+and 𝑅. The relation 𝑌 has three columns 𝑃, 𝑄 and 𝑆. The relation 𝑍 has two 
+columns 𝑃 and 𝑇. 
+𝑋  𝑌  𝑍 
+𝑃 𝑄 𝑅  𝑃 𝑄 𝑆  𝑃 𝑇 
+P1 Q1 R1  P1 Q1 2  P1 T1 
+P2 Q2 R2  P1 Q2 5  P3 T2 
+P3 Q3 R2  P2 Q1 6  P4 T3 
+  P3 Q3 1  P4 NULL 
+Consider the relational algebra expression  
+∏𝑃𝑅𝑆[(𝜎(𝑄 = 𝑄3 ∨ 𝑅 = 𝑅2)[𝑋 ⨝ 𝑌])⨝(𝜎(𝑆 > 1)[𝑌 ⨝ 𝑍])] 
+where ⨝ denotes natural join operation. 
+Which of the following options is the correct output for the given expression? 
+  
+(A) Two rows (P1, R1, 2) and (P1, R1, 5) 
+(B) Three rows (P1, R1, 2), (P1, R1, 5) and (P2, R2, 6) 
+(C) One row (P1, R1, 2) 
+(D) Zero rows 
+  
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 27 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.43 Consider the concept hierarchies as shown in the figure.  
+Which of the following options denotes the total number of possible data cuboids 
+from these concept hierarchies? 
+ 
+  
+(A) 43  
+(B) 23  
+(C) 2!  
+(D) 4!  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 28 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.44 Let 𝑋 and 𝑌 be two independent random variables. 𝑋 follows 𝐵𝑒𝑟𝑛𝑜𝑢𝑙𝑙𝑖(𝑝 = 0.3) 
+distribution and 𝑌 follows 𝑁𝑜𝑟𝑚𝑎𝑙(𝜇 = 0, 𝜎2 = 100) distribution.  
+Which of the following options is the variance of (2𝑋 − 1)𝑌 ?   
+  
+(A) 100 
+(B) 90 
+(C) 49 
+(D) 21 
+  
+Q.45 
+Let  
+𝐿 = lim
+𝑛→∞
+∑ 𝑒−𝑛𝑛𝑘
+𝑘!
+𝑛
+𝑘=0
+ 
+ 
+ 
+Which of the following is the value of 𝐿? 
+  
+(A) 0.5 
+(B) 1.0 
+(C) 0 
+(D) 𝑒−1  
+  
+ 
+Organizing Institute: IIT Guwahati
+Page 29 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.46 
+Let 𝛾1, 𝛾2, 𝛾3 be the eigenvalues of the matrix [
+1 0 0
+0 cos 𝑡 sin 𝑡
+0 − sin 𝑡 cos 𝑡
+],  
+where 𝑡 ∈ [−𝜋, 𝜋] is in radians.  
+Which one of the following options lists all the possible values of 𝑡 satisfying  
+𝛾1 +  𝛾2 +  𝛾3 = 1 + √2 ? 
+  
+(A) {
+𝜋
+3 , −
+𝜋
+4}  
+(B) {
+𝜋
+4 , −
+𝜋
+3}  
+(C) {
+𝜋
+4 , −
+𝜋
+4}  
+(D) {
+𝜋
+3 , −
+𝜋
+3}    
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 30 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.47 Consider that 20 stories of Author X and 10 stories of Author Y were kept together 
+without mentioning the names of the authors. A classifier was then asked to 
+predict the author (X or Y) of each of these stories. Let, out of X’s stories, 6 were 
+classified as that of Y. On the other hand, out of Y’s stories, 2 were classified as 
+that of X.  
+Considering X and Y as two classes, which of the following statements is/are true? 
+   
+(A) Accuracy of the classifier is 11/15. 
+(B) Precision of Class X is higher than the Precision of Class Y. 
+(C) Recall of Class X is higher than the Recall of Class Y. 
+(D) Accuracy of the classifier is 14/15. 
+  
+Q.48 Let 𝑃(𝑥) be a predicate.  
+Which of the following statements is/are NOT valid in first-order logic? 
+  
+(A) ∀𝑥 𝑃(𝑥) ⇒ ∃𝑥 𝑃(𝑥)  
+(B) ∃𝑥 𝑃(𝑥) ⇒ ∀𝑥 𝑃(𝑥)  
+(C) ∃𝑥 𝑃(𝑥) ⇔ ∀𝑥 𝑃(𝑥)  
+(D) ∀𝑥 𝑃(𝑥) ⇒ ∃𝑥 ¬𝑃(𝑥)  
+  
+ 
+Organizing Institute: IIT Guwahati
+Page 31 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.49 Consider the problem of sorting the given array in ascending order: 
+ P = [1, 2, 3, 5, 4] 
+Consider two sorting algorithms Bubble Sort (BS) and Insertion Sort (IS). 
+Let N1 be the total number of comparisons done by BS on the elements of P and 
+N2 be the total number of comparisons done by IS on the elements of P.  
+Which of the following options is/are correct? 
+  
+(A) N1 = 10, N2 = 4 
+(B) N1 > N2  
+(C) IS on P will perform only one swap 
+(D) Both BS and IS on P will make at least one unnecessary comparison (i.e., 
+comparing elements that are already in correct order) 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 32 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.50 Consider the given Python program. 
+def outer(): 
+ x = [] 
+ def inner(val): 
+  x.append(val) 
+  return x 
+ return inner 
+f1 = outer() 
+f2 = outer() 
+print(f1(10)) # Line P 
+print(f1(20)) # Line Q 
+print(f2(30)) # Line R 
+print(f1(40)) # Line S 
+Which of the following options is/are correct?  
+  
+(A) f1 and f2 share the same list x  
+(B) Output of Line Q is [10, 20] 
+(C) Output of Line R is [10, 20, 30] 
+(D) Output of Line S is [10, 20, 40] 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 33 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.51 Consider a table Employee(EmpID, TeamID), where the column EmpID (ID of 
+an employee) is the primary key. The column TeamID denotes the team ID of the 
+team of which the employee is a member. TeamID is a NOT NULL column.  
+We want to display the size of the team (denoted as TeamSize) in which each 
+employee is a member by using SQL. As an example, the desired output for the 
+given Employee table is also shown in tabular form. 
+Which of the following is/are correct? 
+Employee  Output 
+EmpID TeamID  EmpID TeamSize 
+1 8  1 3 
+2 8  2 3 
+3 8  3 3 
+4 7  4 2 
+5 7  5 2 
+6 9  6 1 
+  
+  
+(A) SELECT E.EmpID, B.TeamSize 
+FROM Employee AS E, (SELECT TeamID, COUNT(TeamID) AS 
+TeamSize FROM Employee GROUP BY TeamID) AS B  
+WHERE E.TeamID = B.TeamID 
+(B) SELECT A.EmpID, COUNT(B.TeamID) AS TeamSize 
+FROM Employee AS A, Employee AS B 
+WHERE A.TeamID = B.TeamID AND A.EmpID = B.EmpID 
+GROUP BY A.EmpID 
+(C) SELECT B.EmpID, B.TeamSize 
+FROM (SELECT EmpID, COUNT(TeamID) AS TeamSize  
+FROM Employee GROUP BY EmpID) AS B 
+(D) SELECT A.EmpID, B.TeamSize 
+FROM Employee AS A, (SELECT COUNT(TeamID) AS TeamSize FROM 
+Employee GROUP BY TeamID) AS B 
+WHERE A.TeamID = B.TeamID  
+  
+Organizing Institute: IIT Guwahati
+Page 34 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.52 Let 𝑀 = (𝐼𝑛 −
+1
+𝑛  𝟏𝟏𝑇) be a matrix, where  𝟏 = (1,1,1, … ,1)𝑇 ∈ ℝ𝑛 and 𝐼𝑛 is the 
+identity matrix of order 𝑛.  
+Which of the following options is/are correct?  
+  
+(A) 𝑀𝑇 = 𝑀    
+(B) 𝑀2 = 𝐼𝑛   
+(C) 𝑇𝑟𝑎𝑐𝑒(𝑀) = 𝑛    
+(D) 𝑀 is a projection matrix  
+  
+Q.53 Let  𝑋1, 𝑋2, … . , 𝑋𝑛  be  𝑛 independent random variables. Each of the random 
+variables follows 𝑁𝑜𝑟𝑚𝑎𝑙(𝜇 = 0, 𝜎2 = 1) distribution. Define 𝑋̅ =
+1
+𝑛 ∑ 𝑋𝑖
+𝑛
+𝑖=1  . 
+Which of the following statements is/are correct? 
+  
+(A) ∑ 𝑋𝑖
+2𝑛
+𝑖=1  follows Chi-square distribution with 𝑛 degrees of freedom. 
+(B) ∑ (𝑋𝑖 − 𝑋̅)2𝑛
+𝑖=1  follows Chi-square distribution with (𝑛 − 1) degrees of freedom. 
+(C) 𝑋1
+2 + 𝑋𝑛
+2 follows exponential distribution with mean 2. 
+(D) (√𝑛 𝑋̅)
+2
+ follows Chi-square distribution with 2 degrees of freedom. 
+  
+ 
+Organizing Institute: IIT Guwahati
+Page 35 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.54 Let 𝑋 be a discrete valued random variable with cumulative distribution function  
+𝐹(𝑥).   
+Which of the following statements is/are correct? 
+  
+(A) 𝐹(𝑥) is always a positive function. 
+(B) 𝐹(𝑥) is a non-decreasing function.  
+(C) 𝐹(𝑥) has jump discontinuity.  
+(D) 𝐹(𝑥) is a left continuous function. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Q.55 Consider that Linear Ridge Regression is being used to learn a prediction function 
+𝑦𝑝𝑟𝑒𝑑 = 𝑤𝑇𝑥, where 𝑤, 𝑥 ∈ ℝ2 and Mean Absolute Error (MAE) is used to 
+measure the prediction error. A weight of 0.20 is associated with the regularizer.  
+At an intermediate step of the training process, assume that the parameter 𝑤 =
+[−3.00, 4.00]𝑇. In the next step, for the input 𝑥 = [1.00, 2.00]𝑇, the predicted 
+value of 𝑦 is noted. Let the relation between 𝑥 = [𝑥1,  𝑥2]𝑇and the true value of 𝑦 
+be 𝑦𝑡𝑟𝑢𝑒 = 𝑥1 + 𝑥2. 
+ 
+The value of the overall regularized loss function for this instance is _______ . 
+(Rounded off to two decimal places)  
+Organizing Institute: IIT Guwahati
+Page 36 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.56 Consider a fully-connected feed-forward multi-layer perceptron. It has 30 neurons 
+in the input layer, followed by two hidden layers and an output layer. The first 
+hidden layer has 4 neurons and the second hidden layer has 3 neurons. The output 
+layer has only one neuron. Assume that no bias parameters are used.  
+The number of learnable parameters in the multi-layer perceptron is __________ . 
+(Answer in integer) 
+Q.57 A clinic specializes in testing for a disease D. The result of the test can be either 
+positive or negative.  
+A study revealed that if a person suffers from the disease D, the test result in that 
+clinic comes out positive 80% of the time, and negative 20% of the time. If a 
+person is not suffering from the disease D, the test comes out positive 10% of the 
+time and negative 90% of the time. It is also known that among the general 
+population, the disease D occurs in 30% of the individuals.  
+If a person tests positive for D in that clinic, the probability that he/she actually 
+suffers from the disease D is __________ . (Rounded off to two decimal places) 
+Q.58 Consider the given Python program. 
+def fun(L, i=0): 
+ if i >= len(L)-1: 
+  return 0 
+ if L[i] > L[i+1]: 
+  L[i+1], L[i] = L[i], L[i+1] 
+  return 1+fun(L, i+1) 
+ else: 
+  return fun(L, i+1) 
+data = [5, 3, 4, 1, 2] 
+count = 0 
+for _ in range(len(data)): 
+ count += fun(data) 
+print(count) 
+ 
+The output of the program is __________ . (Answer in integer) 
+Organizing Institute: IIT Guwahati
+Page 37 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.59 Let there be two relations 𝑋 and 𝑌 as shown. 𝑋 has three columns 𝑃, 𝑄 and 𝑅. 𝑌 
+has two columns 𝑃 and 𝑆.  
+𝑋  𝑌 
+𝑃 𝑄 𝑅  𝑃 𝑆 
+P1 Q1 R1  P1 10 
+P2 Q2 R2  P1 15 
+P3 Q3 R2  P2 20 
+  P3 1 
+Consider that the following tuple relational calculus expression is evaluated.  
+{𝑡|𝑡 ∈ 𝑋 ⋀ ∃𝑧 ∈ 𝑋(𝑡[𝑃] = 𝑧[𝑃])  ⋀ ∃𝑚 ∈ 𝑌 (𝑚[𝑃] = 𝑡[𝑃] ⋀ 𝑚[𝑆] > 1)} 
+The number of tuples that will be returned is __________ . (Answer in integer) 
+Q.60 
+ 
+Let Account be a relation as shown.  
+ 
+     Account 
+AccNo Balance 
+A1 5000 
+A2 5000 
+A3 10000 
+A4 15000 
+A5 18000 
+ 
+Consider the given SQL query. 
+  
+SELECT AccNo FROM Account AS A 
+WHERE (SELECT COUNT(*) FROM Account AS B  
+WHERE A.Balance < B.Balance) >= (SELECT COUNT(*)  
+FROM Account AS C WHERE A.Balance > C.Balance) 
+ 
+The number of rows returned by the SQL query is __________ . (Answer in 
+integer) 
+ 
+ 
+ 
+ 
+ 
+ 
+Organizing Institute: IIT Guwahati
+Page 38 of 39
+Data Science and Artificial Intelligence (DA) 
+ 
+Q.61 Consider an ER model with the entities E1(A11,A12,A13) and E2(A21,A22,A23), 
+where, A11, A12, A13 are the attributes of E1, and A21, A22, A23 are the attributes of 
+E2. Let A22 be a multi-valued attribute. A11 and A21 are the primary keys of E1 and 
+E2, respectively.  
+Let R12 be a many-to-many relationship between E1 and E2. Participation of both 
+E1 and E2 in R12 is total.  
+The minimum number of relations required to convert the ER model into 
+relational model (assuming there is no other functional dependency) where each 
+relation is in third normal form (3NF) is __________ . (Answer in integer) 
+Q.62 For a given data set {𝑥1, 𝑥2, … . , 𝑥𝑛}, where 𝑛 = 100, it is known that 
+1
+2000 ∑ ∑(𝑥𝑖 − 𝑥𝑗)2 
+𝑛
+𝑗=1
+𝑛
+𝑖=1
+= 99 
+Let us denote 𝑥̅ =
+1
+𝑛 ∑ 𝑥𝑖
+𝑛
+𝑖=1   
+The value of 
+1
+99 ∑ (𝑥𝑖 − 𝑥̅)2𝑛
+𝑖=1  is __________ . (Answer in integer) 
+Q.63 Let 𝑋 be a random variable that follows 𝑈𝑛𝑖𝑓𝑜𝑟𝑚(−1,1) distribution. The 
+conditional distribution of the random variable 𝑌 given 𝑋 = 𝑥 is the 
+𝑈𝑛𝑖𝑓𝑜𝑟𝑚(𝑥2 − 0.1, 𝑥2 + 0.1) distribution.  
+The value of  𝑐𝑜𝑟𝑟𝑒𝑙𝑎𝑡𝑖𝑜𝑛(𝑋, 𝑌) is __________ . (Answer in integer) 
+Q.64 Let 𝐴5×5 be a matrix such that each of its elements follows 𝐵𝑒𝑟𝑛𝑜𝑢𝑙𝑙𝑖(𝑝 = 0.50) 
+distribution independently.  
+The probability that the row-sum of the second row and the column-sum of the 
+third column are both equal to 3 is ________ . (Rounded off to two decimal 
+places) 
+Q.65 Let 𝐴 = (𝐼𝑛 −
+1
+𝑛  𝟏𝟏𝑇) be a matrix, where 𝟏 = (1,1,1, … ,1)𝑇 ∈ ℝ𝑛 and 𝐼𝑛 is the 
+identity matrix of order 𝑛. 
+The value of max
+𝑆
+𝑥𝑇𝐴𝑥 , where 𝑆 = {𝑥 ∈ ℝ𝑛| 𝑥𝑇𝑥 = 1}, is __________ . 
+(Answer in integer) 
+ 
+  
+Organizing Institute: IIT Guwahati
+Page 39 of 39
