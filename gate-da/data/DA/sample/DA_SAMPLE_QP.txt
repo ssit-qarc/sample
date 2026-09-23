@@ -1,0 +1,829 @@
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 1 of 29 
+ 
+ 
+ 
+(This subject-specific section will be preceded by General Aptitude section in GATE 2024). 
+ 
+ 
+Q.1 – Q.25 Carry ONE mark each. 
+ 
+Q.1 Let 𝑏 be the branching factor of a search tree. If the optimal goal is reached 
+after 𝑑 actions from the initial state, in the worst case, how many times will the 
+initial state be expanded for iterative deepening depth first search (IDDFS) and 
+iterative Deepening A* search (IDA*)?  
+(A) IDDFS - 𝑑, IDA* -𝑑. 
+(B) IDDFS - 𝑑, IDA* -𝑏ௗ. 
+(C) IDDFS - 𝑏ௗ, IDA* -𝑑. 
+(D) IDDFS - 𝑏ௗ, IDA* -𝑏ௗ.                 
+  
+Q.2 Given 3 literals 𝐴, 𝐵, and 𝐶, the number of models for the sentence 𝐴 ∨ ¬𝐵 ∨ 𝐶 
+is ________ . 
+  
+ 
+ 
+ 
+ 
+ 
+
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 2 of 29 
+ 
+Q.3 Which one of the following first order logic sentences matches closest with the 
+sentence “All students are not equal”?          
+(A) ∀𝑥 ∃𝑦[𝑠𝑡𝑢𝑑𝑒𝑛𝑡(𝑥) ∧ 𝑠𝑡𝑢𝑑𝑒𝑛𝑡(𝑦)] ⇒ ¬𝐸𝑞𝑢𝑎𝑙(𝑥, 𝑦)  
+(B) 
+∀𝑥 ∀𝑦[𝑠𝑡𝑢𝑑𝑒𝑛𝑡(𝑥) ∧ 𝑠𝑡𝑢𝑑𝑒𝑛𝑡(𝑦)] ⇒ ¬𝐸𝑞𝑢𝑎𝑙(𝑥, 𝑦)  
+(C) 
+∀𝑥 ∃𝑦[𝑠𝑡𝑢𝑑𝑒𝑛𝑡(𝑥) ∧ 𝑠𝑡𝑢𝑑𝑒𝑛𝑡(𝑦) ∧ ¬𝐸𝑞𝑢𝑎𝑙(𝑥, 𝑦)]  
+(D) 
+∀𝑥 ∀𝑦[𝑠𝑡𝑢𝑑𝑒𝑛𝑡(𝑥) ∧ 𝑠𝑡𝑢𝑑𝑒𝑛𝑡(𝑦) ∧ ¬𝐸𝑞𝑢𝑎𝑙(𝑥, 𝑦)]  
+  
+Q.4 The mean of the observations of the first 50 observations of a process is 12. If 
+the 51st observation is 18, then, the mean of the first 51 observations of the 
+process, rounded off to two decimal places is ______ . 
+(A) 12.01 
+(B) 12.12 
+(C) 12.36 
+(D) 18.18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 3 of 29 
+ 
+Q.5 The value of lim
+௫→ଶ
+√𝑥−√2
+𝑥−2  is  
+(A) 0 
+(B) √2  
+(C) ଵ
+ଶ√ଶ  
+(D) ଵ
+√ଶ  
+  
+Q.6 Which among the following typically reduces overfitting in a supervised 
+machine learning algorithm? 
+i) Increase model complexity. 
+ii) Reduce model complexity. 
+iii) Increase the number of training points. 
+iv) Reduce the number of training points. 
+(A) i and ii 
+(B) i, ii and iii 
+(C) ii and iii  
+(D) i, ii, iii and iv 
+  
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 4 of 29 
+ 
+Q.7 A fair coin is flipped twice, and it is given that at least one tail has been 
+observed. The probability of getting two tails is 
+(A) ଵ
+ଶ  
+(B) ଵ
+ଷ  
+(C) ଶ
+ଷ  
+(D) ଵ
+ସ  
+  
+Q.8 Given n particles and m (> n) boxes, we place each particle in one of the boxes 
+uniformly at random. What is the probability that no box receives more than 
+one particle?  
+(A) 𝑛!
+(𝑚 − 𝑛)!  𝑚௡ 
+(B) 𝑚!
+(𝑚 − 𝑛)! 𝑚௡ 
+(C) 1
+𝑚௡ 
+(D) (𝑚 − 𝑛)!
+𝑚!  
+  
+ 
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 5 of 29 
+ 
+Q.9 For two events 𝐴 and 𝐵, 𝐵 ⊂ 𝐴, which one of the following is correct? 
+(A) 𝑃(𝐵 | 𝐴) ≥ 𝑃(𝐵) 
+(B) 𝑃(𝐵 | 𝐴) ≤ 𝑃(𝐵) 
+(C) 𝑃(𝐴 | 𝐵) < 1 
+(D) 𝑃(𝐴 | 𝐵) = 0 
+  
+Q.10 X is a random variable with support [-2,2][99.5,100.5]. The PDF of X is such 
+that it is equal to a constant c inside its support and 0 outside. The expected 
+value of X is ________ . 
+  
+Q. 11 A binary classification dataset contains only 5% of positive instances. Which 
+one of the following experimental design and performance measures is most 
+suited for measuring the generalizability of a classifier trained on this dataset? 
+(A) fixed training and test sets, accuracy 
+(B) fixed training and test sets, area under the ROC curve 
+(C) stratified cross-validation, accuracy 
+(D) stratified cross-validation, area under the ROC curve 
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 6 of 29 
+ 
+Q.12 Increasing the regularisation coefficient value in ridge regression will typically 
+i) Increase the bias of the resulting model. 
+ii) Decrease the bias of the resulting model. 
+iii) Increase the variance of the resulting model. 
+iv) Decrease the variance of the resulting model. 
+Which of the following statements are correct? 
+(A) i and iii only 
+(B) i and iv only 
+(C) ii and iii only 
+(D) ii and iv only 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 7 of 29 
+ 
+Q.13 A decision tree classifier learned from a fixed training set achieves 100% 
+accuracy on the test set. Which of the following algorithms trained using the 
+same training set is guaranteed to give a model with 100% accuracy? 
+i) Logistic regression. 
+ii) An SVM with a polynomial kernel. 
+iii) k-Nearest neighbours. 
+iv) Naïve Bayes classifier.        
+(A) i only 
+(B) i and ii only 
+(C) i, ii, iii and iv  
+(D) iv only  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 8 of 29 
+ 
+Q.14 
+Consider two relations R(x, y) and S(x,z). Relation R has 100 records, and 
+relation S has 200 records. What will be the number of attributes and records of 
+the following query?  
+    SELECT * from R CROSS JOIN S; 
+(A) 3 attributes, 20000 records 
+(B) 4 attributes, 20000 records 
+(C) 3 attributes, 200 records 
+(D) 4 attributes, 200 records 
+ 
+ 
+Q.15 Consider two relations R(x, y) and S(y), and perform the following operation 
+R(x,y) DIVIDE S(Y) 
+If X is the relation returned by the above operation, which of the following 
+option(s) is/are always TRUE? 
+ 
+(A) |𝑋| ≤ |𝑅| 
+(B) |𝑋| ≤ |𝑆| 
+(C) |𝑋| ≤ |𝑅| AND |𝑋| ≤ |𝑆| 
+(D) |𝑋| > |𝑅| 
+  
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 9 of 29 
+ 
+Q.16 
+ 
+Which of the following statements is/are TRUE? 
+(A) Every relation in BCNF is also in 3NF. 
+(B) Every relation with two attributes is in BCNF. 
+(C) No relation can be in both BCNF and 3NF. 
+ 
+(D) Every relation in 3NF is also in BCNF. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q.17 For matrix 𝐻 = ቂ 9 −2
+−2 6 ቃ, one of the eigenvalues is  5. The other eigenvalue is 
+(A) 12 
+(B) 10 
+(C) 8 
+(D) 6 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 10 of 29 
+ 
+Q. 18 Two non-zero vectors x and y are perpendicular if 
+(A) xTy = 0 
+(B) xTy > 0 
+(C) xTy < 0 
+(D) xTy ≠ 0 
+ 
+ 
+Q. 19 The function 𝑓(𝑥) = 1 + 𝑥 + 𝑥ଶ  has a 
+(A) Saddle point at x = ‒0.5 
+(B) Maxima at x = ‒0.5 
+(C) Minima at x = ‒0.5 
+(D) 𝑓ᇱ(𝑥) ≠ 0  at x = ‒0.5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 11 of 29 
+ 
+Q. 20 
+What is the Pearson’s correlation coefficient between x and y for the data in the 
+table below? (rounded off to the first decimal place) 
+x y 
+‒6 6.4 
+2 4.7 
+0.2 8 
+7 2 
+‒4 3.4 
+ 
+ 
+(A) ‒0.5 
+(B) 0.5 
+(C) 0.3 
+(D) ‒0.3 
+ 
+ 
+Q.21 The worst-case running times of Insertion sort, Merge sort and Quick sort 
+respectively are 
+(A) O(𝑛 log 𝑛), O(𝑛ଶ), O(𝑛ଶ) 
+(B) O(𝑛ଶ), O(𝑛 log 𝑛), O(𝑛 log 𝑛) 
+(C) O(𝑛ଶ), O(𝑛 log 𝑛), O(𝑛ଶ) 
+(D) O(𝑛ଶ), O(𝑛ଶ), O(𝑛 log 𝑛) 
+ 
+ 
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 12 of 29 
+ 
+Q.22 
+Consider the following program. 
+ 
+def func(n): 
+  
+  if n <= 1: 
+    return n 
+  else: 
+    return 3 * func(n - 3) - 3 * func(n - 2) 
+ 
+The running time of the above function is 
+(A) O(n) 
+(B)  O(𝑛ଶ) 
+(C) O(𝑛 log 𝑛) 
+(D) O(2௡) 
+  
+Q.23 
+Which one of the following equations correctly describes the recurrence relation 
+for the standard binary search algorithm on a sorted array of n numbers where c 
+is a constant? 
+ 
+(A) T(n) = 2T(n/2) + c 
+(B)  T(n) = T(n/2) 
+(C) T(n) = T(n-1) + c 
+(D)  T(n) = T(n/2) + c 
+  
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 13 of 29 
+ 
+Q.24 
+Consider the following python program 
+   
+def func(A, n, m): 
+  s = A[0] 
+  for i in range(1, n-1): 
+           m = m * s + A[i] 
+  return m 
+ 
+ 
+Let Z be an array of 10 elements with Z[i] = 2 for all i such that 0<=i<=9.  
+The value returned by func(Z,10,2) is ________. 
+ 
+Q.25 
+ 
+Two eigenvalues of 3 x 3 real matrix X are (1 + i) and 2.  
+The determinant of the matrix is _____. 
+ 
+ 
+Q.26 – Q.55 Carry TWO marks each. 
+ 
+Q.26 
+ Given the following relation instances      
+X  Y  Z 
+1   4   2 
+1   5   3 
+1   4   3 
+1   5   2 
+3   2   1 
+Which of the following conditions is/are TRUE? 
+(A) XY → Z and Z → Y 
+(B) YZ → X and X → Y 
+(C) Y → X and X → Y 
+(D) XZ → Y and Y → X 
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 14 of 29 
+ 
+Q.27 Consider the search space depicted in the figure below.  
+ 
+S is the initial state. G1 and G2 are two states that satisfy the goal test.  The cost 
+of traversing from one state to another is depicted by the numerical value close 
+to the edge connecting the two states. The estimated cost to the goal is reported 
+inside the states. Use alphabetical order of nodes to break ties. Which goal state 
+is reached if you perform A* (graph) search? What is the largest value that the 
+heuristic function can take for node A while still being admissible?  
+(A) G1 and 16 
+(B) G1 and 15  
+(C) G2 and 16 
+(D) 
+ 
+G2 and 15 
+  
+
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 15 of 29 
+ 
+Q.28 Given a 𝐾-class dataset containing 𝑁 points, where sample points are described 
+using 𝐷 discrete features with each feature capable of taking 𝑉 values, how 
+many parameters need to be estimated for Naïve Bayes Classifier?   
+(A) 𝑉஽𝐾  
+(B) 𝐾௏ವ
+  
+(C) 𝑉𝐷𝐾 + K 
+(D) 𝐾(𝑉 + 𝐷)  
+  
+Q.29 A maximum margin linear SVM (SVM1) is learned for a binary classification 
+task. Another maximum margin linear SVM (SVM2) is trained for the same 
+task using the same training set but with one of the non-support vectors of 
+SVM1 removed. Which one of the following statements is TRUE?  
+(A) Margin of SVM1 > Margin of SVM2  
+(B) Margin of SVM2 > Margin of SVM1  
+(C) Margin of SVM1 = Margin of SVM2  
+(D) No conclusion can be drawn between the margins of SVM1 and SVM2 
+  
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 16 of 29 
+ 
+Q.30 For perfectly spherical 2D data centered at the origin, which all of the following 
+pairs of vectors are possible pairs of principal components?       
+i) (1, 0) and (0, 1) 
+ii) (0, -1) and (-1, 0)      
+iii) (1, 1) and (1, 0) 
+(A) i only 
+(B) i and iii only 
+(C) i, ii, and iii only 
+(D) i and ii only 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 17 of 29 
+ 
+Q.31 Consider the game tree shown below.  
+The value below each node is the output of the utility function. The subtrees 
+rooted at which of these nodes will be pruned because of alpha-beta pruning? 
+(A) m and j 
+(B) r and j  
+(C) h and p 
+(D) no nodes are pruned 
+  
+ 
+ 
+ 
+ 
+
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 18 of 29 
+ 
+Q.32 Consider the Bayes Net containing four Boolean random variables (𝐴, 𝐵, 𝐶 , 𝐷), 
+with the following convention: 
+𝐴 = 𝑇𝑟𝑢𝑒 ⇒ 𝐴 = 𝑎, 𝑎𝑛𝑑 𝐴 = 𝐹𝑎𝑙𝑠𝑒 ⇒ 𝐴 = ¬𝑎  
+and similarly for the other variables. The conditional probability tables for the 
+nodes in the network are also indicated in the figure. The following samples 
+were generated through likelihood weighting: 
+𝑠ଵ: (¬𝑎, ¬𝑏, ¬𝑐, ¬𝑑); 𝑠ଶ: (¬𝑎, 𝑏, ¬𝑐, ¬𝑑); 𝑠 ଷ: (¬𝑎, ¬ 𝑏, ¬𝑐, 𝑑); 𝑠ସ: (¬𝑎, 𝑏, ¬𝑐, 𝑑)
+Estimate the likelihood weight of each sample and thereby estimate 
+𝑃(𝑏|¬𝑎, ¬𝑐) 
+(A) 𝑠ଵ: 0.48, 𝑠ଶ: 0.32, 𝑠ଷ: 0.48, 𝑠ସ: 0.32, 𝑃(𝑏|¬𝑎, ¬𝑐) = 0.4  
+(B) 𝑠ଵ: 0.48, 𝑠ଶ: 0.32, 𝑠ଷ: 0.48, 𝑠ସ: 0.32, 𝑃(𝑏|¬𝑎, ¬𝑐) = 0.64 
+(C) 𝑠ଵ: 0.32, 𝑠ଶ: 0.48, 𝑠ଷ: 0.48, 𝑠ସ: 0.32, 𝑃(𝑏|¬𝑎, ¬𝑐) = 0.64 
+(D) 𝑠ଵ: 0.48, 𝑠ଶ: 0.32, 𝑠ଷ: 0.32, 𝑠ସ: 0.32, 𝑃(𝑏|¬𝑎, ¬𝑐) = 0.4 
+  
+  
+ 
+ 
+ 
+
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 19 of 29 
+ 
+Q.33 X is a uniformly distributed random variable from 0 to 1 
+𝑓(𝑥) =  ቄ1,   0 ≤ 𝑥 ≤ 1
+0,   𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒            
+The variance of X is       
+(A) 
+ଵ
+ଶ  
+(B) 
+ଵ
+ଷ  
+(C) 
+ଵ
+ସ  
+(D) 
+ଵ
+ଵଶ  
+ 
+ 
+ 
+ 
+Q.34 The function 𝑓(𝑥) = 1 + 2𝑥 + 3𝑥ଶ + ⋯ + 2026𝑥ଶ଴ଶହ.  
+Which of the following statement is true? 
+(A) f(x) has a global minimum. 
+(B) f(x) has a global maximum. 
+(C) f(x) does not have a global minimum. 
+(D) f(x) is not continuous. 
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 20 of 29 
+ 
+Q.35 Consider the following statements: 
+(P): A smooth twice differentiable function can have a global minimum. 
+(Q): All smooth twice differentiable functions have a global minimum. 
+(A) P and Q are true. 
+(B) P is true and Q is false. 
+(C) P is false and Q is true. 
+(D) P and Q are false. 
+  
+Q.36 
+Consider the following joint distribution of random variables X and Y:  
+𝑓(𝑥, 𝑦) = ቐ
+𝑥(1 + 3𝑦ଶ)
+4 ,   0 ≤ 𝑥 ≤ 2, 0 ≤𝑦 ≤ 1
+0,   𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒
+  
+Which of the following is the conditional pdf of X|Y? 
+(A) 
+௫
+ସ  
+(B) 
+௬
+ସ  
+(C) 
+௫
+ଶ  
+(D) 
+௬
+ଶ  
+  
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 21 of 29 
+ 
+Q.37 For the matrix 𝐻 = ቂ 3 −1
+−1 3  ቃ, one of the eigenvectors is [−1 − 1 ]்.  
+The other eigenvector is  
+(A)  [1 − 1 ]் 
+(B)  [1   1 ]் 
+(C)  [1   0 ]் 
+(D)  [0   1 ]் 
+  
+Q.38 
+The following statements are made regarding a matrix Am x n. 
+P. The column space is orthogonal to the row space. 
+Q. The column space is orthogonal to the left null space. 
+R. The row space is orthogonal to the null space. 
+T.  The null space is orthogonal to the left null space.   
+Which of the following statements are true? 
+(A) P and Q only 
+(B) P and R only 
+(C) Q and R only 
+(D) P and T only 
+  
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 22 of 29 
+ 
+Q.39 
+Consider a matrix      ൥
+0 1 0
+𝑎 2 𝑑
+𝑏 3 𝑐
+൩ .  The matrix cannot have rank                
+(A) 0 
+(B) 1 
+(C) 2 
+(D) 3 
+ 
+ 
+ 
+ 
+ 
+Q.40 A file with 100,000 records is indexed with B+ tree. If the size of a memory 
+block is 2K bytes, the size of a key is 4 bytes, the size of a pointer is 4 bytes, 
+the minimum possible height of the B+ tree index is ______. Height is always 
+greater than or equal to 1.               
+Hints: No records are stored in the nodes, only keys are stored. The sizes of the 
+pointers are same, irrespective of whether they point to a node or a record. 
+  
+Q.41 Consider a schema R(A, B, C, D, E, F) and functional dependencies  
+A → B, C → D, and E → F. The number of superkeys of this schema is _____.  
+  
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 23 of 29 
+ 
+Q.42 Given the dataset: (1, 1), (3, 3), (4, 4), (5, 5), (6, 6), (9, 9), (0, 3), (3, 0) and 
+assuming the initial centroids for ( 𝐾 = 3 – means clustering) to be  
+𝐶ଵ = (3, 3), 𝐶ଶ = (5, 5) 𝑎𝑛𝑑 𝐶ଷ =  (6, 6). One iteration of the Expectation 
+Maximization Algorithm for 𝐾-means clustering, will update 𝐶ଷ to (a, a). The 
+value of a is ____ . 
+  
+Q.43 Consider a Multi-Layer Perceptron (MLP) model with one hidden layer and one 
+output layer. The hidden layer has 10 neurons, and the output layer has 3 neurons. 
+The input to the MLP is a 5-dimensional vector. Each neuron is connected to 
+every neuron in the previous layer, and a bias term is included for each neuron. 
+The activation function used is the sigmoid function. The total number of 
+trainable parameters in this MLP model is ______. 
+  
+Q.44  A company is manufacturing a product at the rate of P units per day. The cost 
+per unit in Rs is  𝐶 = 230 + 0.1𝑃 + 9000/𝑃. The selling prices per unit is Rs. 
+300. The production level minimizing the cost per unit and the total profit per 
+day, respectively, are 
+(A) 290, 3000 
+(B) 150, 2500 
+(C) 290, 2500 
+(D) 150, 3000 
+ 
+ 
+ 
+ 
+ 
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 24 of 29 
+ 
+Q.45 
+A class contains 60% of students who are incapable of changing their opinions 
+about anything, and 40% of students are changing their minds at random, with 
+probability 0.3, between subsequent votes on the same issue. Then, the 
+probability of a student randomly chosen voted twice in the same way is 
+_______. 
+  
+Q.46 
+Consider the grid world shown in the figure below. 
+ 
+ 
+  
+ 
+ 
+An agent is planning to move from the starting location (𝑥௦, 𝑦௦) to the final 
+location ൫𝑥௙, 𝑦௙൯. The obstacles along the path are triangular in form. Consider 
+the following heuristic functions to conduct A* search. 
+− ℎ௖ assumes the obstacles are the smallest circles circumscribing the triangles.   
+− ℎ௥ assumes the obstacles are smallest rectangles circumscribing the triangles. 
+− ℎ௖′ assumes the obstacles are largest circles inscribed in the triangles. 
+− ℎ௥′ assumes the obstacles are largest rectangles inscribed the triangles. 
+Which of the following statement(s) is(are) true? 
+(A) ℎ௖ is an admissible heuristic 
+(B) ℎ௥ is an admissible heuristic 
+(C) ℎ௖′ is an admissible heuristic 
+(D) ℎ௥′ is an admissible heuristic 
+  
+ 
+
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 25 of 29 
+ 
+Q.47 
+Let {O1, O2, O3, O4} represent the possible outcomes of a random experiment, 
+with Pr({O1}) = Pr({O2}) = Pr({O3}) = Pr({O4}). Consider the following 
+events: P = {O1,O2}, Q = {O2,O3}, R = {O3,O4}, S = {O1,O2,O3}.  
+Then, which of the following statements are true?              
+(A) P and Q are independent 
+(B) P and Q are not independent 
+(C) R and S are independent 
+(D) Q and S are not independent 
+  
+Q.48 
+Consider the matrix X whose eigenvalues are 1, ‒1  and 3. The Trace of X3 - 
+3X2 is _______. 
+  
+Q.49 What is the output of the following python program? 
+ 
+i = 1 
+j = 1 
+for i in range(1, 11): 
+  if i % 3 != 0: 
+    j += 2 
+    continue 
+  if j % 3 == 0: 
+    break 
+          print(i + j) 
+ 
+(A) 3 
+(B) 5 
+(C) 12 
+(D) 15 
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 26 of 29 
+ 
+Q.50 
+Assume that S is a stack and Q1 and Q2 are two Queues which support the 
+Enqueue and Dequeue operations. Consider the following pseudo code for 
+implementing the Pop and Push operation on S. [Note: Swap(x,y) exchanges 
+the two queues x and y.] 
+ 
+Push(S,x) 
+A(Q2,x) 
+while(Q1 not empty) 
+B(Q2, C(Q1)); 
+Swap(Q1, Q2) 
+ 
+Pop(S) 
+return(D(Q1)) 
+Which of the following options for the functions A, B, C, and D correspond to 
+correctly implementing the Push and Pop operations on the stack S? 
+(A) A,B - Enqueue  C,D - Dequeue 
+(B) A,C - Enqueue  B, D - Dequeue 
+(C) A,C - Dequeue  B,D- Enqueue 
+(D) A,D - Enqueue B,C - Dequeue 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 27 of 29 
+ 
+Q.51 
+Consider the following python program. 
+import math 
+  def fun(a, b, d): 
+    n1 = 0 
+    n2 = 0 
+    flag = 1 
+    for i in range(d): 
+        n1 = n1 + (a[i] * a[i]) 
+        n2 = n2 + (b[i] * b[i]) 
+    for i in range(d): 
+        a[i] = a[i]/math.sqrt(n1) 
+        b[i] = b[i]/math.sqrt(n2) 
+    for i in range(d): 
+        if a[i] != b[i]: 
+            flag = 0 
+            break 
+    return flag 
+For which of the following inputs does the above algorithm produce 1 as an 
+output? 
+(P) a = [1,2,3,4]; b = [3,4,5,6], d = 4 
+(Q) a = [1,2,3,4]; b = [2,4,6,8], d = 4 
+(R) a = [1,2,3,4]; b = [10,20,30,40], d = 4 
+(S) a = [1,2,3,4]; b = [1.1,2.1,3.1,4.1], d = 4      
+(A) P, Q, R, S 
+(B) Q, R, S only 
+(C) Q, R only 
+(D) R, S only 
+  
+ 
+ 
+ 
+ 
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 28 of 29 
+ 
+Q.52 
+Consider the following undirected graph on 5 nodes 
+ 
+ 
+ 
+Assume you are performing breadth first search on this graph using a queue 
+data structure. How many unique breadth first orderings are possible?  
+(A) 9 
+(B) 24 
+(C) 48 
+(D) 120 
+ 
+ 
+Q.53 
+ Let S2  be the variance of a random sample of size 𝑛 > 1 from a normal 
+population with an unknown mean 𝜇 and an unknown finite variance 𝜎2. 
+Consider the following statements: 
+  (I) S2 is an unbiased estimator of 𝜎2, and 𝑆 is an unbiased estimator of 𝜎.  
+(II) (n-1/n) S2 is a maximum likelihood estimator of 𝜎2, andට𝑛−1
+𝑛  𝑆 is a 
+maximum likelihood estimator of 𝜎. Which of the above statements is true?  
+(A) (I) only  
+(B) (II) only 
+(C) Both (I) and (II)  
+(D) Neither (I) nor (II) 
+
+ 
+GATE 2024 -- Data Science and Artificial Intelligence (DA) -- Sample Question Paper 
+DA 
+                                                                                                                    Page 29 of 29 
+ 
+Q.54  The value of the real variable x ≥ 0, which maximizes the function 
+ 𝑓(𝑥) = 𝑥௘𝑒ି௫ is_____. (rounded off to two decimal places) 
+  
+Q.55 
+Consider the following relational schema:  
+employee(empId,empName,empDept)  
+customer(custId,custName,salesRepId,rating)  
+salesRepId is a foreign key referring to empId of the employee relation. 
+Assume that each employee makes a sale to at least one customer. What does 
+the following query return?  
+SELECT empName  
+FROM employee E  
+WHERE NOT EXISTS (SELECT custId  
+               FROM customer C  
+               WHERE C.salesRepId = E.empId  
+               AND C.rating <> ’GOOD’);  
+(A) Names of all the employees with at least one of their customers having a 
+‘GOOD’ rating. 
+(B) Names of all the employees with at most one of their customers having a 
+‘GOOD’ rating. 
+(C) Names of all the employees with none of their customers having a ‘GOOD’ 
+rating. 
+(D) Names of all the employees with all their customers having a ‘GOOD’ rating. 
+ 
+END OF THE QUESTION PAPER 
