@@ -1,6 +1,6 @@
 """Check every PDF under gate-da/data and write manifest.csv and MANIFEST.md.
 
-Run with a Python that has pypdf:
+Run with a Python that has pypdf and cryptography:
     python gate-da/scripts/build_manifest.py
 """
 import csv
@@ -79,14 +79,18 @@ def main():
         }
         try:
             reader = pypdf.PdfReader(pdf)
+            if reader.is_encrypted:
+                # The 2021 CS papers are encrypted with an empty user password.
+                # Decrypting them needs the cryptography package.
+                reader.decrypt("")
             text = text_for(pdf, reader)
             row["pages"] = len(reader.pages)
             row["text_chars"] = len(text.strip())
             nums = question_numbers(text) if row["kind"] == "QP" else key_rows(text)
             if nums:
                 row["questions"] = f"{len(nums)} ({nums[0]}-{nums[-1]})"
-            if row["text_chars"] < 500:
-                row["problem"] = "little or no text (image-only?)"
+            if row["text_chars"] < 500 or row["text_chars"] / max(row["pages"], 1) < 150:
+                row["problem"] = "mostly scanned images, little extractable text"
         except Exception as e:  # keep going; the manifest records the failure
             row["problem"] = f"unreadable: {e.__class__.__name__}"
         src = sources.get(os.path.normpath(rel), {})

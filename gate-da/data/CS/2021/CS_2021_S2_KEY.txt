@@ -1,0 +1,91 @@
+GATE 2021 Answer Key for Computer Science and Information Technology (CS ‐ 2)
+Graduate Aptitude Test in Engineering (GATE 2021)
+Subject/Paper: Computer Science and Information Technology (CS - 2)
+Q. No. Session Question Type    
+MCQ/MSQ/NAT
+Section 
+Name
+Answer 
+Key/Range Marks Negative 
+Marks
+16 MCQ GA A 1 1/3
+26 MCQ GA B 1 1/3
+36 MCQ GA B 1 1/3
+46 MCQ GA B 1 1/3
+56 MCQ GA C 1 1/3
+66 MCQ GA C 2 2/3
+76 MCQ GA A 2 2/3
+86 MCQ GA C 2 2/3
+96 MCQ GA A 2 2/3
+10 6 MCQ GA C 2 2/3
+16 MCQ CS C 1 1/3
+26 MCQ CS C 1 1/3
+36 MCQ CS C 1 1/3
+46 MCQ CS C 1 1/3
+56 MCQ CS A 1 1/3
+66 MCQ CS D 1 1/3
+76 MCQ CS C 1 1/3
+86 MCQ CS B 1 1/3
+96 MCQ CS C 1 1/3
+10 6 MCQ CS C 1 1/3
+11 6 MSQ CS B; C 10GATE 2021 Answer Key for Computer Science and Information Technology (CS ‐ 2)
+Q. No. Session Question Type    
+MCQ/MSQ/NAT
+Section 
+Name
+Answer 
+Key/Range Marks Negative 
+Marks
+12 6 MSQ CS B; C; D 10
+13 6 MSQ CS D 10
+14 6 MSQ CS A; C; D 10
+15 6 MSQ CS B; D 10
+16 6 NAT CS 1 to 1 10
+17 6 NAT CS 256 to 256 10
+18 6 NAT CS 3 to 3 10
+19 6 NAT CS 2 to 2 10
+20 6 NAT CS 80000 to 
+80000 10
+21 6 NAT CS 698 to 698 10
+22 6 NAT CS 15.00 to 16.00 10
+23 6 NAT CS 15 to 15 10
+24 6 NAT CS 4 to 4 10
+25 6 NAT CS 19 to 19 10
+26 6 MCQ CS B 2 2/3
+27 6 MCQ CS A 2 2/3
+28 6 MCQ CS B 2 2/3
+29 6 MCQ CS D 2 2/3
+30 6 MCQ CS D 2 2/3
+31 6 MCQ CS B 2 2/3
+32 6 MCQ CS B 2 2/3
+33 6 MCQ CS A 2 2/3
+34 6 MCQ CS C 2 2/3GATE 2021 Answer Key for Computer Science and Information Technology (CS ‐ 2)
+Q. No. Session Question Type    
+MCQ/MSQ/NAT
+Section 
+Name
+Answer 
+Key/Range Marks Negative 
+Marks
+35 6 MCQ CS D 2 2/3
+36 6 MCQ CS C 2 2/3
+37 6 MCQ CS B 2 2/3
+38 6 MCQ CS A 2 2/3
+39 6 MCQ CS C 2 2/3
+40 6 MSQ CS A; C; D 20
+41 6 MSQ CS B; C; D 20
+42 6 MSQ CS A; D 20
+43 6 MSQ CS A; B; C 20
+44 6 MSQ CS A; D 20
+45 6 MSQ CS B; C 20
+46 6 MSQ CS A; B 20
+47 6 MSQ CS A; B; C 20
+48 6 NAT CS 4108 to 4108 20
+49 6 NAT CS 60 to 60 20
+50 6 NAT CS 59049 to 
+59049 20
+51 6 NAT CS 8 to 8 20
+52 6 NAT CS 6 to 6 20
+53 6 NAT CS 1.87 to 1.88 20
+54 6 NAT CS 130 to 140 20
+55 6 NAT CS 929 to 929 20
