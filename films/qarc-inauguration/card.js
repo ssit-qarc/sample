@@ -7,12 +7,7 @@
 // The card is a one-spread paper book: a navy cover that opens to printed
 // pages, with the sapling standing up as a cut-out across the gutter.
 // ============================================================
-const INVITE = {
-  day: 'SATURDAY', date: '26 September 2026', time: '11:00 AM',
-  host: 'Department of CSE · SSIT', address: 'Maraluru, Kunigal Road, Tumakuru',
-  presided: 'Presided over by the Principal', welcome: 'All are cordially invited!',
-  cover: 'SAT · 26 SEP 2026 · 11:00 AM'
-};
+// The facts (date, time, venue, presiding line) live in invite.js, shared with the other cut.
 const CARD_PW = 600, CARD_PD = 860;
 const PAGE_X0 = -1890, PAGE_Z0 = -840, PAGE_Y = .6;   // where the sketchbook page lies on the desk once the card is on it
 // The card slides onto the page: until 57.6 s the page, the desk and the camera sit further along x, so the card

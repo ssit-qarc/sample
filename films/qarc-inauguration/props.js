@@ -40,8 +40,9 @@ function flapQuad(G, side, theta) {
 }
 const KRAFT = { front: '#dcb47c', side: '#c49a62', top: '#e6c38f', inside: '#7d5a36', flapIn: '#b98e58', tape: 'rgba(250,244,226,.72)' };
 // progress: draw-on 0..1 (outline first, then the kraft colour). xray: 0..1 turns it into a see-through diagram.
-function drawBox(c, G, { open = 0, progress = 1, xray = 0, inside = null, label = 1 } = {}) {
-  const fill = clamp((progress - .55) / .45, 0, 1) * (1 - xray * .82), line = (id, pts, o = {}) => pencil(c, 'box/' + id, pts, { w: 2.8, progress: clamp(progress / .6, 0, 1), ...o });
+// seq(id) -> 0..1, optional: each line draws on in its own window (one pencil going round the box) instead of all together.
+function drawBox(c, G, { open = 0, progress = 1, xray = 0, inside = null, label = 1, seq = null } = {}) {
+  const fill = clamp((progress - .55) / .45, 0, 1) * (1 - xray * .82), line = (id, pts, o = {}) => pencil(c, 'box/' + id, pts, { w: 2.8, progress: seq ? seq(id) : clamp(progress / .6, 0, 1), ...o });
   const thL = open * Math.PI * .95, thR = open * Math.PI * .6;   // left flap falls open flat; the right flap stops short of lining up with the depth edge
   const top = [G.TL, G.TR, G.BTR, G.BTL], side = [G.TR, G.BTR, G.BFR, G.FR], front = [G.TL, G.TR, G.FR, G.FL];
   const flap = (sideK, th, id) => { const Q = flapQuad(G, sideK, th); const inner = th > Math.PI / 2;
@@ -72,7 +73,7 @@ function drawBox(c, G, { open = 0, progress = 1, xray = 0, inside = null, label 
 
 // ---------------- the coin ----------------
 // angle: rotation about its vertical axis (0 shows the 0 face). spin: 0..1 turns a fast spin into a sphere of both faces.
-function drawCoin(c, x, y, { r = 50, angle = 0, spin = 0, lift = 0, tilt = 0, roll = 0 } = {}) {
+function drawCoin(c, x, y, { r = 50, angle = 0, spin = 0, lift = 0, tilt = 0, roll = 0, shadow = 1 } = {}) {
   c.save(); c.translate(x, y - r - lift); c.rotate(tilt);
   const k = Math.cos(angle), wv = Math.abs(k), face = k >= 0 ? '0' : '1', edge = 9;
   if (spin < 1) { c.save(); c.globalAlpha *= 1 - spin;
@@ -89,11 +90,11 @@ function drawCoin(c, x, y, { r = 50, angle = 0, spin = 0, lift = 0, tilt = 0, ro
     pencil(c, 'coin/sphere', ellPts(0, 0, r, r, 0, 40), { w: 2.2, close: true }); c.restore(); }
   c.restore();
   // shadow on the table
-  c.save(); c.globalAlpha *= .22; c.fillStyle = COL.graphite; c.beginPath(); c.ellipse(x, y + 3, r * (spin > .5 ? 1 : Math.max(.25, Math.abs(Math.cos(angle)))) * 1.05, 7, 0, 0, TAU); c.fill(); c.restore();
+  if (shadow <= 0) return; c.save(); c.globalAlpha *= .22 * shadow; c.fillStyle = COL.graphite; c.beginPath(); c.ellipse(x, y + 3, r * (spin > .5 ? 1 : Math.max(.25, Math.abs(Math.cos(angle)))) * 1.05, 7, 0, 0, TAU); c.fill(); c.restore();
 }
 
 // ---------------- yarn ----------------
-function drawYarn(c, x, y, { r = 58, rot = 0, seed = 1, glow = 0 } = {}) {
+function drawYarn(c, x, y, { r = 58, rot = 0, seed = 1, glow = 0, shadow = 1 } = {}) {
   c.save(); c.translate(x, y - r);
   if (glow > 0) { const g = c.createRadialGradient(0, 0, r * .5, 0, 0, r * 2.2); g.addColorStop(0, alpha(COL.orange, .35 * glow)); g.addColorStop(1, alpha(COL.orange, 0)); c.fillStyle = g; c.beginPath(); c.arc(0, 0, r * 2.2, 0, TAU); c.fill(); }
   c.fillStyle = '#3e6394'; c.beginPath(); c.arc(0, 0, r, 0, TAU); c.fill();
@@ -103,7 +104,7 @@ function drawYarn(c, x, y, { r = 58, rot = 0, seed = 1, glow = 0 } = {}) {
     c.beginPath(); c.ellipse(Math.cos(a + 1.57) * off, Math.sin(a + 1.57) * off, r * 1.02, r * e, a, 0, TAU); c.stroke(); }
   c.globalAlpha = .3; c.fillStyle = '#ffffff'; c.beginPath(); c.ellipse(-r * .35, -r * .4, r * .32, r * .2, -.6, 0, TAU); c.fill(); c.restore();
   pencil(c, 'yarn/' + seed, ellPts(0, 0, r, r, 0, 44), { w: 2.4, color: '#1b2d47', close: true }); c.restore();
-  c.save(); c.globalAlpha *= .2; c.fillStyle = COL.graphite; c.beginPath(); c.ellipse(x, y + 2, r * .95, 8, 0, 0, TAU); c.fill(); c.restore();
+  if (shadow > 0) { c.save(); c.globalAlpha *= .2 * shadow; c.fillStyle = COL.graphite; c.beginPath(); c.ellipse(x, y + 2, r * .95, 8, 0, 0, TAU); c.fill(); c.restore(); }
 }
 // The navy thread: a clean continuous coloured-pencil line.
 function strand(c, id, pts, { w = 3.2, color = COL.navy, progress = 1, al = 1 } = {}) { pencil(c, 'strand/' + id, pts, { w, color, progress, al, pressure: [[0, .7], [.5, 1], [1, .7]] }); }

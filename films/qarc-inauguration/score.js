@@ -6,7 +6,8 @@
 // the coin, the entangled plucks in both ears, the network pulses, the water).
 // The theme is stated in fragments until the logo, then whole at the invitation.
 // ============================================================
-function score(ac, t0, dest) {
+// more(kit): optional extra cues from another cut of the film, drawn with the same instruments into the same mix.
+function score(ac, t0, dest, more) {
   const END = 75, LEVEL = 2.05, master = ac.createGain(); master.gain.setValueAtTime(LEVEL, t0); master.gain.setValueAtTime(LEVEL, t0 + END - 1.6); master.gain.linearRampToValueAtTime(0, t0 + END - .05);
   // gentle bus compression, then a fast limiter so the loudest hits stay under full scale on phones and laptops
   const comp = ac.createDynamicsCompressor(); comp.threshold.value = -18; comp.knee.value = 12; comp.ratio.value = 2.4; comp.attack.value = .012; comp.release.value = .25;
@@ -155,4 +156,5 @@ function score(ac, t0, dest) {
   for (let i = 0; i < 10; i++) noise(67.6 + i * .13, .1, .02, { f: 4000, q: 1.2, seed: 150 + i, pan: -.3, send: .05 });                      // the tagline is written
   [72, 76, 79, 84].forEach((n, k) => piano(n, 69.1 + k * .05, 2, .11, -.1)); bell(91, 69.15, .06, 0);                                           // Be there!
   strings([48, 55, 60, 64, 67, 72], 72.5, 1.4, .03); [48, 55, 64, 67, 72, 76].forEach((n, k) => piano(n, 72.5 + k * .03, 2.4, .09, -.2 + k * .08)); bell(84, 72.55, .05, .2);
+  if (typeof more === 'function') more({ ac, at, out, osc, env, noise, sweep, piano, musicBox, pizz, strings, bell, thump, clink, blip, plink, hz, B, BEAT, END });
 }

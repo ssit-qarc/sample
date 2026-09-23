@@ -89,11 +89,16 @@ function tubeOutline(center, w0, w1) {
 }
 
 // The cel: contours, fur marks and face as pencil strokes with semantic ids.
-function catRaw(q) {
-  const strokes = [], add = (id, points, width = 2.2, opacity = 1, extra = {}) => strokes.push({ id, points, width: width * CAT_LINE, opacity: Math.min(1, opacity * 1.08), pressure: PRESS, ...extra });
+const catStrokeAdder = strokes => (id, points, width = 2.2, opacity = 1, extra = {}) => strokes.push({ id, points, width: width * CAT_LINE, opacity: Math.min(1, opacity * 1.08), pressure: PRESS, ...extra });
+function catTailStrokes(q, add) {
   const tube = tubeOutline(q.tail, 14, 7);
   add('tail/l', tube.left, 2, .95); add('tail/r', tube.right.slice().reverse(), 2, .95);
   for (let i = 0; i < 4; i++) { const u = .25 + i * .17, a = tube.path.at(u), w = 12 - i * 1.4; add('tail/ring/' + i, [[a.p[0] - a.tangent[1] * w, a.p[1] + a.tangent[0] * w], [a.p[0] + a.tangent[0] * 3, a.p[1] + a.tangent[1] * 3], [a.p[0] + a.tangent[1] * w, a.p[1] - a.tangent[0] * w]], 2.2, .8, { color: COL.stripe }); }
+}
+// q.noTail leaves the tail out of the body drawing, for a film that draws the tail as its own cel behind it (catTailCel).
+function catRaw(q) {
+  const strokes = [], add = catStrokeAdder(strokes);
+  if (!q.noTail) catTailStrokes(q, add);
   add('torso', q.torso.slice(0, 8), 2.5, 1); add('torso/back', q.torso.slice(7).concat([q.torso[0]]).slice(0, 8), 2.5, 1);
   add('haunch', q.haunch, 2.1, .9); add('hindPaw', q.hindPaw, 1.9, .85);
   add('legL', q.legL, 2.2, 1, { corner: 1.2 }); add('legR', q.legR, 2.2, 1, { corner: 1.2 });
@@ -133,16 +138,18 @@ function chestPatch(q) { const [a, b] = chestAxis(q), dx = b[0] - a[0], dy = b[1
   for (let i = 0; i < 12; i++) { const t = i / 12 * TAU, u = .5 - Math.cos(t) * .62, w = Math.sin(t) * (18 + 10 * Math.sin(Math.PI * clamp(u, 0, 1))); pts.push([a[0] + dx * u + nx * w, a[1] + dy * u + ny * w]); } return pts; }
 
 // Fills, shading and painted eyes around the pencil cel.
+const catTailPath = q => curvePath(tubeOutline(q.tail, 14, 7).closed, true, 1.1);
+const catTailShade = (g, tailP, box = [80, -260, 200, 280]) => { g.save(); g.clip(tailP); graphite(g, tailP, box, { seed: 12, color: COL.furShade, tone: () => .35, direction: () => .4, softness: .6 }); g.restore(); };
 function catFills(g, q) {
-  const tube = tubeOutline(q.tail, 14, 7), tailP = curvePath(tube.closed, true, 1.1);
+  const tailP = q.noTail ? null : catTailPath(q);
   const torsoP = curvePath(q.torso, true, 1.3), haunchP = curvePath([...q.haunch, q.haunch[0]], true, 1.3), headP = curvePath(q.head, true, 1.3);
   const earLP = curvePath(q.earL, true, .9), earRP = curvePath(q.earR, true, .9);
   const legP = L => curvePath(L, true, 1.2);
   g.fillStyle = COL.fur;
-  for (const p of [tailP, torsoP, haunchP]) g.fill(p);
+  for (const p of [tailP, torsoP, haunchP]) if (p) g.fill(p);
   // colour-pencil shade on the side away from the light (top left), fixed to the drawing
   g.save(); g.clip(torsoP); graphite(g, torsoP, [-80, -190, 200, 200], { seed: 11, color: COL.furShade, tone: (x, y) => clamp(.1 + (x + 40) / 260 + (y + 100) / 420, 0, .75), direction: () => 1.05, softness: .6 }); g.restore();
-  g.save(); g.clip(tailP); graphite(g, tailP, [80, -260, 200, 280], { seed: 12, color: COL.furShade, tone: () => .35, direction: () => .4, softness: .6 }); g.restore();
+  if (tailP) catTailShade(g, tailP);
   g.fillStyle = COL.cream; g.fill(curvePath(chestPatch(q), true, 1.5));
   for (const L of [q.legL, q.legR]) { g.fillStyle = COL.fur; g.fill(legP(L)); g.fillStyle = alpha(COL.cream, .9); g.fill(curvePath([L[3], L[4], L[5], L[6], lerp2(L[6], L[7], .14), lerp2(L[3], L[2], .55)], true, 1)); }   // white socks stay on the paw
   g.fillStyle = COL.fur; g.fill(earLP); g.fill(earRP);
@@ -153,13 +160,17 @@ function catFills(g, q) {
   g.fillStyle = COL.cream; g.fill(curvePath([q.facePt([-30, 10]), q.facePt([-18, 34]), q.facePt([0, 42]), q.facePt([18, 34]), q.facePt([30, 10]), q.facePt([0, 12])], true, 1.4));
 }
 function catFace(g, q) {
-  const e = q.eyes, open = e === 'open' || e === 'wide' || e === 'wink' || e === 'dizzy';
+  const e = q.eyes, open = e === 'open' || e === 'wide' || e === 'wink' || e === 'dizzy' || e === 'half';
   const eye = (c, id, which) => {
     if (e === 'wink' && which === 'R') return; const [x, y] = q.facePt(c), rx = 15 * q.eyeScale * (e === 'wide' ? 1.15 : 1), ry = 17 * q.eyeScale * (e === 'wide' ? 1.18 : 1);
     g.save(); g.translate(x, y); g.rotate(q.tilt); g.fillStyle = COL.iris; g.beginPath(); g.ellipse(0, 0, rx, ry, 0, 0, TAU); g.fill();
     g.fillStyle = alpha('#ffffff', .35); g.beginPath(); g.ellipse(-rx * .15, ry * .35, rx * .7, ry * .45, 0, 0, TAU); g.fill();
     if (e === 'dizzy') { g.strokeStyle = COL.pupil; g.lineWidth = 2.2; g.beginPath(); for (let a = 0; a < 5.2 * Math.PI; a += .2) { const r = 1 + a * 1.35; g.lineTo(Math.cos(a + (which === 'L' ? 0 : 2)) * r * .95, Math.sin(a + (which === 'L' ? 0 : 2)) * r); } g.stroke(); }
     else { const [lx, ly] = q.look, pw = 5.5 * q.pupil, ph = 12.5 * Math.min(1.1, q.pupil); g.fillStyle = COL.pupil; g.beginPath(); g.ellipse(lx * 5, ly * 5, pw, ph, 0, 0, TAU); g.fill(); g.fillStyle = '#fffdf6'; g.beginPath(); g.arc(lx * 5 - 4, ly * 5 - 6, 3.6, 0, TAU); g.fill(); g.beginPath(); g.arc(lx * 5 + 3, ly * 5 + 5, 1.5, 0, TAU); g.fill(); }
+    if (e === 'half') {   // the in-between drawing of a blink: the upper lid has come halfway down over the eye
+      const lid = ry * .12; g.save(); g.beginPath(); g.ellipse(0, 0, rx + 1.6, ry + 1.6, 0, 0, TAU); g.clip(); g.fillStyle = COL.fur; g.beginPath(); g.moveTo(-rx - 3, -ry - 3); g.lineTo(rx + 3, -ry - 3); g.lineTo(rx + 3, lid); g.quadraticCurveTo(0, lid + ry * .34, -rx - 3, lid); g.fill(); g.restore();
+      g.strokeStyle = COL.graphite; g.globalAlpha = .9; g.lineWidth = 2.4; g.beginPath(); g.ellipse(0, 0, rx, ry, 0, .08 * Math.PI, .92 * Math.PI); g.stroke(); g.globalAlpha = 1;
+      g.lineWidth = 2.8; g.beginPath(); g.moveTo(-rx - .5, lid - 1); g.quadraticCurveTo(0, lid + ry * .34, rx + .5, lid - 1); g.stroke(); g.restore(); return; }
     g.strokeStyle = COL.graphite; g.lineWidth = 2.4; g.globalAlpha = .9; g.beginPath(); g.ellipse(0, 0, rx, ry, 0, 0, TAU); g.stroke(); g.globalAlpha = 1;
     g.lineWidth = 2.6; g.beginPath(); g.ellipse(0, 0, rx + .5, ry + .5, 0, Math.PI * 1.12, Math.PI * 1.88); g.stroke(); g.restore(); };
   if (open) { eye(CAT_FACE.eyeL, 'eyeL', 'L'); eye(CAT_FACE.eyeR, 'eyeR', 'R'); }
@@ -187,6 +198,12 @@ function catBlend(a, b, u) {
   const o = {}; for (const k of ['torso', 'legL', 'legR', 'haunch', 'hindPaw', 'tail', 'head', 'earL', 'earR']) o[k] = morphPoints(a[k], b[k], u);
   const near = u < .5 ? a : b; const faceA = a.facePt, faceB = b.facePt;
   return { ...near, ...o, look: [lerp(a.look[0], b.look[0], u), lerp(a.look[1], b.look[1], u)], tilt: lerp(a.tilt, b.tilt, u), facePt: r => lerp2(faceA(r), faceB(r), u) };
+}
+// The tail alone, fill and pencil, in the cat's local units: a film that sways the tail draws it behind a q.noTail body drawing.
+// One cel id for every tail drawing keeps the grain of the marks with the tail as it bends.
+function catTailCel(g, tail, box = [20, -330, 330, 370]) {
+  const q = { tail }, tailP = catTailPath(q); g.fillStyle = COL.fur; g.fill(tailP); catTailShade(g, tailP, box);
+  const strokes = []; catTailStrokes(q, catStrokeAdder(strokes)); drawCel(g, compileCel({ strokes }, { id: 'cat/tail' }), { material: 'pencil', color: COL.graphite });
 }
 function drawCat(c, id, pose, { x = 0, y = 0, scale = 1, flip = 1, rot = 0, al = 1, ghost = null } = {}) {
   const s = catSprite(id, pose, 'pencil', ghost); c.save(); c.translate(x, y); c.rotate(rot); c.scale(scale * flip, scale); c.globalAlpha *= al;
